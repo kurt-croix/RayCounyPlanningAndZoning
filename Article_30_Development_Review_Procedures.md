@@ -30,6 +30,39 @@ Applications required under this Article must be submitted on forms and in such 
 ### I. Action by Review and Decision-Making Bodies
 Review bodies may recommend and decision-making bodies may modify or allow amendments to the application if the effect of the modifications or amendments is to allow a less intensive use or zoning district than indicated in the application or to reduce the impact of the development or to reduce the amount of land area included in the application. (See [Zoning District Hierarchy, Article 40.1](#article-40-base-zoning-districts))
 
+**Figure 30-1: Review and Approval Procedures Summary**
+
+|  |  | Review and Decision-Making Bodies |
+| --- | --- | --- |
+| Procedure | Article No. | Staff/TRC | BZA | PZC | CC |
+| ZONING REGULATIONS Text Amendments | 30.2 | R | - | R | DM |
+| Zoning District Map Amendments | 30.3 | R | - | R | DM |
+| Minor Subdivision | 30.5 | R | - | R | DM |
+| Preliminary Plat |  | R | - | DM | - |
+| Final Plat |  | R | - | R | DM |
+| Major Subdivision | 30.6 |  |  |  |  |
+| Preliminary Plat |  | R | - | R | DM |
+| Engineering and Construction Plans |  | DM | - | - | - |
+| Final Plat |  | R | - | R | DM |
+|  |  |  |  |  |  |
+| PUD Concept Plan | 30.8 | R | - | R | DM |
+| CD Concept Plan | 30.7 | R | - | R | DM |
+| Final CD Plan and Plat | 30.7 | R | - | R | DM |
+| Final PUD Plan and Plat | 30.8 | R | - | R | DM |
+| Conditional Use Permits | 30.9 | R | - | R | DM |
+| Variances | 30.11 | R | DM | - | - |
+| Vacations | 30.12 | R | - | R | DM |
+| Written Interpretations | 30.13 | DM | - | - | - |
+| Appeals of Administrative Decisions | 30.14 | - | DM | - | - |
+
+**Legend:**
+- Staff = Planning & Zoning Administrator 
+- BZA = Board of Zoning Adjustment
+- PZC = Planning & Zoning Commission 
+- CC = County Commission
+- R = Review Body (Review and Recommendation)
+- DM = Decision-Making Body (Final Action)
+
 ### J. Inaction by Review and Decision-Making Bodies
 [*Inaction procedures*]
 
@@ -135,11 +168,91 @@ A Major Subdivision refers to a reconfiguration of land that contains any zoning
 
    c. **Sanitary Sewer Approval** - In instances where seven or more lots are being created that are less than 5 acres or any expansion of three or more lots less than 5 acres in an existing subdivision, written approval from the [Missouri Department of Natural Resources (DNR)](https://dnr.mo.gov/) must be submitted at the time of application. ([Missouri Clean Water Commission Regulation 10.CSR.20-6.030](https://www.sos.mo.gov/cmsimages/adrules/csr/current/10csr/10c20-6.pdf))
 
+**Figure 30.6-1: Information Required on All Preliminary Plats**
+
+| (1) | The proposed name of the subdivision. The name shall not duplicate or too closely resemble the name or names of an existing subdivision. |
+| --- | --- |
+| (2) | The location of the boundary lines of the subdivision and reference to the Section or quarter Section lines. (Legal Description) |
+| (3) | The names and addresses of the developer or owner and the engineer or land surveyor who prepared the plat and date of preparation located in the lower right corner of the plat.* |
+| (4) | Scale of the plat, on inch equals 100 feet or larger. |
+| (5) | North arrow. |
+| (6) | Vicinity map with major streets labeled. |
+| (7) | Existing Conditions: |
+|  | a. Location, width and name of platted streets or other public ways, railroads and utility rights-of-way, parks and other public open spaces and permanent buildings in or within 100 feet of the proposed subdivision. The Planning and Zoning Administrator shall be authorized to reduce the 100-foot distance requirement if it is determined that such reduced distance will provide adequate information. |
+|  | b. All existing sewers, water mains, gas mains, culverts or other underground installations in or within 100-feet of the proposed subdivision, with pipe size and manholes, grades and location. The Planning and Zoning Administrator shall be authorized to reduce the 100-foot distance requirement if it is determined that such reduced distance will provide adequate information. |
+|  | c. Names of adjacent subdivisions, together with arrangements of streets and lots. |
+|  | d. Topography, unless specifically waived, with contour intervals of not more than twenty feet, referred to U.S.G.S. datum. Where the ground is too flat for contours, spot elevations at 100-foot distances may be requested. |
+|  | e. Location of water courses, bridges, ponds, lakes and such other features as may be pertinent to the subdivision. |
+|  | f. Current zoning classification. |
+|  | g. On all subdivisions the boundaries and elevations of the 100-year floodplains along drainage ways included in the official Flood Insurance Study (F.I.S.) for the County shall be shown. Source document shall be noted. |
+|  | i. The location of any uncovered existing wells. |
+| (8) | The general arrangements of lots and their approximate size and dimensions. |
+| (9) | Front building setback lines. |
+| (10) | Location and width of proposed streets, alleys and pedestrian ways, trail easements and easements to accommodate local flooding and along major drainage ways to accommodate 100-year flooding. |
+| (11) | The general plan of sewage disposal, water supply and drainage, including a map showing the drainage area of each major drainage way in which the subdivision is located. |
+| (12) | Location and size of proposed parks, playgrounds, churches, school sites or other special uses of land to be considered for reservation or dedication for public use. |
+| (13) | General layout of adjacent property within 100-feet to show how streets and other public facilities in the proposed subdivision relate to the adjacent property. The Planning and Zoning Administrator shall be authorized to reduce the 100-foot distance requirement if it is determined that such reduced distance will provide adequate information. |
+| (14) | Approximate gradient of streets. |
+| (15) | Stages of development if the total area is not proposed to be developed as a single unit. |
+| (16) | Proper approval from the proper highway authorities for driveway permits and entrance way permits, acceptance of water meters from appropriate water districts. |
+
 ### B. Engineering and Construction Plans
 [*Engineering and construction plan requirements*]
 
 ### C. Final Plats
 [*Final plat procedures and requirements*]
+
+**Figure 30.6-2: Information Required on All Final Plats**
+
+| (1) | Name of subdivision, not to duplicate or too closely resemble the name of any existing subdivision |
+| --- | --- |
+| (2) | Location of section, township, range, county and state, including the descriptive boundaries of the subdivision based on an accurate traverse, giving angular and linear dimensions which must be mathematically correct. The allowable error of closing on any portion of the plat shall be one foot in 5,000. "Legal Description" |
+| (3) | The location of existing monuments or benchmarks shall be shown and described on the final plat. Location of such monuments shall be shown in reference to existing official monuments or the nearest established street lines, including bearings and distances to such reference points or monuments |
+| (4) | The location of lots, streets, public highways, alleys, parks and other features, with accurate dimensions in feet and decimals of feet with the length of radii on all curves, and other information necessary to reproduce the plat on the ground. |
+| (5) | Lot numbers and block numbers or letters clearly shown in the center of the block. |
+| (6) | The locations, widths and names of all streets and alleys and locations, widths and purposes of all easements to be dedicated. |
+| (7) | Boundary lines and description of the boundary lines of any area other than streets and alleys, which are to be dedicated or reserved for public use. |
+| (8) | Building setback lines along the front and side lot lines where abutting streets with dimensions. |
+| (9) | On subdivisions the boundaries and flood elevations of the 100-year floodplains along all drainage ways designated on the official Flood Insurance Study (F.I.S.) for the county. (i.e. FIRM Map) |
+| (10) | Specific notes regarding floodplain elevation source, current zoning. |
+| (11) | Name, signature and seal of the registered land surveyor who prepared the plat and the survey, and date of preparation located in the lower right corner of the plat. |
+| (12) | Scale of the plat (scale to be shown graphically and in feet per plat scale inch), date of preparation and north arrow. |
+| (13) | Statement dedicating all easements, streets, alleys, trails and all other public areas not previously dedicated. |
+| (14) | Proof that all property taxes on said land are paid or that assurance for payment are guaranteed with the filing of the final plat. |
+| (15) | The following certificates, which may be combined where appropriate: |
+|  | a. A certificate signed and acknowledged by all parties having any record, title, or interest in the land subdivided, and consented to the preparation and recording of said subdivision map. |
+|  | b. A certificate signed and acknowledged as above, dedicating or reserving all parcels of land shown on the final plat and intended for any public or private use including easements, and those parcels which are intended for the exclusive use of the lot owners of the subdivision, their licensees, visitors, tenants, and servants. |
+|  | c. The acknowledgment of a notary in the following or similar form: |
+|  | State of ______, County of ______, SS. |
+|  | Be it remembered that on this _____ day of ______, _____, before me, a notary public in and for said County and State, came ______ to me personally known to be the same person who executed the foregoing instrument of writing and duly acknowledged the execution of same. In testimony whereof, I have hereunto set my hand and affixed my notary seal the day and year above written. |
+|  | (SEAL) |
+|  | _________________________ |
+|  | Notary Public |
+|  | My Commission Expires ______ |
+|  | In testimony whereof: the undersigned have hereunto set their hands _____ day of __________, _____. |
+|  | ______________________________ _____________________________ |
+|  | Signature                        Signature |
+|  | d. A certificate signed by the registered land surveyor responsible for the survey and final map, to read, but not limited to, as follows: |
+|  | I HEREBY CERTIFY; |
+|  | That this survey made by me or under my direct supervision and that said survey meets or exceeds the current Minimum Standards for Property Boundary Surveys as established by the Department of Natural Resources, Division of Geology and Land Survey of the State of Missouri. |
+|  | ___________________ _________________ _____________ |
+|  | (Name and RLS No.)   (Signature)      (Date) |
+|  | Submission to and consideration of the County Commission in the following or similar form: |
+|  | This plat of ____________ has been submitted to and approved by the Ray County Planning Commission this _________ day of ____________, 200_. |
+|  | ____________________________________ ____________________________ |
+|  | Chairman, Planning and Zoning Commission Secretary, Planning and Zoning |
+|  | These easements and rights-of-way were accepted by the County Commission of Ray County, Missouri, this _____ day of ___________, 200_, Resolution ___-______. |
+|  | ________________________________ ____________________________ |
+|  | Presiding Commissioner |
+|  | ________________________________ Attest:_______________________ |
+|  | Western District Commissioner     County Clerk |
+|  | ________________________________ STATE OF MISSOURI |
+|  | Eastern District Commissioner     COUNTY OF RAY }SS |
+|  | f. A blank space for noting entry on the transfer record in the following form: |
+|  | This is to certify that this instrument was filed for record in the Recorder of Deeds Office on the _____ day of __________, 2002. In Cabinet________, Sleeve _______ at ______ am/pm o'clock. |
+|  | ___________________________ |
+|  | Recorder of Deeds |
+| (16) | A copy of any restrictive covenants, Road Improvement Fee, Developers agreement, pond or driveway maintenance or other agreements applicable to the subdivision should be recorded with the Final Plat. |
 
 ## 30.7 Planned Unit Developments
 
@@ -158,12 +271,57 @@ PUDs shall be processed in 5 stages: Preapplication Conference; Concept Plan; Re
 
 3. **PUD Concept Plan** - A PUD Concept Plan is a generalized land use plan for the entire area proposed to be included within a PUD. The purpose of a PUD Concept Plan is to allow early review of a proposed PUD before substantial technical planning work has been undertaken.
 
+**Figure 30.8-1: Information Required with All PUD Concept Plans**
+
+| 1. | Name of the project, address, boundaries, date, north arrow and scale of the plan. |
+| --- | --- |
+| 2. | Name and address of the owner of record, developer, and seal of the engineer, surveyor, architect or landscape architect who prepared the development plan, and date of preparation located in the lower right-hand corner. |
+| 3. | Name and address of all owners of record of all property within 600 feet of the property in question. |
+| 4. | All existing lot lines, easements, and rights-of-way. Include area in acres or square feet, abutting land uses and structures. |
+| 5. | The general location of all existing and proposed streets adjacent to and within the development. |
+| 6. | The location of steep slopes, significant stands of trees; creeks, watercourses and drainage ways, floodplains, and any environmentally sensitive features. |
+| 7. | Zoning district boundaries adjacent to the site's perimeter shall be drawn and identified on the plan. |
+| 8. | The full legal description of the boundaries of the property or properties to be included in the Planned Unit Development. |
+| 9. | A generalized summary of land use arrangements within the PUD, showing types of uses and intensities proposed within areas of the PUD. |
+| 10. | A vicinity map showing the general arrangement of streets within an area of 1,000 feet from the boundaries of the proposed Planned Unit Development. |
+| 11. | Evidence that the applicant has sufficient control over the tract to effectuate the proposed plan, including a statement of all the ownership and beneficial interests in the tract of land and the proposed development. |
+| 12. | If the PUD calls for construction over a period of years, a schedule showing the proposed time and sequence within which the applications for final approval of all Articles of the Planned Unit Development are intended to be filed shall be submitted. |
+| 13. | A written statement by the applicant shall be submitted setting forth the reasons why, in his or her opinion, a Planned Unit Development would be in the public interest and would be consistent with the intent of Zoning Regulations and the Comprehensive Plan. |
+| 14. | A written summary of the project proposal, including the following: |
+|  | Gross area of PUD |
+|  | Number of dwelling units and density |
+|  | Amount of nonresidential floor area and floor area ratio |
+|  | Building coverage |
+|  | Common open space |
+|  | Natural features to be preserved |
+|  | Recreation, open space and other amenities |
+|  | Proposed building materials and architectural styles |
+
 ## 30.9 Conditional Use Permits
 
 The purpose of a Conditional Use Permit is to allow for acceptable uses in the Zoning Regulations; however, additional review and conditions are necessary for permitting the use. The use is restricted to the individual applicant and is not transferable to another. The County Commission may make specific requirements that are not explicitly detailed in the Zoning Regulations, as deemed necessary for the activity to be conducted on a given parcel of land. Conditional Use Permits are not transferable to another person or parcel of land.
 
 ### A. Application Filing
 [*Application filing requirements including water supply approval, sanitary sewer approval, road district approval, MoDOT approval, legal description, site plan, and business plan*]
+
+**Figure 30.9-1: Information Required on All Conditional Use Permit Site Plans**
+
+| 1. | Project address, boundaries, date, north arrow and scale of the plan. |
+| --- | --- |
+| 2. | Name and address of the owner of record, developer, and name, address and phone number of plan preparer, if different. |
+| 3. | All existing lot lines, easements, and rights-of-way. Include area in acres or square feet, abutting land uses and structures. |
+| 4. | The location and use of all existing and proposed buildings and structures within the development. Include all dimensions of height and floor area, and show all exterior entrances and all anticipated future additions and alterations. Show typical elevations and building materials. |
+| 5. | The location of all present and proposed public and private ways, driveways, sidewalks, ramps, curbs and fences. Location, type, and screening details for all waste disposal containers shall also be shown. |
+| 6. | Location of required parking areas including parking stalls, setbacks and loading and service areas. |
+| 7. | The location, height, size, materials, and design of all proposed signage. |
+| 8. | The location of all present and proposed utility systems including: |
+|  | -- sewer or septic system; |
+|  | -- water supply system; |
+|  | -- telephone, cable and electrical systems; and |
+|  | -- storm drainage system including existing and proposed drain lines, culverts, catch basins, head walls, end walls, hydrants, manholes, and drainage swells. |
+| 9. | Existing and proposed topography shown at not more than 20-foot contour intervals. All elevations shall refer to USGS datum. |
+| 10. | Zoning district boundaries adjacent to the site's perimeter shall be drawn and identified on the plan. |
+| 11. | Traffic flow patterns within the site, entrances and exits, loading and unloading areas, curb cuts on the site and within 100 feet of the site. |
 
 ### B. Approval Criteria
 A Conditional Use Permit shall not be approved unless the County Commission determines, based directly upon the particular evidence presented, that all of the following conditions exist:
