@@ -3,7 +3,7 @@
 ## 30.1 General
 
 ### A. Authority to File Applications
-[*Authority section not fully included in source document*]
+Applications for development approval under these Zoning Regulations may be filed by: the property owner of record, a purchaser under a contract for sale from the record owner, or the duly authorized agent of the record property owner. County officials shall be authorized to require proof of legal authority to take the action sought.
 
 ### B. Form of Application
 Applications required under this Article must be submitted on forms and in such numbers as required by the official responsible for accepting the application.
@@ -154,10 +154,6 @@ A Major Subdivision refers to a reconfiguration of land that contains any zoning
 
 ## 30.7 Planned Unit Developments
 
-[*Note: Article 30.7 content was referenced as 30.8 in source document*]
-
-## 30.8 Planned Unit Developments
-
 A Planned Unit Development (PUD) is a type of overlay zoning district and a type of development plan that primarily address the issues of mixed-use development. PUD zoning districts are inextricably linked to PUD plans in that no rights of development apply to a PUD zoning designation other than those of the approved PUD plan.
 
 ### A. Overview of Procedure
@@ -169,18 +165,18 @@ PUDs shall be processed in 5 stages: Preapplication Conference; Concept Plan; Re
 
 3. **PUD Concept Plan** - A PUD Concept Plan is a generalized land use plan for the entire area proposed to be included within a PUD. The purpose of a PUD Concept Plan is to allow early review of a proposed PUD before substantial technical planning work has been undertaken.
 
-**Figure 30.8-1: Information Required with All PUD Concept Plans**
+**Figure 30.7-1: Information Required with All PUD Concept Plans**
 
 **See: [PUD Concept Plan Requirements](tables/pud_concept_plan_requirements.md)**
 
-## 30.9 Conditional Use Permits
+## 30.8 Conditional Use Permits
 
 The purpose of a Conditional Use Permit is to allow for acceptable uses in the Zoning Regulations; however, additional review and conditions are necessary for permitting the use. The use is restricted to the individual applicant and is not transferable to another. The County Commission may make specific requirements that are not explicitly detailed in the Zoning Regulations, as deemed necessary for the activity to be conducted on a given parcel of land. Conditional Use Permits are not transferable to another person or parcel of land.
 
 ### A. Application Filing
 [*Application filing requirements including water supply approval, sanitary sewer approval, road district approval, MoDOT approval, legal description, site plan, and business plan*]
 
-**Figure 30.9-1: Information Required on All Conditional Use Permit Site Plans**
+**Figure 30.8-1: Information Required on All Conditional Use Permit Site Plans**
 
 **See: [Conditional Use Permit Site Plan Requirements](tables/conditional_use_permit_site_plan_requirements.md)**
 
@@ -197,7 +193,7 @@ If a building permit for an approved Conditional Use has not been issued within 
 
 *Note: The CUP Lapse of Approval provisions do not apply to uses that do not require a building permit (e.g. a plant nursery).*
 
-## 30.10 Sign Permits
+## 30.9 Sign Permits
 
 This Article sets out the procedures for review and approval of Sign Plans and Sign Permits for signs requiring permits under [Article 120](#article-120-signs).
 
@@ -209,7 +205,7 @@ This Article sets out the procedures for review and approval of Sign Plans and S
 1. **Applicability** - Signs identified with a "P" in Table 120-1 shall be erected, installed or created only in accordance with a duly issued and valid sign permit.
 2. **Lapse of Approval/Inspections** - If an approved sign has not been erected or otherwise put in place within 6 months of the issuance of the Sign Permit, the Sign Permit shall lapse and be of no further effect.
 
-## 30.11 Variances
+## 30.10 Variances
 
 When an applicant has a condition of development that requires a variance from the requirements of these Zoning Regulations, an application may be submitted to request a Variance from the Board of Zoning Adjustment.
 
@@ -229,7 +225,7 @@ The Board of Zoning Adjustment shall hold a public hearing on the proposed Varia
 ### E. Appeals
 Any person aggrieved by a decision of the Board of Zoning Adjustment on a Variance application may present to the Circuit Court of Ray County a petition, duly verified, setting forth that such decision is illegal, in whole or in part, specifying the grounds of the illegality. Such petition shall be presented to the Court within 30 days of the date of the Board of Zoning Adjustment's decision on the matter.
 
-## 30.12 Vacations
+## 30.11 Vacations
 
 This Article sets out the required review and approval procedures for vacations of any street, avenue, road, alley, public easement, ingress/egress, utility easement, public square or common area included as part of a recorded plat, in accordance with [RSMo 71.270](https://revisor.mo.gov/main/OneSection.aspx?section=71.270).
 
@@ -239,7 +235,7 @@ Vacation applications shall be submitted to the Planning and Zoning Department o
 ### B. Recordation
 Upon approval of a Vacation request, a certified copy of the approval shall be recorded in the office of the County Recorder of Deeds. The applicant shall pay any costs.
 
-## 30.13 Written Interpretations
+## 30.12 Written Interpretations
 
 ### A. Application Filing
 Applications for Written Interpretations of the provisions of these Zoning Regulations shall be submitted to the Planning and Zoning Department on forms available from the Planning and Zoning Department.
@@ -250,7 +246,7 @@ Within 30 days of receipt of a complete application for a Written Interpretation
 ### C. Appeals
 Appeals of the Planning and Zoning Administrator's written interpretation may be taken to the Board of Zoning Adjustment in accordance with the procedures of Article 30.14.
 
-## 30.14 Appeals of Administrative Decisions
+## 30.13 Appeals of Administrative Decisions
 
 ### A. Authority
 The Board of Zoning Adjustment shall be authorized to hear and decide appeals where it is alleged there is an error in any order, requirement, decision or determination made by an administrative official in the administration or enforcement of these Zoning Regulations.

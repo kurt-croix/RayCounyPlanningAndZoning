@@ -69,7 +69,7 @@ A Board of Zoning Adjustment is hereby created pursuant to [RSMo. 64.870](https:
 The Board shall consist of 5 residents of the county, including no more than 2 residents of the incorporated area of the county and no more than 1 member of the Planning and Zoning Commission.
 
 ### C. Terms
-[*Terms section not included in source document*]
+The term of each member of the Board of Zoning Adjustment shall be 4 years.
 
 ### D. Removal and Vacancies
 Members of the Board of Zoning Adjustment shall be removable for cause by the County Commission upon written charges and after public hearings. Vacancies shall be filled by the County Commission.
@@ -95,4 +95,13 @@ Appeals of the Board of Zoning Adjustment decisions shall be according to [Artic
 The Planning and Zoning Administrator and other administrative staff shall have all of the powers and duties specifically assigned in these Zoning Regulations or otherwise assigned by the County Commission.
 
 ### B. Technical Review Committee
-A Technical Review Committee (TRC) reviews technical aspects of development, signs or other plans. The Technical Review Committee shall include the following: [*List not included in source document*]
+A Technical Review Committee (TRC) reviews technical aspects of development, signs or other plans. The Technical Review Committee shall include the following:
+
+1. Planning and Zoning Administrator
+2. Planning and Zoning Staff
+3. Building Official
+4. Ray County Road and Bridge Department representative
+5. Ray County Engineer or Public Works representative
+6. Special Road District representatives
+7. Ray County Health Department representative
+8. Other public/quasi-public agency representatives, as required for specific reviews.

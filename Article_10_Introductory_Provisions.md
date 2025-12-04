@@ -108,9 +108,13 @@ The following rules shall apply in the determination of the boundaries of any di
 
 2. Where boundaries approximate street and alley lines or other identifiable property or boundary lines, such lines shall be construed to be the district boundary. Where such boundaries are shown as being within street and alley lines or within identifiable rights-of-way or creeks, the centerline thereof shall be construed to be the district boundary.
 
-3. Where a street, alley or right-of-way is officially vacated or abandoned, the zoning designation of the abutting property shall apply to the centerline of the vacated or abandoned street, alley or right-of-way.
+3. Where a district boundary divides a non-subdivided parcel, the location of the district boundary shall be determined by the use of the scale appearing on the Zoning District Map unless indicated by dimensions.
 
-4. Should any uncertainty remain about the location or meaning of a boundary indicated on the Zoning District Map, the uncertainty shall be resolved by the Planning and Zoning Administrator, whose decision may be appealed to the [Board of Zoning Adjustment](#article-20-review-and-decision-making-bodies).
+4. Map codes or symbols indicating the classification of property on the Zoning District Map apply to the entire area within the district boundaries.
+
+5. Where a street, alley or right-of-way is officially vacated or abandoned, the zoning designation of the abutting property shall apply to the centerline of the vacated or abandoned street, alley or right-of-way.
+
+6. Should any uncertainty remain about the location or meaning of a boundary indicated on the Zoning District Map, the uncertainty shall be resolved by the Planning and Zoning Administrator, whose decision may be appealed to the [Board of Zoning Adjustment](#article-20-review-and-decision-making-bodies).
 
 ## 10.12 Conflicting Provisions
 
