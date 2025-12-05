@@ -128,11 +128,11 @@ Letters in brackets [x] refer to Special Sign Standards of Article 120.8.
 
 ## 120.8 Special Sign Standards
 
-**A. Banners**
+### A. Banners
 
 See Article 120.11 and 120.12.
 
-**B. Billboards and Junior Poster Panels**
+### B. Billboards and Junior Poster Panels
 
 Billboards and Junior Poster Panels (also called as "billboards") shall be allowed only if reviewed and approved as a Conditional Use, pursuant to Article 30.9 and only if they comply with the following standards:
 
@@ -152,55 +152,55 @@ Billboards and Junior Poster Panels (also called as "billboards") shall be allow
 
 8. Billboard and Junior Poster Panels are structures for purposes of the Zoning Regulations, and they shall be subject to setback, height and other zoning district standards.
 
-**C. Building Markers**
+#### C. Building Markers
 
-**1. Residential Districts**
+#### 1. Residential Districts
 
 Building markers in residential districts shall be not larger than 2 square feet in area.
 
-**2. Agricultural/Commercial/Manufacturing Districts**
+#### 2. Agricultural/Commercial/Manufacturing Districts
 
 Building Markers in agricultural, commercial and manufacturing districts shall be not larger than 4 square feet in area.
 
-**D. Entrance Signs**
+#### D. Entrance Signs
 
-**1. Residential Development**
+#### 1. Residential Development
 
 One entrance sign shall be allowed per entrance within a residential development. Entrance signs shall not exceed 24 square feet in area, with a maximum height of 5 feet and a minimum setback of 7.5 feet from all rights-of-way. Entrance signs for residential development shall be allowed in addition to all other allowed signage within a development and shall not be counted in calculating a site's maximum allowed signage.
 
-**2. Nonresidential Development**
+#### 2. Nonresidential Development
 
 Entrance signs for nonresidential developments shall comply with all other applicable standards of this Article and shall be counted in calculating a site's maximum allowed signage.
 
-**E. Identification Signs**
+#### E. Identification Signs
 
-**1. Residential Districts**
+#### 1. Residential Districts
 
 Identification signs in residential districts shall be no larger than 2 square feet in area.
 
 Identification signs may carry only the property address and occupant name. They shall carry no commercial message.
 
-**2. Agricultural/Commercial/Manufacturing Districts**
+#### 2. Agricultural/Commercial/Manufacturing Districts
 
 Identification signs in agricultural, commercial and manufacturing districts shall be not larger than 16 square feet in area. Identification signs may carry only the property address and occupant name. They shall carry no commercial message.
 
-**F. Incidental Signs**
+#### F. Incidental Signs
 
 The size of incidental signs shall not exceed 2 square feet. Incidental signs shall not be counted toward the maximum number of signs permitted on a lot.
 
-**G. Residential Signs**
+#### G. Residential Signs
 
 Residential signs shall carry no commercial message except that they may contain a message identifying a permitted home occupation.
 
-**H. Temporary Signs**
+#### H. Temporary Signs
 
 Temporary signs shall be allowed in addition to all signs allowed under this Article and shall not be counted in calculating a site's maximum allowable signage. Temporary signs shall be subject to the following standards.
 
-**1. Setbacks and Height**
+#### 1. Setbacks and Height
 
 Temporary signs are subject to the setback and height standards of Article 120.10.
 
-**2. Agricultural, Residential and Nonresidential Districts**
+#### 2. Agricultural, Residential and Nonresidential Districts
 
 The following types of temporary signs shall be allowed in all base-zoning districts.
 
@@ -224,7 +224,7 @@ e. Election Signs
 
 Signs pertaining to official Ray County elections (whether for public office or ballot issues) shall be permitted for a period of no more than 90 days before and not more than 30 days following the election. Such signs shall be allowed without a permit.
 
-**I. Wall Signs**
+#### I. Wall Signs
 
 See Article 120.11 and 120.12.
 
