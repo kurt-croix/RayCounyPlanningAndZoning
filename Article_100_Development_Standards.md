@@ -246,3 +246,436 @@ Any attached addition shall comply with county building codes.
 ### H. Garages
 
 Detached garages may be constructed on the same lot as a detached house, provided that such structures comply with all applicable building code requirements.
+
+## 100.4 Off-Street Loading
+
+All commercial, office and industrial uses must provide one or more loading berths in accordance with the following standards:
+
+### 100.4A General Loading Requirements
+
+**a. Number of Required Loading Berths**
+
+| Gross Floor Area (square feet) | Number of Loading Berths |
+|--------------------------------|--------------------------|
+| 5,000 - 19,999                | 1                        |
+| 20,000 - 39,999               | 2                        |
+| 40,000 - 99,999               | 3                        |
+| 100,000 or more               | 4                        |
+
+**b. Size of Loading Berths**
+Each required loading berth must be at least 14 feet wide, 35 feet long and 14 feet high.
+
+**c. Location of Loading Berths**
+Loading berths must be located on the same lot as the use served and must not be located within any required yard area.
+
+**d. Access to Loading Berths**
+Loading berths must be designed with appropriate vehicular access to a public street without requiring the backing of vehicles onto any public street.
+
+### 100.4B Loading Berth Design Standards
+
+**a. Surfacing**
+All loading areas must be improved with a durable, dust-free surface.
+
+**b. Drainage**
+All loading areas must be graded and drained to dispose of surface water.
+
+**c. Screening**
+Loading areas must be screened from view of any public street and adjacent residential uses by means of a fence, wall or landscaping not less than 6 feet in height.
+
+## 100.5 Accessible Parking
+
+All required parking areas must comply with the accessibility requirements of the Americans with Disabilities Act and applicable building codes.
+
+### 100.5A Number of Accessible Spaces
+
+The number of accessible parking spaces required is determined by the total number of parking spaces provided in the parking facility as follows:
+
+| Total Parking Spaces | Required Accessible Spaces |
+|----------------------|----------------------------|
+| 1 to 25             | 1                          |
+| 26 to 50            | 2                          |
+| 51 to 75            | 3                          |
+| 76 to 100           | 4                          |
+| 101 to 150          | 5                          |
+| 151 to 200          | 6                          |
+| 201 to 300          | 7                          |
+| 301 to 400          | 8                          |
+| 401 to 500          | 9                          |
+| 501 to 1000         | 2% of total                |
+| 1001 and over       | 20 plus 1 for each 100 over 1000 |
+
+### 100.5B Van Accessible Spaces
+
+One in every six accessible spaces, but not less than one, must be van accessible.
+
+### 100.5C Location and Design
+
+**a. Location**
+Accessible parking spaces must be located on the shortest accessible route to an accessible entrance.
+
+**b. Size**
+- Standard accessible spaces must be at least 8 feet wide with a 5-foot access aisle
+- Van accessible spaces must be at least 8 feet wide with an 8-foot access aisle
+- Two accessible spaces may share a common access aisle
+
+**c. Marking**
+All accessible spaces must be marked with the International Symbol of Accessibility and "Van Accessible" where required.
+
+## 100.6 Parking Area Design Standards
+
+### 100.6A Surfacing and Drainage
+
+**a. Surfacing**
+All parking areas serving four or more vehicles must be improved with a durable, dust-free surface such as asphalt or concrete.
+
+**b. Drainage**
+All parking areas must be graded and drained to dispose of surface water in a manner that prevents damage to adjacent properties and public streets.
+
+### 100.6B Parking Space and Aisle Dimensions
+
+**a. Parking Space Dimensions**
+
+| Parking Angle | Space Width | Space Length | Aisle Width |
+|---------------|-------------|--------------|-------------|
+| 90 degrees    | 9 feet      | 18 feet      | 24 feet     |
+| 60 degrees    | 9 feet      | 20 feet      | 18 feet     |
+| 45 degrees    | 9 feet      | 20 feet      | 13 feet     |
+| 30 degrees    | 9 feet      | 17 feet      | 12 feet     |
+| Parallel      | 8 feet      | 22 feet      | 12 feet     |
+
+**b. Compact Car Spaces**
+Up to 40% of required parking spaces may be designated for compact cars with dimensions of 8 feet by 16 feet.
+
+### 100.6C Landscaping and Screening
+
+**a. Interior Landscaping**
+Parking areas with more than 30 spaces must provide interior landscaping equal to at least 5% of the total parking area. Interior landscaping must be distributed throughout the parking area with no linear distance of more than 150 feet without landscaping.
+
+**b. Perimeter Landscaping**
+All parking areas must be separated from public streets by a landscaped strip at least 10 feet wide containing trees, shrubs or other landscaping materials.
+
+**c. Screening from Residential Uses**
+Parking areas adjacent to residential uses must be screened by a fence, wall or landscaping not less than 6 feet in height.
+
+### 100.6D Lighting
+
+**a. Illumination Standards**
+All parking areas must be illuminated to provide a minimum maintained illumination of 0.5 foot-candles and maximum of 5.0 foot-candles measured at ground level.
+
+**b. Light Fixture Requirements**
+- Light fixtures must be designed to prevent direct glare on adjacent properties
+- Maximum fixture height is 20 feet
+- All lighting must comply with applicable building and electrical codes
+
+## 100.7 Traffic Impact Analysis
+
+### 100.7A When Required
+
+A traffic impact analysis must be submitted for any proposed development that will generate 500 or more vehicle trips per day or 50 or more vehicle trips during the peak hour.
+
+### 100.7B Content Requirements
+
+The traffic impact analysis must be prepared by a qualified traffic engineer and must include:
+
+**a. Existing Conditions**
+- Analysis of existing traffic volumes and levels of service
+- Identification of existing traffic safety problems
+- Analysis of existing intersection operations
+
+**b. Trip Generation and Distribution**
+- Estimated trip generation based on accepted sources such as the Institute of Transportation Engineers Trip Generation Manual
+- Trip distribution patterns
+- Modal split analysis where applicable
+
+**c. Impact Analysis**
+- Analysis of traffic impacts on the surrounding street system
+- Identification of impacts on intersection operations and levels of service
+- Analysis of traffic safety impacts
+
+**d. Mitigation Measures**
+- Identification of necessary improvements to maintain acceptable levels of service
+- Cost estimates for required improvements
+- Implementation schedule for improvements
+
+### 100.7C Review Process
+
+The traffic impact analysis must be reviewed and approved by the County Engineer prior to approval of any development application.
+
+
+## 100.8 Intersection Visibility
+
+### 100.8A Clear Vision Area
+
+A clear vision area must be maintained at all street intersections. No structure, fence, wall, hedge, or other obstruction to vision between the heights of 30 inches and 10 feet above the average elevation of the center line of the street may be placed or maintained within the clear vision area.
+
+### 100.8B Dimensions
+
+The clear vision area must extend 25 feet along each street from the point of intersection of the right-of-way lines, or such greater distance as may be determined necessary by the County Engineer based on traffic volumes and speeds.
+
+### 100.8C Exceptions
+
+The following are permitted within the clear vision area:
+- Trees with a clear trunk to a height of 10 feet
+- Utility poles and similar structures less than 12 inches in diameter
+- Official traffic control devices
+
+## 100.9 Historic Preservation
+
+### 100.9A Purpose
+
+These standards are intended to preserve and protect structures and areas of historical, architectural, or cultural significance while allowing appropriate development and redevelopment.
+
+### 100.9B Applicability
+
+These standards apply to all properties listed on or eligible for listing on the National Register of Historic Places and properties designated as local historic landmarks.
+
+### 100.9C Certificate of Appropriateness Required
+
+A Certificate of Appropriateness must be obtained prior to:
+- Demolition or removal of any historic structure
+- Exterior alteration of any historic structure
+- New construction on a historic property
+- Installation of signs on historic properties
+
+### 100.9D Review Criteria
+
+Applications for Certificates of Appropriateness will be reviewed based on:
+- The Secretary of the Interior's Standards for Rehabilitation
+- Applicable local design guidelines
+- The historical and architectural significance of the property
+- The compatibility of proposed changes with the historic character
+
+### 100.9E Emergency Repairs
+
+Emergency repairs necessary to maintain structural integrity may be undertaken without a Certificate of Appropriateness, but must be reported to the Planning and Zoning Administrator within 48 hours.
+
+## 100.10 Stormwater Management
+
+### 100.10A General Requirements
+
+All development must comply with applicable federal, state, and local stormwater management regulations and must not increase the rate or volume of stormwater runoff to adjacent properties or public facilities.
+
+### 100.10B Stormwater Management Plan Required
+
+A stormwater management plan prepared by a qualified engineer must be submitted for all developments that:
+- Disturb more than one acre of land
+- Create more than 10,000 square feet of impervious surface
+- Are located within a designated flood hazard area
+
+### 100.10C Plan Content
+
+The stormwater management plan must include:
+- Pre-development and post-development runoff calculations
+- Location and design of stormwater management facilities
+- Maintenance schedule and responsibilities
+- Erosion and sediment control measures during construction
+
+### 100.10D Best Management Practices
+
+Stormwater management must incorporate appropriate best management practices such as:
+- Retention and detention facilities
+- Constructed wetlands
+- Permeable paving materials
+- Bioswales and rain gardens
+- Green roofs where appropriate
+
+## 100.11 Noise Standards
+
+### 100.11A Maximum Noise Levels
+
+The following maximum noise levels must not be exceeded:
+
+| Zoning District | Daytime (7 AM - 10 PM) | Nighttime (10 PM - 7 AM) |
+|-----------------|-------------------------|---------------------------|
+| Residential     | 55 dB(A)               | 45 dB(A)                 |
+| Commercial      | 65 dB(A)               | 55 dB(A)                 |
+| Industrial      | 70 dB(A)               | 60 dB(A)                 |
+
+### 100.11B Measurement Standards
+
+Noise levels must be measured at the property line of the affected property using a sound level meter meeting American National Standards Institute specifications.
+
+### 100.11C Exceptions
+
+The following activities are exempt from these noise standards:
+- Emergency vehicles and equipment
+- Construction activities between 7 AM and 8 PM on weekdays
+- Agricultural activities
+- Public events with proper permits
+
+## 100.12 Outdoor Storage
+
+### 100.12A General Standards
+
+All outdoor storage of materials, equipment, and merchandise must comply with the following standards:
+
+**a. Screening**
+All outdoor storage areas must be screened from view of public streets and adjacent residential properties by means of a fence, wall, or landscaping not less than 6 feet in height.
+
+**b. Setbacks**
+Outdoor storage areas must be setback at least 10 feet from all property lines.
+
+**c. Surfacing**
+Outdoor storage areas must be located on a durable, dust-free surface that provides adequate drainage.
+
+### 100.12B Prohibited Storage
+
+The following may not be stored outdoors:
+- Hazardous materials as defined by applicable regulations
+- Inoperable vehicles (except in licensed auto salvage yards)
+- Solid waste (except in approved containers)
+- Materials in a state of decay or disrepair
+
+## 100.13 Fences and Walls
+
+### 100.13A Height Limitations
+
+| Location                    | Maximum Height |
+|----------------------------|----------------|
+| Front yard                 | 4 feet         |
+| Side and rear yards        | 8 feet         |
+| Commercial/Industrial      | 10 feet        |
+
+### 100.13B Construction Standards
+
+**a. Materials**
+Fences and walls must be constructed of durable materials appropriate to the character of the neighborhood.
+
+**b. Maintenance**
+All fences and walls must be maintained in good repair and appearance.
+
+**c. Safety**
+Electric fences are prohibited except for agricultural uses and with proper permits.
+
+### 100.13C Vision Clearance
+
+Fences and walls within intersection vision clearance areas must comply with the vision clearance requirements of Section 100.8.
+
+
+## 100.14 Telecommunications Facilities
+
+### 100.14A General Standards
+
+All telecommunications facilities must comply with applicable federal and state regulations and the following local standards:
+
+**a. Co-location**
+New telecommunications facilities must demonstrate that co-location on existing towers is not technically feasible.
+
+**b. Screening**
+Ground-mounted equipment must be screened from view by landscaping or architectural features.
+
+**c. Height Restrictions**
+- Residential districts: 150 feet maximum
+- Non-residential districts: 200 feet maximum
+- Additional height may be approved with conditional use permit
+
+### 100.14B Design Standards
+
+**a. Tower Design**
+Towers must be designed to accommodate multiple users and must use the minimum height necessary for adequate coverage.
+
+**b. Security**
+All facilities must be enclosed with security fencing and appropriate warning signs.
+
+**c. Lighting**
+Towers must not be illuminated except as required by the Federal Aviation Administration.
+
+## 100.15 Solar Energy Systems
+
+### 100.15A Roof-Mounted Systems
+
+Roof-mounted solar energy systems are permitted in all zoning districts as an accessory use, subject to the following standards:
+
+**a. Building Permit Required**
+A building permit is required for all roof-mounted solar energy systems.
+
+**b. Setbacks**
+Systems must be setback at least 3 feet from the roof edge.
+
+**c. Height**
+Systems may not extend more than 5 feet above the roof surface.
+
+### 100.15B Ground-Mounted Systems
+
+Ground-mounted solar energy systems are permitted subject to the following standards:
+
+**a. Residential Districts**
+- Maximum height: 15 feet
+- Must comply with accessory structure setback requirements
+- Total area may not exceed 50% of the rear yard
+
+**b. Non-Residential Districts**
+- Maximum height: 20 feet
+- Must comply with principal structure setback requirements
+- Screening required adjacent to residential uses
+
+### 100.15C Large-Scale Solar Facilities
+
+Large-scale solar energy facilities covering more than 5 acres require a conditional use permit and must comply with additional standards established by the Planning Commission.
+
+## 100.16 Wind Energy Systems
+
+### 100.16A Small Wind Systems
+
+Small wind energy systems with a rated capacity of 100 kW or less are permitted as accessory uses subject to the following standards:
+
+**a. Setbacks**
+The minimum setback distance must equal the total height of the wind energy system.
+
+**b. Height Limitations**
+- Residential districts: 80 feet maximum
+- Non-residential districts: 120 feet maximum
+
+**c. Noise Standards**
+Wind systems must comply with the noise standards established in Section 100.11.
+
+### 100.16B Commercial Wind Facilities
+
+Commercial wind energy facilities require a conditional use permit and must comply with additional setback, noise, and visual impact standards.
+
+## 100.17 Electric Vehicle Charging Stations
+
+### 100.17A General Standards
+
+Electric vehicle charging stations are permitted in all zoning districts as accessory uses subject to building code requirements and the following standards:
+
+**a. Location**
+Charging stations must be located in designated parking spaces and may not obstruct pedestrian or vehicular circulation.
+
+**b. Screening**
+Above-ground equipment must be screened or designed to be compatible with the surrounding architecture.
+
+**c. Signage**
+Appropriate signage must be provided to identify charging spaces and operating procedures.
+
+### 100.17B Public Charging Stations
+
+Public electric vehicle charging stations may be permitted as principal uses in commercial and industrial districts with site plan approval.
+
+## 100.18 Green Building Standards
+
+### 100.18A Voluntary Standards
+
+The County encourages the use of green building practices and may provide incentives for developments that achieve recognized green building certification such as LEED or Energy Star.
+
+### 100.18B Incentives
+
+Developments achieving green building certification may be eligible for:
+- Expedited plan review
+- Reduced parking requirements (up to 10% reduction)
+- Density bonuses (where applicable)
+- Fee reductions (as established by resolution)
+
+### 100.18C Design Elements
+
+Encouraged green building elements include:
+- Energy-efficient building systems
+- Water conservation features
+- Sustainable building materials
+- Native landscaping
+- Alternative transportation facilities
+
+---
+
+*This completes Article 100 - Development Standards*
+
