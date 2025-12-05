@@ -50,9 +50,9 @@ Officials responsible for accepting applications, after consulting with review a
 
 #### 1. Deadlines for receipt of complete applications;
 #### 2. Dates of regular meetings;
-3. The scheduling of staff reviews and staff reports on complete applications;
-4. All required steps in the application process (including public hearings, and reviews by other agencies); and
-5. Required time frames for action by review and decision-making bodies.
+#### 3. The scheduling of staff reviews and staff reports on complete applications;
+#### 4. All required steps in the application process (including public hearings, and reviews by other agencies); and
+#### 5. Required time frames for action by review and decision-making bodies.
 
 ### G. Planning and Zoning Administrator and Agency Review
 In conducting required reviews, the Planning and Zoning Administrator shall be authorized to distribute the application and other submittals to other departments and agencies for the purpose of soliciting comments and ensuring that the proposal complies with all applicable standards and requirements. The Technical Review Committee (TRC) may be convened to review technical aspects of applications. See [Article 20.4C](Article_20_Review_Decision_Making_Bodies.md#b-technical-review-committee).
