@@ -73,6 +73,8 @@ These regulations are adopted to:
 ### B. Applicability
 These floodplain regulations apply to all areas of Ray County identified as flood hazard areas on Flood Insurance Rate Maps published by the [Federal Emergency Management Agency (FEMA)](https://www.fema.gov/).
 
+![Diagram 14](images/diagram_14.png)
+
 ### C. Development Standards
 Development in floodplain areas shall:
 1. Not obstruct flood flows or increase flood elevations

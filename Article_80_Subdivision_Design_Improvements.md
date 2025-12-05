@@ -41,11 +41,15 @@ Lot lines shall be designed to:
 
 ## 80.5 Blocks
 
-Block design shall consider:
-1. Appropriate block lengths for the development context
-2. Pedestrian circulation and connectivity
-3. Emergency vehicle access
-4. Integration with surrounding development patterns
+### A. Width
+
+![Diagram 04](images/diagram_04.png)
+
+Blocks must have sufficient width to provide for 2 tiers of lots, except where single tier lots are required to separate residential development from through vehicular traffic, to separate lots from another type of incompatible use, to allow for unusual topographic conditions or when adjacent to the outer perimeter of the subdivision.
+
+### B. Length
+
+Block lengths shall not exceed 1,320 feet, and when blocks longer than 800 feet are proposed, pedestrian crossings may be required near the center of the block.
 
 ## 80.6 Pedestrian Circulation (Sidewalks and Trails)
 

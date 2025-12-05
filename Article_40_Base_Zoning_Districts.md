@@ -1,7 +1,12 @@
 # Article 40 - Base Zoning Districts
 
 ## 40.1 Establishment of Base Zoning Districts
+
 The following base zoning districts are hereby established:
+
+**Figure 40.1 - Base Zoning Districts**
+
+**See: [Base Zoning Districts](tables/base_zoning_districts.md)**
 
 - **R-A** - Agricultural District
 - **R-1** - Residential Rural District  

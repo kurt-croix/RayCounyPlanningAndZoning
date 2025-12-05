@@ -8,7 +8,7 @@ The following table summarizes the principal use regulations of the Zoning Regul
 A "P" indicates that a use category is allowed by-right in the respective zoning district, subject to compliance with all other applicable regulations of these Zoning Regulations.
 
 ### Conditional Uses
-A "C" indicates that a use category is allowed only if reviewed and approved as a conditional use, in accordance with the Conditional Use Permit procedures of [Article 30.9](#article-30-development-review-procedures) and subject to all other applicable standards of these Zoning Regulations.
+A "C" indicates that a use category is allowed only if reviewed and approved as a conditional use, in accordance with the Conditional Use Permit procedures of [Article 30.8](Article_30_Development_Review_Procedures.md#308-conditional-use-permits) and subject to all other applicable standards of these Zoning Regulations.
 
 ### Uses Subject to Specific Standards
 A number in the final ("Use Standards") column indicates that the listed use type is subject to use-specific standards in one or more of the districts in which the use is allowed. The number provides a cross-reference to the use-specific standards.
@@ -17,7 +17,7 @@ A number in the final ("Use Standards") column indicates that the listed use typ
 A blank cell indicates that a use type is not allowed in the respective zoning district, unless it is otherwise expressly allowed by other regulations of these Zoning Regulations.
 
 ### New or Unlisted Uses
-If an application is submitted for a use type that is not listed as an allowed use in one or more zoning districts, the Planning and Zoning Administrator shall be authorized to make a similar use interpretation in accordance with [Article 30.13](#article-30-development-review-procedures). In the event that a similar use interpretation cannot be made, the proposed use type shall be allowed as a conditional use in the I-1 district and as a use permitted by-right in the I-2 district.
+If an application is submitted for a use type that is not listed as an allowed use in one or more zoning districts, the Planning and Zoning Administrator shall be authorized to make a similar use interpretation in accordance with [Article 30.12](Article_30_Development_Review_Procedures.md#3012-written-interpretations). In the event that a similar use interpretation cannot be made, the proposed use type shall be allowed as a conditional use in the I-1 district and as a use permitted by-right in the I-2 district.
 
 ## 60.2 Use Standards
 
