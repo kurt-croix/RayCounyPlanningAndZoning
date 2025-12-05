@@ -204,6 +204,33 @@ The following table shows which uses are allowed in the R-1A district. For a sum
 - P = Permitted by-right
 - C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
+| Use Type | R-1A | Standards |
+|----------|------|-----------|
+| **Residential** | | |
+| Group Home, Class I (General) | C | |
+| Group Home, Class I (Limited) | C | |
+| House, Detached | P | |
+| **Civic/Institutional** | | |
+| Cemetery | C | RSMo 214 |
+| Community Recreation, Private | P | |
+| Day Care, Family (1-5 children/adults) | P | |
+| Day Care, Group (6 or more children/adults) | C | |
+| Parks & Recreation | P | |
+| Religious Assembly, standard | P | |
+| Religious Assembly, mega | C | |
+| Safety Services | P | |
+| School, Primary | P | |
+| School, Secondary | C | |
+| Utility Service, Major | C | |
+| Utility Service, Minor | P | |
+| **Agricultural and Other Uses** | | |
+| Accessory Apartments, Private | P | Subject to 60.3A |
+| Accessory Dwelling Unit | P | Subject to 60.3A |
+| Accessory Structure | P | Subject to 60.3B |
+| Communications Antenna, Amateur | P | Subject to 60.2F |
+| Crop Production | P | |
+| Guest House, Private | P | Subject to 60.3A & 60.3C |
+
 ### C. Density and Dimensional Standards
 
 1. **Conventional Development** - The following standards apply to all Conventional (residential and nonresidential) development in the R-1A district:
@@ -229,6 +256,31 @@ The R-1B district is appropriate for application only where a central sewage tre
 The following table shows which uses are allowed in the R-1B district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table).
 - P = Permitted by-right
 - C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
+
+| Use Type | R-1B | Standards |
+|----------|------|-----------|
+| **Residential** | | |
+| Group Home, Class I (General) | C | |
+| Group Home, Class I (Limited) | C | |
+| House, Detached | P | |
+| **Civic/Institutional** | | |
+| Cemetery | C | RSMo 214 |
+| Community Recreation, Private | P | |
+| Day Care, Family (1-5 children/adults) | P | |
+| Day Care, Group (6 or more children/adults) | C | |
+| Parks & Recreation | P | |
+| Religious Assembly, standard | P | |
+| Religious Assembly, mega | C | |
+| Safety Services | P | |
+| School, Primary | P | |
+| School, Secondary | P | |
+| Utility Service, Major | C | |
+| Utility Service, Minor | P | |
+| **Agricultural and Other Uses** | | |
+| Accessory Apartment | P | Subject to 60.3A |
+| Accessory Structure | P | Subject to 60.3B |
+| Communications Antenna, Amateur | P | Subject to 60.2F |
+| Crop Production | P | |
 
 ### C. Density and Dimensional Standards
 The following standards apply to all residential and nonresidential development in the R-1B district:
