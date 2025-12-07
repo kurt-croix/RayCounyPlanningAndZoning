@@ -1,5 +1,28 @@
 # Ray County Planning & Zoning Regulations (2005)
 
+## Proofreading Status
+
+### Article Files - Legal Review Progress
+- [ ] Article_10_Introductory_Provisions.md
+- [ ] Article_20_Review_Decision_Making_Bodies.md  
+- [ ] Article_30_Development_Review_Procedures.md
+- [ ] Article_40_Base_Zoning_Districts.md
+- [ ] Article_50_Overlay_Special_Purpose_Zoning_Districts.md
+- [ ] Article_60_Use_Regulations.md
+- [ ] Article_70_Density_Dimensional_Standards.md
+- [ ] Article_80_Subdivision_Design_Improvements.md
+- [ ] Article_90_Perimeter_Roadway_Improvements.md
+- [ ] Article_100_Development_Standards.md
+- [ ] Article_110_Environmental.md
+- [ ] Article_120_Signs.md
+- [ ] Article_130_Nonconformities.md
+- [ ] Article_140_Violations_Penalties_Enforcement.md
+- [ ] Article_150_Definitions.md
+- [x] Article_160_Fee_Schedule.md
+- [ ] Index_and_Attachments.md
+
+---
+
 ## Table of Contents
 
 ### Overview
