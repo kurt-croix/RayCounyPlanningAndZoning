@@ -88,64 +88,235 @@ Signs shall maintain adequate clearance from overhead utility lines.
 
 ## 120.7 Permitted Sign Types
 
-### A. Wall Signs
-Wall signs are permitted in all nonresidential zoning districts and shall not exceed specified percentages of the wall area to which they are attached.
+Signs shall be allowed in accordance with Table 120-1, Permitted Sign Types.
 
-### B. Freestanding Signs
-Freestanding signs are permitted in nonresidential zoning districts, subject to height and area limitations.
+Special sign standards that apply to certain types of signs are indicated in the Permitted Sign Types Table by [bracketed] letters
 
-### C. Directory Signs
-Directory signs are permitted for multi-tenant buildings and developments.
+**Table 120-1**
 
-### D. Identification Signs
-Small identification signs are permitted in residential districts for home occupations and similar uses.
+**Permitted Sign Types**
+
+|  | Zoning District Class |
+| --- | --- |
+| Sign Type | R-A/R-1 | Residential (R) | Commercial (C ) | Industrial (I) |
+| Freestanding Signs [bracketed letters refer to standards that follow the table] |
+| Advertising Billboards and Junior Poster Panels | C | N | C [B] | C [B] |
+| Entrance | P [D] | P [D] | P [D] | P [D] |
+| Identification | A [E] | A [E] | A [E] | A [E] |
+| Incidental | A [F] | A [F] | A [F] | A [F] |
+| Residential | A [G] | A [G] | N | N |
+| Temporary | A [H] | A [H] | P [H] | P [H] |
+| Other | N | N | P | P |
+| Building Signs |
+| Banner | N | N | P [A] | P [A] |
+| Building Marker | A [C] | A [C] | A [C] | A [C] |
+| Canopy | N | N | P | N |
+| Entrance | P [D] | P [D] | P [D] | P [D] |
+| Identification | A [E] | A [E] | A [E] | A [E] |
+| Incidental | A [F] | A [F] | A [F] | A [F] |
+| Projecting | N | N | P | P |
+| Residential | A [G] | A [G] | N | N |
+| Suspended | N | N | P | P |
+| Temporary | A [H] | A [H] | P [H] | P [H] |
+| Time/Temperature | N | N | A | A |
+| Wall | P [I] | N | P [I] | P [I] |
+| Window Sign | N | N | A [J] | A [J] |
+
+Residential = R-1A, R-1B, R-2, R-3 and R-MHP districts
+
+Letters in brackets [x] refer to Special Sign Standards of Article 120.8.
 
 ## 120.8 Special Sign Standards
 
-### A. Electronic Message Signs
-Electronic message signs may be permitted in commercial and industrial districts, subject to:
-1. Limitations on message change frequency
-2. Brightness controls
-3. Automatic dimming for nighttime operation
+### A. Banners
 
-### B. Temporary Signs
-Temporary signs may be permitted for special events, construction projects, and similar short-term activities.
+See Article 120.11 and 120.12.
 
-### C. Political Signs
-Political campaign signs are permitted during designated time periods before and after elections.
+### B. Billboards and Junior Poster Panels
+
+Billboards and Junior Poster Panels (also called as "billboards") shall be allowed only if reviewed and approved as a Conditional Use, pursuant to Article 30.9 and only if they comply with the following standards:
+
+1. Billboards and Junior Poster Panels may be located only on lots with frontage on numbered state roads.
+
+2. Billboards and Junior Poster Panels shall not be located within 300 feet of any R-1, R-1A, R-1B, R-2, R-3 or R-MHP zoning district.
+
+3. Billboards and Junior Poster Panels shall not be erected within 1,400 feet of other Billboards and Junior Poster Panels on the same side of the road. Double-faced sign structures having parallel sign surfaces and adjacent sign structures having touching sign surfaces with an angle no greater than 90 degrees between sign surfaces shall not be prohibited by this requirement, provided they do not exceed applicable sign surface area limits.
+
+4. The maximum gross area of any billboard shall not exceed 700 square feet.
+
+5. No billboard shall be attached to the roof of any building.
+
+6. No billboard shall have more than 1 viewable sign face directed toward the same direction.
+
+7. Billboards and Junior Poster Panels may be illuminated by electrical lighting of the surface of the sign face, provided that no flashing, blinking or intermittent lighting of billboard sign faces shall be allowed.
+
+8. Billboard and Junior Poster Panels are structures for purposes of the Zoning Regulations, and they shall be subject to setback, height and other zoning district standards.
+
+#### C. Building Markers
+
+#### 1. Residential Districts
+
+Building markers in residential districts shall be not larger than 2 square feet in area.
+
+#### 2. Agricultural/Commercial/Manufacturing Districts
+
+Building Markers in agricultural, commercial and manufacturing districts shall be not larger than 4 square feet in area.
+
+#### D. Entrance Signs
+
+#### 1. Residential Development
+
+One entrance sign shall be allowed per entrance within a residential development. Entrance signs shall not exceed 24 square feet in area, with a maximum height of 5 feet and a minimum setback of 7.5 feet from all rights-of-way. Entrance signs for residential development shall be allowed in addition to all other allowed signage within a development and shall not be counted in calculating a site's maximum allowed signage.
+
+#### 2. Nonresidential Development
+
+Entrance signs for nonresidential developments shall comply with all other applicable standards of this Article and shall be counted in calculating a site's maximum allowed signage.
+
+#### E. Identification Signs
+
+#### 1. Residential Districts
+
+Identification signs in residential districts shall be no larger than 2 square feet in area.
+
+Identification signs may carry only the property address and occupant name. They shall carry no commercial message.
+
+#### 2. Agricultural/Commercial/Manufacturing Districts
+
+Identification signs in agricultural, commercial and manufacturing districts shall be not larger than 16 square feet in area. Identification signs may carry only the property address and occupant name. They shall carry no commercial message.
+
+#### F. Incidental Signs
+
+The size of incidental signs shall not exceed 2 square feet. Incidental signs shall not be counted toward the maximum number of signs permitted on a lot.
+
+#### G. Residential Signs
+
+Residential signs shall carry no commercial message except that they may contain a message identifying a permitted home occupation.
+
+#### H. Temporary Signs
+
+Temporary signs shall be allowed in addition to all signs allowed under this Article and shall not be counted in calculating a site's maximum allowable signage. Temporary signs shall be subject to the following standards.
+
+#### 1. Setbacks and Height
+
+Temporary signs are subject to the setback and height standards of Article 120.10.
+
+#### 2. Agricultural, Residential and Nonresidential Districts
+
+The following types of temporary signs shall be allowed in all base-zoning districts.
+
+a. Construction Signs
+
+One temporary sign, up to 12 square feet in area, shall be permitted for the duration of an allowed construction project.
+
+b. Temporary Uses and Special Events
+
+One temporary sign, up to 12 square feet in area, shall be permitted for temporary uses and special events for which a temporary use permit has been issued. Such signs shall be allowed for the duration of the temporary use permit or such other time as expressly established at the time of approval of the temporary use permit.
+
+c. Real Estate Signs
+
+One temporary real estate ("for sale" or "for rent") sign shall be permitted per lot. Temporary real estate signs shall not exceed 6 square feet in area in R-1A, R-1B and R-2 districts or 32 square feet in all other districts.
+
+d. Directional Signs
+
+One temporary directional sign, up to 4 square feet in area, shall be permitted per development or per each 1,000 linear feet of street right-of-way within a development. Directional signs shall be allowed during the time that lots are being marketed.
+
+e. Election Signs
+
+Signs pertaining to official Ray County elections (whether for public office or ballot issues) shall be permitted for a period of no more than 90 days before and not more than 30 days following the election. Such signs shall be allowed without a permit.
+
+#### I. Wall Signs
+
+See Article 120.11 and 120.12.
 
 ## 120.9 Maximum Total Sign Area Per Lot
 
-Total sign area per lot shall not exceed:
-- **Residential districts**: 32 square feet
-- **Commercial districts**: 200 square feet or 2 square feet per linear foot of street frontage, whichever is greater
-- **Industrial districts**: 300 square feet
+The sum of the area of all building and freestanding signs on a lot shall be less than or equal to the maximum permitted sign area indicated in Table 120-2 (Maximum Total Sign Area Per Lot). The lowest number resulting from any of the applicable alternative computations in any column in Table 120-2 shall be the maximum total sign area permitted for the respective district class.
+
+**Table 120-2**
+
+**Maximum Total Sign Area Per Lot**
+
+|  |  | Zoning Districts |  |
+| --- | --- | --- | --- |
+|  | R-A/R-1 | Residential | C-1/C-2/C-3 | I-1/I-2 |
+| Square feet of sign area per linear foot of street frontage | N/A | N/A | 2 | 2 |
+| Maximum on vacant land* (square feet) | 32 | 12 | 100 | 100 |
+| Absolute maximum (square feet) | 64 | 18 | 375 | 750 |
+
+Residential = R-1A, R-1B, R-2, R-3 and R-MHP districts
+
+*Vacant Land = land without principal structures
 
 ## 120.10 Number and Dimensions
 
-### A. Number of Signs
-The number of freestanding signs per lot shall be limited based on the zoning district and lot size.
+All allowed signs shall comply with the standards of Table 120-3
 
-### B. Maximum Dimensions
-Maximum height and area for signs shall be specified for each sign type and zoning district.
+**Table 120-3**
+
+**Number and Dimension of Individual Signs**
+
+|  |  | Zoning Districts |  |
+| --- | --- | --- | --- |
+|  | R-A/R-1 | Residential | C-1/C-2/C-3 | I-1/I-2 |
+| Freestanding Signs |  |  |  |  |
+| Maximum Number [1] | 2 | 1 | 1 per street frontage to |
+|  |  |  | to which access is taken |
+| Maximum Sign Area (square feet) | 32 [2] | 6 [2] | 375 | 750 |
+| Maximum Height (feet) | 15 [3] | 6 | 40 | 40 |
+| Minimum Setback (from right-of-way) | 20 | 1/2 of required zoning district setback | 20 | 30 |
+| Building Signs |  |  |  |  |
+| Maximum Number (See Article 151-12.11) | 1 | 1 | No Maximum |  |
+| Max. Area (pct. of wall area to which attached) | N/A | N/A | 25 | 25 |
+| Maximum Area (square feet) | 32 | 2 | N/A | N/A |
+
+Residential = R-1A, R-1B, R-2, R-3 and R-MHP districts
+
+*1 per road entrance or driveway · N/A = "Not Applicable"
+
+[1] Maximum number does not include temporary signs, residential development entrance signs or incidental signs.
+
+[2] Maximum size restriction does not apply to residential development entrance signs.
+
+[3] Identification signs over private driveways may be up to 20 feet in height.
 
 ## 120.11 Building Signs in Nonresidential Districts
 
-Building-mounted signs in nonresidential districts shall:
-1. Not exceed specified percentages of wall area
-2. Maintain appropriate clearances from windows and doors
-3. Be professionally designed and installed
+Building signs in nonresidential districts shall be subject to the standards of Table 120-4.
+
+**Table 120-4**
+
+**Building Signs in Nonresidential Districts**
+
+| Sign Type | Number Permitted | Maximum Area |
+| --- | --- | --- |
+| Banner | 1 per principal building | 5% of wall area |
+| Canopy | 1 per building entrance | 16 square feet |
+| Projecting | 1 per principal building | 5% of wall area |
+| Roof, Integral | 2 per principal building | 5% of wall area |
+| Suspended | 1 per building entrance | 5% of wall area |
+| Wall | No Limit | 10% of wall area |
+| Window | No Limit | 25% of window area |
 
 ## 120.12 Sign Characteristics
 
+All allowed signs shall comply with Table 120-5, Permitted Sign Characteristics.
+
+**Table 120-5**
+
+**Permitted Sign Characteristics**
+
+| Characteristic | District Class |
+| --- | --- |
+| R-A/R-1/Residential | Other |
+| Changeable Copy | No | Yes |
+| Illumination, Internal | No | Yes |
+| Illumination, External | Yes | Yes |
+| Illumination, Exposed Bulbs or Neon | No | No |
+
+Residential = R-1A, R-1B, R-2, R-3 and R-MHP districts
+
 ### A. Materials
 Signs shall be constructed of durable, weather-resistant materials appropriate for their intended use and location.
-
-### B. Colors
-Sign colors should be compatible with the building and surrounding area.
-
-### C. Lighting
-Sign lighting shall be designed to minimize glare and light pollution.
 
 ## 120.13 Design, Construction, and Maintenance
 

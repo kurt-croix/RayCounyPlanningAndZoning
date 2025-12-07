@@ -2,90 +2,184 @@
 
 ## 100.1 Off-Street Parking and Loading
 
-### A. General Requirements
-Off-street parking shall be provided for all uses in accordance with the requirements of this Article. Parking areas shall be designed to provide safe and efficient circulation and shall meet county construction standards.
+### A. Applicability
 
-### B. Parking Requirements by Use Type
-Minimum parking requirements shall be as follows (representative examples):
-- **Single-family dwellings**: 2 spaces per dwelling unit
-- **Multi-family dwellings**: 1.5 spaces per dwelling unit
-- **Retail establishments**: 1 space per 300 square feet of floor area
-- **Restaurants**: 1 space per 3 seats
-- **Office buildings**: 1 space per 300 square feet of floor area
-- **Industrial uses**: 1 space per 2 employees on largest shift
+#### 1. New Development
+The off-street parking and loading standards of this Article apply to any new building constructed and to any new use established.
 
-### C. Parking Design Standards
-1. **Parking space dimensions**: Minimum 9 feet by 18 feet
-2. **Aisle widths**: Minimum 24 feet for two-way traffic, 18 feet for one-way
-3. **Surface materials**: Paved with asphalt, concrete, or approved alternative
-4. **Drainage**: Adequate drainage to prevent standing water
-5. **Lighting**: Appropriate lighting for safety and security
+#### 2. Expansions and Alterations
+The off-street parking and loading standards of this Article apply when an existing structure or use is expanded or enlarged. Additional off-street parking and loading spaces will be required only to serve the enlarged or expanded area, not the entire building or use, provided that in all cases the number of off-street parking and loading spaces provided for the entire use (preexisting & expansion) must equal at least 75 percent of minimum ratio established in Off-Street Parking Schedule "A" of this Article.
 
-### D. Loading Requirements
-Commercial and industrial uses shall provide adequate loading facilities based on the size and nature of the operation.
+#### 3. Timing of Installation
+Required parking spaces and drives shall be ready for use and approved by the Planning and Zoning Administrator prior to issuance of a certificate of occupancy. The Planning and Zoning Administrator shall be authorized to allow issuance of a certificate of occupancy before installation of required parking if the applicant provides a letter of credit, performance bond, escrow deposit or other acceptable financial security adequate to ensure that all required parking will be installed when weather conditions permit. The amount of the financial guarantee must be equal to at least 100 percent of the estimated total cost (labor and materials). The county shall be authorized to use such financial guarantee to complete the work if the required parking is not in place by the date stated on the approved performance guarantee.
+
+#### 4. No Reduction Below Minimums
+Existing parking and loading spaces may not be reduced below the minimum requirements established in this Article. Any change in use that increases applicable off-street parking or loading requirements will be deemed a violation of these Zoning Regulations unless parking and loading spaces are provided in accordance with the provisions of this Article.
+
+### B. Off-Street Parking Schedules
+
+#### 1. Off-Street Parking Schedule "A"
+Off-Street Parking Schedule "A" lists minimum off-street parking requirements by land use category.
+
+**Off-Street Parking Schedule "A"**
+
+| Use Categories | Specific Uses | Minimum Number of Spaces Required |
+|---|---|---|
+| **Residential** | | |
+| Household Living | Multi-Dwelling Structures | - 1.5 per efficiency dwelling unit<br>- 2.0 per 1-bedroom unit<br>- 2.5 per 2-bedroom or larger unit |
+| | All Other Household Living | 2 per dwelling unit |
+| **Institutional** | | |
+| | College | Schedule C |
+| | Community Services | Schedule B or Schedule C |
+| | Day Care | 1 per 500 square feet |
+| | Detention Facilities | Schedule C |
+| | Hospital | 1 per patient bed, plus 1 per 300 square feet of administrative office, plus 1 per 200 square feet of outpatient clinic space |
+| | Parks and Open Areas | Schedule C |
+| | Religious Institutions | 0.33 per seat in main worship area* |
+| | Safety Service | 1 per employee or Schedule C |
+| | Schools | Elementary, Middle/Junior High: 1 per teacher/employee + 10 visitor spaces or Schedule C<br>Senior High: 1 per teacher/employee + 1 per 5 students or Schedule C |
+| | Utilities, Basic | None |
+| | Utilities, Major | 1 per employee or Schedule C |
+| **Commercial** | | |
+| | Entertainment Event, Major | Schedule C |
+| | Office | Medical: 1 per 200 square feet<br>All Other Office: 1 per 300 square feet |
+| | Parking, Commercial | N/A |
+| | Recreation and Entertainment, Outdoor | Schedule B |
+| | Retail Sales/Service | Bank or Financial Service: 1 per 250 square feet, plus stacking spaces per this Article<br>Car Wash: Stacking spaces per this Article<br>Health Club: 1 per 200 square feet<br>Hotel, motel or other temporary lodging: 1 per guest room, plus required spaces for associated uses<br>Restaurants (Sit-Down), Taverns, Drinking Establishments: 1 per 75 square feet<br>Restaurants, Drive-in or Fast-Food: 1 per 75 square feet of customer service and dining area or 1 per 150 square feet of gross floor area, whichever is greater, plus stacking spaces per this Article<br>Theater: 1 per 4 seats<br>Vehicle and Equipment Sales: Schedule B<br>All other Retail Sales and Service uses not specifically listed: 1 per 250 square feet |
+| | Self-Service Storage | 1 plus 1 per 2,500 square feet of storage space |
+| | Vehicle Service/Repair | 5 per service bay |
+| **Industrial** | | |
+| | Industrial Service | 1 per 500 square feet or Schedule B |
+| | Manufacturing and Production | 1 per 500 square feet or Schedule B |
+| | Warehouse and Freight Movement | 1 per 750 square feet or Schedule B |
+| | Waste-Related Use | Schedule B or Schedule C |
+| | Wholesale Sales | 1 per 500 square feet or Schedule B |
+| **Other** | | |
+| | Agriculture | None |
+| | Aviation/Surface Passenger Terminals | Schedule C |
+| | Wireless Communications Towers | None |
+
+*Religious assemblies may reduce their parking requirements based on shared parking arrangements with uses that are inactive during religious activities.
+
+#### 2. Off-Street Parking Schedule "B"
+Off-street parking spaces for Schedule "B" uses must be provided for all components of the use, as follows:
+
+| Activity | Number of Spaces Required |
+|---|---|
+| Office or administrative area | 1 per 300 square feet |
+| Indoor sales area | 1 per 200 square feet |
+| Outdoor sales or display area (3,000 square feet or less) | 1 per 750 square feet |
+| Outdoor sales or display area (over 3,000 square feet) | |
+| - Motor vehicles/equipment sales | 1 per 2,000 square feet |
+| - Other sales/display | 1 per 1,000 square feet |
+| Indoor storage/warehousing/vehicle service/manufacturing area | |
+| - 1-3,000 square feet | 1 per 250 square feet |
+| - 3,001-5,000 square feet | 1 per 500 square feet |
+| - 5,001-10,000 square feet | 1 per 750 square feet |
+| - 10,001-50,000 square feet | 1 per 1,250 square feet |
+| - 50,001+ square feet | 1 per 1,250 square feet |
 
 ## 100.2 Number of Uses/Structures per Lot
 
-Unless otherwise specified, only one principal structure and one principal use shall be permitted per lot, except:
-1. In planned unit developments where multiple uses may be approved
-2. Where accessory uses and structures are specifically permitted
-3. In mixed-use developments approved through conditional use permits
+### A. 
+Only one principal structure (residence) may be constructed on agriculturally or Residentially zoned property. Accessory buildings and uses must comply with the corresponding zoning district.
+
+### B. 
+A lot may be used for more than 1 principal nonresidential use and more than 1 principal nonresidential structure, provided that all structures are separated by a minimum distance of 15 feet and provided that development on the lot complies with the proper zoning district and all applicable standards of these Zoning Regulations.
 
 ## 100.3 Traffic Impact Studies
 
-### A. When Required
-Traffic impact studies shall be required for:
-1. Developments generating more than 1,000 vehicle trips per day
-2. Developments accessing arterial or collector streets
-3. Developments in areas with known traffic congestion
-4. Other developments as determined by the Planning and Zoning Administrator
+### A. Applicability
+A traffic impact study may be required with Zoning District Map amendment applications, preliminary plats or planned unit developments that are projected to generate 100 or more peak hour vehicle trips or when the County Commission determines that the proposed development will have a measurable impact on the county road system.
 
-### B. Study Requirements
-Traffic impact studies shall:
-1. Be prepared by qualified traffic engineers
-2. Analyze existing and projected traffic conditions
-3. Identify necessary improvements to maintain adequate service levels
-4. Include recommendations for mitigation measures
+### B. Study Scope
+When a traffic impact study is required, the type and scope of the study shall be determined during a meeting with the County Commission. The County Commission may also involve representatives of or request assessments from other agencies and departments. The elements to be determined during the meeting shall include:
 
-### C. Implementation of Improvements
-Developers shall be responsible for implementing traffic improvements identified in approved traffic impact studies.
+#### 1. Type of Study
+The possible types of reports include: a letter report, full traffic impact analysis report or special report (e.g., sight distance survey).
+
+#### 2. Definition of Impact Area
+The points of access and key streets and intersections that may be affected by development of the subject tract constitute the Impact Area. Traffic recorder and turning movement assessment locations shall be determined.
+
+#### 3. Period of Analysis
+Periods of analysis may include: daily traffic, AM, PM or weekend peak hour.
+
+#### 4. Analysis Scenarios
+Scenarios for analysis include: existing conditions, opening year conditions with and without development, and 10 years after opening with and without development.
+
+#### 5. Process
+Process for determining trip generation and distribution including: trip generation category, diversion assumptions and distribution assumptions.
+
+#### 6. Growth Rate Assumption
+The rate of growth assumed in background traffic assumptions.
 
 ## 100.4 Intersection Visibility
 
-### A. Sight Distance Requirements
-Adequate sight distances shall be maintained at all intersections to ensure safe vehicle and pedestrian movement.
+Nothing shall be erected, placed, planted, or allowed to grow in such a manner as to impede or obstruct vision between a height of 2 feet and 10 feet (measured from the edge of the road driving surface nearest the obstruction) within an imaginary triangular area formed by points on each street center line located:
 
-### B. Vision Clearance Areas
-Vision clearance triangles shall be maintained at intersections, free from obstructions exceeding 30 inches in height above the street level.
+### A. 
+90 feet from the intersection of local street center lines and a third (diagonal) line connecting the two points; or
 
-### C. Landscaping Restrictions
-Landscaping within vision clearance areas shall be limited to low-growing plants that do not obstruct visibility.
+### B. 
+120 feet from the intersection of collector or arterial street center lines and a third (diagonal) line connecting the two points.
 
 ## 100.5 Historic Preservation
 
-### A. Historic Properties
-Development affecting properties listed on or eligible for listing on the National Register of Historic Places shall be subject to additional review to ensure preservation of historic character.
+Whenever there is an existing structure with potential historic value or a site with likelihood to yield a significant archaeological remains, consideration shall be given to preserving the structure or protecting the site prior to any construction or reuse of the property.
 
-### B. Review Process
-Historic preservation review may be required as part of the development review process for affected properties.
+### A. Site Evaluation Criteria
+Prior to approval of the Final Plat, sites should be evaluated to determine if one of the following are present on the site:
 
-### C. Preservation Incentives
-The county may offer incentives for the preservation and restoration of historic properties.
+1. Structures over 50 years of age;
+2. Exceptional works of well-known architects or builders (even if the structure is less than 50 years old);
+3. Structures or features listed on the Ray County, State, or National Historic Registers; or
+4. Structures that are significant in terms of American history, architecture, culture, archaeology or engineering.
+
+### B. Discovery
+If, during any construction, any archeologically or historically significant structure or features are discovered, the property owner shall notify the Ray County Historical Society and the state historic preservation officer of the discovery. Upon discovery of archeologically or historically significant structures, all construction activity shall cease until significant items have been salvaged.
 
 ## 100.6 Residential Design Standards
 
-### A. Purpose
-These standards are intended to promote attractive and compatible residential development that enhances neighborhood character.
+All detached houses shall be subject to the residential design standards of this Article, provided that houses located within mobile home parks shall not be subject to these standards. The County's currently adopted building codes shall govern all building requirements.
 
-### B. Architectural Standards
-New residential construction shall incorporate design elements that:
-1. Are compatible with the character of the surrounding area
-2. Provide visual interest and variety
-3. Use quality materials and construction techniques
+### A. Minimum Size
 
-### C. Site Design
-Residential sites shall be designed to:
-1. Preserve natural features where feasible
-2. Provide appropriate landscaping
-3. Minimize impacts on neighboring properties
-4. Create attractive streetscapes
+#### 1. Width and Depth
+Detached houses shall have a minimum exterior dimension of 22 feet on any side.
+
+#### 2. Living Area
+Each detached house shall comply with the minimum living area standard of the underlying zoning district.
+
+### B. Roof
+
+#### 1. Pitch
+The roof shall have a minimum 5:12 pitch (i.e., a vertical rise of at least 5 inches for every 12 inches of horizontal run).
+
+#### 2. Materials
+The roof must be covered with material that is customarily used on site-built houses in Ray County, including approved wood, asphalt composition shingles, or fiberglass, and metal roofs.
+
+#### 3. Eaves and Overhangs
+The roof shall have a minimum eave projection and roof overhang of 12 inches on each of the exterior walls. Eave projections and roof overhangs shall be architecturally integrated into the design of the house. Gutters shall not be counted in calculating roof overhang.
+
+### C. Exterior Siding
+Exterior siding shall be made of materials customarily used on site-built houses in Ray County, such as wood, composition, simulated wood, clapboards, conventional vinyl or metal siding, brick, stucco, or similar materials. Siding material shall extend below the top of the foundation or curtain wall or the joint between the siding and enclosure wall shall be flashed in accordance with the building code.
+
+### D. Siting and Placement
+
+#### 1. Siting
+Manufactured housing units shall be installed in accordance with the recommended installation procedures of the manufacturer and the standards set by the International Conference of Building Officials (ICBO) and published in the most recent edition of "Guidelines for Manufactured Housing Installations." A continuous, permanent concrete or masonry foundation or masonry curtain wall, unpierced except for required ventilation and access which may include walkout basements and garages, shall be installed under the perimeter of the home, in accordance with the above-referenced ICBO "Guidelines." All running gear, tongues, axles, and wheels must be removed at the time of installation of the house on the lot.
+
+#### 2. Placement
+Detached houses shall be placed so that the apparent entrance or "front" of the structure faces or parallels the primary street frontage, except where the lot is 3 or more acres in size and the unit is set back at least 150 feet from all property lines.
+
+### E. Entrance Landing Area
+At the main entrance door there shall be a landing that is a minimum of 3 feet by 3 feet, constructed to meet applicable building code requirements.
+
+### F. Finished Floor Elevation
+The finished floor elevation of the first floor of the detached house shall be a maximum of 24 inches above the exterior finish grade of the lot on which it is located, as measured at the main entrance of the dwelling.
+
+### G. Attached Additions
+Any attached addition shall comply with county building codes.
+
+### H. Garages
+Detached garages may be constructed on the same lot as a detached house, provided that such structures comply with all applicable building code requirements.

@@ -1,166 +1,134 @@
 # Article 160 - Fee Schedule
 
-## 160.1 General Fee Provisions
+## 160.1 Fees, Charges and Deposits (2005)
 
-### A. Authority
-Fees established in this Article are adopted pursuant to the authority granted by Missouri Revised Statutes and the Ray County Commission's authority to regulate land development.
+### Zoning & Subdivision
 
-### B. Fee Schedule Updates
-The County Commission may periodically update this fee schedule by resolution without amending these Zoning Regulations.
+| Item | Fee |
+|------|-----|
+| **Rezoning** | |
+| R-A, R-1, R-1A | $100 |
+| R-1B, R-2, R-3, R-MHP, S&O, B-1 | $200 |
+| PUD, B-2, I-1, I-2 | $250 |
+| + Certified mailings* | Per adjoiner, @ $2.79 |
+| **Major Subdivision** | |
+| Preliminary Plat | $75 + $3 per lot |
+| + Adjoiner mailings* | Per adjoiner, @ $.39 |
+| Final Plat (each phase) | $75 + $3 per lot |
+| **Minor Subdivision** | |
+| Preliminary Plat | $75+ $3 per lot |
+| Final Plat | $75 + $3 per lot |
+| + Adjoiner mailings* | Per adjoiner, @ $.39 |
+| **PUD** | |
+| Application | $200 |
+| + Certified mailings* | Per adjoiner, $2.79 |
+| Preliminary Concept Plan | $100 + $3 per lot |
+| Final Development Plan (each phase) | $100 + $3 per lot |
+| + Adjoiner mailings* | Per adjoiner, $.39 |
+| Final Plat (each phase) | No P&Z charge |
+| **Conditional Use Permit** | $150 |
+| + Certified mailings* | Per adjoiner, $2.79 |
+| **Vacation of ROW/Easements/Plats** | $150 |
+| **Plans Review (Final Construction Drawings)** | $325 |
+| **Stormwater Construction Inspections (each)** | $100 |
+| **Administrative Adjustment** | $100 |
 
-### C. Payment Requirements
-1. All fees must be paid at the time of application submission
-2. Applications will not be processed until all required fees are paid
-3. Fees are non-refundable except as specifically provided herein
+### Board of Zoning Adjustment
 
-### D. Fee Calculation
-Where fees are calculated based on area, valuation, or other variables, calculations shall be rounded up to the nearest whole dollar.
+| Item | Fee |
+|------|-----|
+| **Variance** | $100 |
+| + Certified mailings* | Per adjoiner, @2.79 |
+| **Appeal** | $100 |
 
-## 160.2 Application and Processing Fees
+### Special Hearings
 
-### A. Zoning Applications
-- **Zoning District Map Amendment (Rezoning)**
-  - Residential properties: $500
-  - Commercial/Industrial properties: $750
-  - PUD applications: $1,000 plus $50 per acre
+| Item | Fee |
+|------|-----|
+| **Deposit (actual expenses will be deducted from the deposit)** | |
+| Hearing expected to last longer than 2 hours | $250 |
+| Sanitary Land Fill | $50,000 |
+| + Certified mailings* | Per adjoiner, $2.79 |
 
-- **Zoning Text Amendment**: $750
+### Permits
 
-- **Conditional Use Permit**
-  - Residential uses: $350
-  - Commercial/Industrial uses: $500
-  - Major conditional uses: $750
+| Item | Fee |
+|------|-----|
+| Adult Entertainment | $10,000 |
+| Amusement Park | $1,000 |
+| Farmer's Market (seasonal) | $50 |
+| Bars/Taverns/Night Clubs | $1,500 |
+| Bed & Breakfasts | $200 |
+| Boarding House | $200 |
+| Carnivals | $150 |
+| Commercial Sewer System | $2,500 |
+| Mineral Extraction | $2,000 |
+| Feed Lots | $2,500 |
+| Fuel Dealership/Gas Stations | $500 |
+| Group Day Care | $100 |
+| Guest Cottage (for rent, R-A only) | $150 |
+| Home Occupation | $50 |
+| Manufactured Home Dealership | $500 |
+| Oil/Gas Production per Lease | $500 |
+| Recycling Transfer Center | $200 |
+| Recycling Processing Center | $1500 |
+| Residential Care Facility | $100 |
+| RV Park | $200 |
+| Salvage Yard | $15,000 |
+| Sanitary Landfill | $20,000 |
+| Signs (under 350 sq. ft.) | $50 |
+| Signs (over 350 sq. ft.) | $250 |
+| Signs (temporary use) | $25 |
+| Towers, Commercial | $500 |
 
-### B. Subdivision Applications
-- **Minor Subdivision (4 lots or fewer)**: $300 plus $25 per lot
-- **Major Subdivision - Preliminary Plat**: $500 plus $50 per lot
-- **Major Subdivision - Final Plat**: $300 plus $25 per lot
-- **Plat Amendment**: $400
-- **Vacation**: $300
+### Miscellaneous
 
-### C. Variance Applications
-- **Dimensional Variance**: $300
-- **Use Variance**: $500
-- **Multiple variances on same property**: Add $100 for each additional variance
+| Item | Fee |
+|------|-----|
+| Zoning Regulations | $40 |
+| 1997 Comprehensive Plan | $25 |
+| 911 Map | $15 |
+| Plat copies | $5 |
+| 8.5x11 copies, per page | $.50 |
 
-### D. Appeals and Administrative Applications
-- **Appeal to Board of Zoning Adjustment**: $250
-- **Written Interpretation**: $150
-- **Sign Permit**
-  - Individual signs under 32 sq ft: $50
-  - Individual signs 32 sq ft and larger: $100
-  - Sign Plan (multiple signs): $200
+### Building Fees & Permits
 
-### E. Plan Review and Inspection Fees
-- **Engineering Plan Review**: $300 plus $0.10 per linear foot of street frontage
-- **Construction Inspection**: $200 plus actual costs of inspection services
-- **Certificate of Occupancy**: $100
+| Item | Fee |
+|------|-----|
+| **Dwelling or Addition** | $0.20/sq ft-$75 Minimum |
+| Minor Remodeling, Under $1,000 | $25 |
+| Minor Remodeling, Over $1,000 | $100 |
+| Garages | $50 |
+| Driveway Permit | $25 |
+| **Commercial & Industrial** | $0.10/sq ft-$50 Minimum |
+| **Farm and Accessory Buildings** | |
+| 20+ acres for agriculture use only (permit is still required to build any structure over 125 sq. ft.) | N/C |
+| R-A Zoning | N/C |
+| All other zonings | $50 |
 
-## 160.3 Deposits and Guarantees
+### Permits for other Construction
 
-### A. Performance Deposits
-- **Subdivision Infrastructure**: 110% of estimated construction cost
-- **Conditional Use Performance**: $5,000 minimum or amount determined by County Commission
-- **Road Improvements**: As determined by Highway Department
+| Item | Fee |
+|------|-----|
+| On-site sewage Permit | $200 |
+| Walk-thru sewer inspection | $100 |
+| Sewer Evaluations | $150 |
+| Well Inspections | $100 |
+| Demolition Permit | $25 |
+| **Pond Permit** | |
+| 40+ acres, not in subdivision | N/C |
+| In a subdivision | $50 |
+| Swimming Pool | $50 |
+| Fences 6 feet up to 8 feet | $50 |
 
-### B. Escrow Deposits
-- **Legal Notice Publication**: $200 (refund of unused portion)
-- **Engineering Review**: $1,000 for major subdivisions
-- **Traffic Impact Study Review**: $2,500 when required
+### Inspections
 
-### C. Professional Services Deposits
-When the county requires outside professional services for application review:
-- **Environmental Studies**: Actual cost plus 15% administrative fee
-- **Traffic Engineering**: Actual cost plus 15% administrative fee
-- **Legal Review**: Actual cost plus 15% administrative fee
+| Item | Fee |
+|------|-----|
+| Per hour or any portion of an hour | $30 |
+| Re-inspection, per hour or any portion of an hour | $40 |
 
-## 160.4 Road Impact Fees
-
-### A. Fee Calculation
-Road impact fees shall be calculated based on:
-1. Type and intensity of development
-2. Expected trip generation
-3. Current roadway capacity and condition
-4. Cost of necessary improvements
-
-### B. Fee Schedule
-- **Single-family residential**: $500 per dwelling unit
-- **Multi-family residential**: $350 per dwelling unit
-- **Retail/Commercial**: $2.00 per square foot of floor area
-- **Office**: $1.50 per square foot of floor area
-- **Industrial/Manufacturing**: $1.00 per square foot of floor area
-- **Other uses**: As determined by traffic impact study
-
-### C. Credits and Adjustments
-- Credit may be given for on-site road improvements that benefit the public road system
-- Fees may be adjusted based on actual traffic generation studies
-- Payment plans may be approved for large developments
-
-## 160.5 Inspection and Enforcement Fees
-
-### A. Re-inspection Fees
-- **Failed inspection (second inspection)**: $100
-- **Each additional failed inspection**: $150
-- **After-hours inspection**: $200 plus regular inspection fee
-
-### B. Enforcement Fees
-- **Stop Work Order processing**: $200
-- **Violation investigation**: $150
-- **Administrative hearing**: $250
-
-### C. Emergency Response
-- **Emergency enforcement action**: Actual costs plus 25% administrative fee
-- **Emergency inspection**: $300 plus actual costs
-
-## 160.6 Special Fees and Services
-
-### A. Expedited Processing
-When available, expedited processing may be provided for an additional fee of 50% of the standard application fee.
-
-### B. After-Hours Services
-- **Planning staff consultation**: $100 per hour (2-hour minimum)
-- **Building inspection**: $200 plus standard inspection fee
-- **Plan review**: $150 per hour
-
-### C. Duplicate Documents
-- **Copy of approved plans**: $25 per set
-- **Certified copies**: $50 per document
-- **Digital copies**: $10 per document
-
-## 160.7 Refund Policy
-
-### A. Partial Refunds
-Refunds may be provided in the following circumstances:
-1. Application withdrawn before initial review: 50% refund of application fee
-2. Overpayment of calculated fees: Full refund of overpayment
-3. Unused escrow deposits: Refund of unused portion minus administrative costs
-
-### B. No Refund Situations
-No refunds will be provided for:
-1. Applications denied after review
-2. Applications withdrawn after initial review has begun
-3. Processing fees and administrative costs
-4. Applications where false information was provided
-
-### C. Refund Processing
-Approved refunds will be processed within 60 days of approval and will be issued to the original fee payer.
-
-## 160.8 Fee Payment Methods
-
-### A. Acceptable Payment Methods
-- Cash (for fees under $500)
-- Check or money order
-- Credit card (processing fees apply)
-- Electronic transfer
-
-### B. Processing Fees
-- Credit card payments: 3% processing fee
-- Returned check fee: $35
-- Late payment penalty: 1.5% per month
-
-### C. Fee Schedule Effective Date
-This fee schedule becomes effective upon adoption and applies to all applications submitted after the effective date.
-
----
-
-*Note: Fees are subject to change by resolution of the Ray County Commission. Contact the Planning and Zoning Department for current fee information.*
+**Notes:**
+- No permits required on Accessory Structures under 120 sq. ft.
+- *or current U.S. Mail charge for certified mail
+- Postage updated 01-16-07

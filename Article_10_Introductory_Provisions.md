@@ -13,7 +13,13 @@ These Zoning Regulations shall apply to all development, public and private, wit
 These Zoning Regulations shall replace all Articles, Amendments and Ordinances of the Zoning Regulations of Ray County, Missouri, that existed before June 10, 2005.
 
 ## 10.5 Compliance Required
-It shall be unlawful to conduct any development or construct any structure until (1) all applicable development review and approval processes have been followed; (2) all applicable approvals have been obtained; and (3) all required permits or authorizations to proceed have been issued. Violations will be processed according to [Article 140](#article-140-violations-penalties-and-enforcement) of these Zoning Regulations.
+It shall be unlawful to conduct any development or construct any structure until:
+
+(1) all applicable development review and approval processes have been followed;  
+(2) all applicable approvals have been obtained; and  
+(3) all required permits or authorizations to proceed have been issued.
+
+Violations will be processed according to [Article 140](Article_140_Violations_Penalties_Enforcement.md) of these Zoning Regulations.
 
 ## 10.6 Minimum Requirements
 The standards of these Zoning Regulations are minimum requirements. The issuance of any permit, certificate or approval in accordance with the standards and requirements of these Zoning Regulations shall not relieve the recipient of the responsibility for complying with all other applicable requirements of any other county, state or federal agency.
@@ -27,9 +33,9 @@ B. preserve and protect land, air, water, environmental resources and property v
 
 C. divide the unincorporated area of the county into zoning districts regulating land use and intensity of development;
 
-D. promote land use patterns that ensure efficiency in service provision as well as wise use of fiscal resources and government expenditures;
+4. promote land use patterns that ensure efficiency in service provision as well as wise use of fiscal resources and government expenditures;
 
-E. regulate the type and intensity of development;
+5. regulate the type and intensity of development;
 
 F. protect the public from fire, flood and other dangers;
 
@@ -106,11 +112,15 @@ The following rules shall apply in the determination of the boundaries of any di
 
 1. Wherever a site is divided by a zoning district boundary, the zoning regulations applicable within each district shall apply to each portion of the site situated in a separate district.
 
-2. Where boundaries approximate street and alley lines or other identifiable property or boundary lines, such lines shall be construed to be the district boundary. Where such boundaries are shown as being within street and alley lines or within identifiable rights-of-way or creeks, the centerline thereof shall be construed to be the district boundary.
+2. Where boundaries approximate street and alley lines or other identifiable property or boundary lines, such lines shall be construed to be the district boundary. Where such boundaries are shown as being within street and alley lines or within identifiable rightsofway or creeks, the centerline thereof shall be construed to be the district boundary.
 
-3. Where a street, alley or right-of-way is officially vacated or abandoned, the zoning designation of the abutting property shall apply to the centerline of the vacated or abandoned street, alley or right-of-way.
+3. Where a district boundary divides a non-subdivided parcel, the location of the district boundary shall be determined by the use of the scale appearing on the Zoning District Map unless indicated by dimensions.
 
-4. Should any uncertainty remain about the location or meaning of a boundary indicated on the Zoning District Map, the uncertainty shall be resolved by the Planning and Zoning Administrator, whose decision may be appealed to the [Board of Zoning Adjustment](#article-20-review-and-decision-making-bodies).
+4. Map codes or symbols indicating the classification of property on the Zoning District Map apply to the entire area within the district boundaries.
+
+5. Where a street, alley or right‑of‑way is officially vacated or abandoned, the zoning designation of the abutting property shall apply to the centerline of the vacated or abandoned street, alley or right‑of‑way.
+
+6. Should any uncertainty remain about the location or meaning of a boundary indicated on the Zoning District Map, the uncertainty shall be resolved by the Planning and Zoning Administrator, whose decision may be appealed to the [Board of Zoning Adjustment](#article-20-review-and-decision-making-bodies).
 
 ## 10.12 Conflicting Provisions
 
@@ -128,19 +138,25 @@ These Zoning Regulations is not intended to abrogate, annul, or otherwise interf
 ### A. Violations Continue
 Any violation of the previous zoning, subdivision or sign regulations of the county shall continue to be a violation under these Zoning Regulations and shall be subject to penalties and enforcement under [Article 140](#article-140-violations-penalties-and-enforcement), unless the use, development, construction or other activity is consistent with the express terms of these Zoning Regulations, in which case enforcement action shall cease, except to the extent of collecting penalties for violations that occurred before June 10, 2005.
 
-### B. Completion of Development
+2. Completion of Development
 
-1. **Applications Submitted Before June 10, 2005.** Any building, development or sign for which a complete application was submitted to the county before June 10, 2005 and pending approval on June 10, 2005 may, at the applicant's option, be reviewed wholly under the terms of the county's previous Zoning Regulations, zoning or subdivision regulations. If approved, such projects may be carried out in accordance with the development standards in effect at the time of application. Any re-application for an expired permit shall meet the standards in effect at the time of re-application.
+        1. Applications Submitted Before June 10, 2005.
 
-2. **Permit Issued before June 10, 2005.** Any building, development or sign for which a permit was duly issued before June 10, 2005 may be completed in conformance with the issued permit and other applicable permits and conditions, even if such building, development or sign does not fully comply with provisions of these Zoning Regulations. If construction is not commenced or completed in accordance with the applicable permit terms, the County Commission may, for good cause shown, grant not more than 1 extension of up to 6 months for such construction. If the building is not completed in a timely manner, within the time allowed under the original permit or any extension granted, then the building, development or sign may be constructed, completed or occupied only in strict compliance with the requirements of this development code.
+   Any building, development or sign for which a complete application was submitted to the county before June 10, 2005 and pending approval on June 10, 2005 may, at the applicant's option, be reviewed wholly under the terms of the county's previous Zoning Regulations, zoning or subdivision regulations. If approved, such projects may be carried out in accordance with the development standards in effect at the time of application. Any re-application for an expired permit shall meet the standards in effect at the time of re-application.
 
-3. **Plats Approved Before June 10, 2005.** Any subdivision for which a preliminary or final plat was approved before June 10, 2005 may be recorded in accordance with the approved plat and other applicable permits and conditions, even if the subdivision does not fully comply with the provisions of these Zoning Regulations. If the subdivision is not recorded within the time requirements established by prior ordinance or resolution or within any schedule included in the approval of the plat, the County Commission may, for good cause shown, grant 1 extension of not more than 1 year for the recordation of such subdivision. If the subdivision is not recorded within the time required under the original approval or any extension that may be granted, then the subdivision may be recorded and buildings therein constructed and used only in strict compliance with the requirements of these Zoning Regulations.
+                2. Permit Issued before June 10, 2005
 
-### C. Zoning District Name Conversions
+   Any building, development or sign for which a permit was duly issued before June 10, 2005 may be completed in conformance with the issued permit and other applicable permits and conditions, even if such building, development or sign does not fully comply with provisions of these Zoning Regulations. If construction is not commenced or completed in accordance with the applicable permit terms, the County Commission may, for good cause shown, grant not more than 1 extension of up to 6 months for such construction. If the building is not completed in a timely manner, within the time allowed under the original permit or any extension granted, then the building, development or sign may be constructed, completed or occupied only in strict compliance with the requirements of this development code.
+
+                3. Plats Approved Before June 10, 2005
+
+   Any subdivision for which a preliminary or final plat was approved before June 10, 2005 may be recorded in accordance with the approved plat and other applicable permits and conditions, even if the subdivision does not fully comply with the provisions of these Zoning Regulations. If the subdivision is not recorded within the time requirements established by prior ordinance or resolution or within any schedule included in the approval of the plat, the County Commission may, for good cause shown, grant 1 extension of not more than 1 year for the recordation of such subdivision. If the subdivision is not recorded within the time required under the original approval or any extension that may be granted, then the subdivision may be recorded and buildings therein constructed and used only in strict compliance with the requirements of these Zoning Regulations.
+
+        C. Zoning District Name Conversions
 The zoning district names in effect before June 10, 2005 remain the same after June 10, 2005.
 
-### D. Conditional Uses
-Any use that was legally established before June 10, 2005 without a Conditional Use Permit and which after June 10, 2005 would require a Conditional Use Permit, shall not be deemed a nonconforming use but rather shall be deemed to possess a Conditional Use Permit (without following the procedures of [Article 30.9](#article-30-development-review-procedures)). This provision shall not apply to mobile homes or manufactured housing units.
+        D. Conditional Uses
+Any use that was legally established before June 10, 2005 without a Conditional Use Permit and which after June 10, 2005 would require a Conditional Use Permit, shall not be deemed a nonconforming use but rather shall be deemed to possess a Conditional Use Permit (without following the procedures of [Article 30.9](Article_30_Development_Review_Procedures.md#308-conditional-use-permits)). This provision shall not apply to mobile homes or manufactured housing units.
 
 ## 10.14 Severability
 

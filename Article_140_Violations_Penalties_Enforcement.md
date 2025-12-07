@@ -100,30 +100,3 @@ The revocation process shall include:
 2. Opportunity for a hearing before the County Commission
 3. Written decision with findings of fact
 
-## 140.5 Penalty Structure
-
-### A. Civil Penalties
-1. First violation: Warning or fine up to $100
-2. Subsequent violations: Fines up to $500 per violation
-3. Continuing violations: Daily fines up to $100 per day
-
-### B. Criminal Penalties
-Violations prosecuted as misdemeanors may result in:
-1. Fines up to the maximum allowed by state law
-2. Court costs and attorney fees
-3. Other penalties as provided by law
-
-### C. Cost Recovery
-The county may recover costs associated with enforcement actions, including:
-1. Administrative costs
-2. Legal fees
-3. Inspection and investigation costs
-4. Costs of corrective action taken by the county
-
-## 140.6 Emergency Enforcement
-
-In cases where violations pose immediate threats to public health, safety, or welfare, the county may:
-1. Issue immediate stop work orders
-2. Require immediate cessation of violating activities
-3. Take emergency action to abate violations
-4. Recover emergency response costs from responsible parties
