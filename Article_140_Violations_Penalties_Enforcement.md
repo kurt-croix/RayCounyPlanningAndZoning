@@ -3,11 +3,11 @@
 ## 140.1 Responsibility for Enforcement
 
 ### A. Enforcement Authority
-The Planning and Zoning Administrator, Building Official, and other designated county officials shall be responsible for enforcing the provisions of these Zoning Regulations.
+The [Planning and Zoning Administrator](./Article_150_Definitions.md#planning-and-zoning-administrator), [Building Official](./Article_150_Definitions.md#building-official), and other designated county officials shall be responsible for enforcing the provisions of these Zoning Regulations.
 
 ### B. Right of Entry
 Authorized enforcement officials may enter upon private property at reasonable times for the purpose of inspecting and investigating conditions relating to the enforcement of these regulations, provided that:
-1. Reasonable notice is given to the property owner or occupant
+1. Reasonable notice is given to the [property owner](./Article_150_Definitions.md#property-owner) or [occupant](./Article_150_Definitions.md#occupant)
 2. Entry is made during normal business hours unless emergency conditions exist
 3. A warrant is obtained if entry is refused
 
@@ -22,7 +22,7 @@ It shall be unlawful to:
 ### B. Development Violations
 It shall be unlawful to:
 1. Construct, alter, or move any [building](./Article_150_Definitions.md#building) or [structure](./Article_150_Definitions.md#structure) without required permits
-2. Fail to comply with approved site plans or development plans
+2. Fail to comply with approved [site plans](./Article_150_Definitions.md#site-plan) or [development plans](./Article_150_Definitions.md#development-plan)
 3. Violate [setback](./Article_150_Definitions.md#setback), height, or other dimensional requirements
 
 ### C. Sign Violations
@@ -42,7 +42,7 @@ It shall be unlawful to:
 The county may pursue any or all of the following remedies for violations of these regulations:
 
 ### A. Notice of Violation
-Written notice shall be served upon the property owner and any other responsible party, specifying:
+Written notice shall be served upon the [property owner](./Article_150_Definitions.md#property-owner) and any other responsible party, specifying:
 1. The nature of the violation
 2. The action required to correct the violation
 3. The time limit for compliance
@@ -52,7 +52,7 @@ Written notice shall be served upon the property owner and any other responsible
 The county may issue stop work orders to halt any activity that violates these regulations.
 
 ### C. Revocation of Permits
-The county may revoke permits, certificates, or approvals for violations of these regulations or approved conditions.
+The county may revoke [permits](./Article_150_Definitions.md#permit), [certificates](./Article_150_Definitions.md#certificate), or approvals for violations of these regulations or approved conditions.
 
 ### D. Civil Penalties
 Civil penalties may be imposed for violations, with daily penalties for continuing violations.
@@ -77,7 +77,7 @@ Violations may be prosecuted as misdemeanors under applicable state law.
 
 ### C. Administrative Hearings
 1. Property owners may request administrative hearings to contest alleged violations
-2. Hearings shall be conducted by the Planning and Zoning Administrator or designated hearing officer
+2. Hearings shall be conducted by the [Planning and Zoning Administrator](./Article_150_Definitions.md#planning-and-zoning-administrator) or designated [hearing officer](./Article_150_Definitions.md#hearing-officer)
 3. Written decisions shall be issued following hearings
 
 ### D. Appeals

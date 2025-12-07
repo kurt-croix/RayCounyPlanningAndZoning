@@ -11,10 +11,10 @@ The off-street parking and loading standards of this Article apply to any new [b
 The off-street parking and loading standards of this Article apply when an existing [structure](./Article_150_Definitions.md#structure) or [use](./Article_150_Definitions.md#use) is expanded or enlarged. Additional off-street parking and loading spaces will be required only to serve the enlarged or expanded area, not the entire [building](./Article_150_Definitions.md#building) or [use](./Article_150_Definitions.md#use), provided that in all cases the number of off-street parking and loading spaces provided for the entire [use](./Article_150_Definitions.md#use) (preexisting & expansion) must equal at least 75 percent of minimum ratio established in Off-Street Parking Schedule "A" of this Article.
 
 #### 3. Timing of Installation
-Required parking spaces and drives shall be ready for use and approved by the Planning and Zoning Administrator prior to issuance of a certificate of occupancy. The Planning and Zoning Administrator shall be authorized to allow issuance of a certificate of occupancy before installation of required parking if the applicant provides a letter of credit, performance bond, escrow deposit or other acceptable financial security adequate to ensure that all required parking will be installed when weather conditions permit. The amount of the financial guarantee must be equal to at least 100 percent of the estimated total cost (labor and materials). The county shall be authorized to use such financial guarantee to complete the work if the required parking is not in place by the date stated on the approved performance guarantee.
+Required [parking spaces](./Article_150_Definitions.md#parking-space) and drives shall be ready for use and approved by the [Planning and Zoning Administrator](./Article_150_Definitions.md#planning-and-zoning-administrator) prior to issuance of a [certificate of occupancy](./Article_150_Definitions.md#certificate-of-occupancy). The Planning and Zoning Administrator shall be authorized to allow issuance of a certificate of occupancy before installation of required parking if the applicant provides a letter of credit, performance bond, escrow deposit or other acceptable financial security adequate to ensure that all required parking will be installed when weather conditions permit. The amount of the financial guarantee must be equal to at least 100 percent of the estimated total cost (labor and materials). The county shall be authorized to use such financial guarantee to complete the work if the required parking is not in place by the date stated on the approved performance guarantee.
 
 #### 4. No Reduction Below Minimums
-Existing parking and loading spaces may not be reduced below the minimum requirements established in this Article. Any change in use that increases applicable off-street parking or loading requirements will be deemed a violation of these Zoning Regulations unless parking and loading spaces are provided in accordance with the provisions of this Article.
+Existing parking and loading spaces may not be reduced below the minimum requirements established in this Article. Any change in [use](./Article_150_Definitions.md#use) that increases applicable off-street [parking](./Article_150_Definitions.md#parking-space) or loading requirements will be deemed a violation of these Zoning Regulations unless parking and loading spaces are provided in accordance with the provisions of this Article.
 
 ### B. Off-Street Parking Schedules
 
@@ -35,9 +35,9 @@ Off-Street Parking Schedule "A" lists minimum off-street parking requirements by
 | | Detention Facilities | Schedule C |
 | | Hospital | 1 per patient bed, plus 1 per 300 square feet of administrative office, plus 1 per 200 square feet of outpatient clinic space |
 | | Parks and Open Areas | Schedule C |
-| | Religious Institutions | 0.33 per seat in main worship area* |
+| | [Religious Institutions](./Article_150_Definitions.md#religious-institution) | 0.33 per [seat](./Article_150_Definitions.md#seat) in main worship area* |
 | | Safety Service | 1 per employee or Schedule C |
-| | Schools | Elementary, Middle/Junior High: 1 per teacher/employee + 10 visitor spaces or Schedule C<br>Senior High: 1 per teacher/employee + 1 per 5 students or Schedule C |
+| | Schools | Elementary, Middle/Junior High: 1 per [teacher](./Article_150_Definitions.md#teacher)/[employee](./Article_150_Definitions.md#employee) + 10 visitor spaces or Schedule C<br>Senior High: 1 per teacher/employee + 1 per 5 [students](./Article_150_Definitions.md#student) or Schedule C |
 | | Utilities, Basic | None |
 | | Utilities, Major | 1 per employee or Schedule C |
 | **Commercial** | | |
@@ -45,9 +45,9 @@ Off-Street Parking Schedule "A" lists minimum off-street parking requirements by
 | | Office | Medical: 1 per 200 square feet<br>All Other Office: 1 per 300 square feet |
 | | Parking, Commercial | N/A |
 | | Recreation and Entertainment, Outdoor | Schedule B |
-| | Retail Sales/Service | Bank or Financial Service: 1 per 250 square feet, plus stacking spaces per this Article<br>Car Wash: Stacking spaces per this Article<br>Health Club: 1 per 200 square feet<br>Hotel, motel or other temporary lodging: 1 per guest room, plus required spaces for associated uses<br>Restaurants (Sit-Down), Taverns, Drinking Establishments: 1 per 75 square feet<br>Restaurants, Drive-in or Fast-Food: 1 per 75 square feet of customer service and dining area or 1 per 150 square feet of gross floor area, whichever is greater, plus stacking spaces per this Article<br>Theater: 1 per 4 seats<br>Vehicle and Equipment Sales: Schedule B<br>All other Retail Sales and Service uses not specifically listed: 1 per 250 square feet |
-| | Self-Service Storage | 1 plus 1 per 2,500 square feet of storage space |
-| | Vehicle Service/Repair | 5 per service bay |
+| | Retail Sales/Service | Bank or Financial Service: 1 per 250 square feet, plus stacking spaces per this Article<br>Car Wash: Stacking spaces per this Article<br>Health Club: 1 per 200 [square feet](./Article_150_Definitions.md#square-feet)<br>Hotel, motel or other temporary lodging: 1 per [guest room](./Article_150_Definitions.md#guest-room), plus required spaces for associated uses<br>Restaurants (Sit-Down), Taverns, Drinking Establishments: 1 per 75 square feet<br>Restaurants, Drive-in or Fast-Food: 1 per 75 square feet of customer service and dining area or 1 per 150 square feet of gross floor area, whichever is greater, plus stacking spaces per this Article<br>Theater: 1 per 4 seats<br>Vehicle and Equipment Sales: Schedule B<br>All other Retail Sales and Service uses not specifically listed: 1 per 250 square feet |
+| [Self-Service Storage](./Article_150_Definitions.md#self-service-storage) | 1 plus 1 per 2,500 [square feet](./Article_150_Definitions.md#square-feet) of [storage space](./Article_150_Definitions.md#storage-space) |
+| [Vehicle Service](./Article_150_Definitions.md#vehicle-service)/Repair | 5 per [service bay](./Article_150_Definitions.md#service-bay) |
 | **Industrial** | | |
 | | Industrial Service | 1 per 500 square feet or Schedule B |
 | | Manufacturing and Production | 1 per 500 square feet or Schedule B |

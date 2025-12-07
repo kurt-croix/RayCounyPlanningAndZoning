@@ -4,33 +4,33 @@
 
 ### A. General
 
-Dams and water impoundment structures shall be planned, designed and constructed under the supervision of a structural or professional engineer registered in the State of Missouri and shall comply with all applicable county and state standards. A preliminary engineering report, including soil investigations and design procedures, in accordance with state and county standards, may be submitted to the county prior to any development approval. The applicant's engineer shall certify that the dam is constructed in accordance with the approved plans and specifications. (See [Article 80.13](./Article_80_Subdivision_Design_Improvements.md#8013-dams-and-water-impoundment-structures))
+Dams and water [impoundment structures](./Article_150_Definitions.md#impoundment-structure) shall be planned, designed and constructed under the supervision of a structural or professional [engineer](./Article_150_Definitions.md#engineer) registered in the [State of Missouri](https://revisor.mo.gov/main/Home.aspx) and shall comply with all applicable county and state standards. A preliminary engineering report, including soil investigations and design procedures, in accordance with state and county standards, may be submitted to the county prior to any development approval. The applicant's engineer shall certify that the dam is constructed in accordance with the approved plans and specifications. (See [Article 80.13](./Article_80_Subdivision_Design_Improvements.md#8013-dams-and-water-impoundment-structures))
 
 ### B. Dams
 
-A dam construction permit must be obtained from the Building Official before beginning construction of any dam. A dam construction permit shall only be granted as follows:
+A dam construction permit must be obtained from the [Building Official](./Article_150_Definitions.md#building-official) before beginning [construction](./Article_150_Definitions.md#construction) of any dam. A dam construction permit shall only be granted as follows:
 
 **1. Small Parcel Dams (Less than 20 acres)**
-Dams that are proposed to be constructed on parcels of less than 20 acres in area shall be designed by a professional engineer registered in the State of Missouri. Prior to construction of such dam, detailed design plans shall be submitted for review by the Building Official for compliance with all applicable county and state standards. After the construction of such dam, the engineer shall certify that the dam is built in accordance with the approved plans.
+Dams that are proposed to be constructed on [parcels](./Article_150_Definitions.md#parcel) of less than 20 acres in area shall be designed by a [professional engineer](./Article_150_Definitions.md#professional-engineer) registered in the [State of Missouri](https://revisor.mo.gov/main/Home.aspx). Prior to construction of such dam, detailed design plans shall be submitted for review by the [Building Official](./Article_150_Definitions.md#building-official) for compliance with all applicable county and state standards. After the construction of such dam, the engineer shall certify that the dam is built in accordance with the approved plans.
 
 **2. Plan Requirements**
 Submitted plans must show the method of dam construction, the materials to be used for fill, including the specified soil types, all proposed structures for the control of excess water, and the maximum land area that the impounded water could cover. The plan shall note the number of acres contained in the drainage area topographically higher than the lowest point of the dam.
 
 **3. Large Drainage Area Dams (20+ acres)**
-Dams that impound water from a drainage area of 20 acres or more shall be designed by a professional engineer registered in the State of Missouri. Prior to construction of such, detailed design plans and specifications shall be submitted to the County Engineer for design review and compliance with State of Missouri standards. The professional engineer shall certify that the dam has been constructed in accordance with the plans and specifications and State of Missouri standards.
+Dams that impound water from a [drainage area](./Article_150_Definitions.md#drainage-area) of 20 acres or more shall be designed by a [professional engineer](./Article_150_Definitions.md#professional-engineer) registered in the [State of Missouri](https://revisor.mo.gov/main/Home.aspx). Prior to construction of such, detailed design plans and specifications shall be submitted to the [County Engineer](./Article_150_Definitions.md#county-engineer) for design review and compliance with State of Missouri standards. The professional engineer shall certify that the dam has been constructed in accordance with the plans and specifications and State of Missouri standards.
 
 **4. Setback Requirements**
-No pond or lake shall be located closer than 50 feet to any county, state or city road, street or road right-of-way.
+No [pond](./Article_150_Definitions.md#pond) or lake shall be located closer than 50 feet to any county, state or city road, [street](./Article_150_Definitions.md#street) or road [right-of-way](./Article_150_Definitions.md#right-of-way).
 
 **5. Utility Restrictions**
-No pond or lake shall impound water over a utility easement, except a drainage easement, or over an existing utility line including sewage lateral fields. Where impounded waters will back up on to other (off-site) property, water impoundment easements shall be required and recorded.
+No [pond](./Article_150_Definitions.md#pond) or lake shall impound water over a [utility easement](./Article_150_Definitions.md#utility-easement), except a [drainage easement](./Article_150_Definitions.md#drainage-easement), or over an existing utility line including sewage lateral fields. Where impounded waters will back up on to other (off-site) [property](./Article_150_Definitions.md#property), water impoundment easements shall be required and recorded.
 
 **6. Exemptions**
-Ponds or lakes with a surface area of 1 acre or less (at normal pool level or normal spillway elevation) and used exclusively for an individual dwelling unit's sewage retention or for agricultural purposes shall be exempt from the standards of this Article.
+Ponds or lakes with a [surface area](./Article_150_Definitions.md#surface-area) of 1 acre or less (at normal pool level or normal spillway elevation) and used exclusively for an individual [dwelling unit's](./Article_150_Definitions.md#dwelling-unit) sewage retention or for [agricultural purposes](./Article_150_Definitions.md#agricultural) shall be exempt from the standards of this Article.
 
 ### C. Retention Basins
 
-When the development of a site will substantially increase the runoff of stormwater onto adjoining properties, the County Engineer may require that retention basins be provided onsite to control the rate of runoff.
+When the [development](./Article_150_Definitions.md#development) of a site will substantially increase the [runoff](./Article_150_Definitions.md#runoff) of [stormwater](./Article_150_Definitions.md#stormwater) onto adjoining properties, the [County Engineer](./Article_150_Definitions.md#county-engineer) may require that [retention basins](./Article_150_Definitions.md#retention-basin) be provided onsite to control the rate of runoff.
 
 ### D. Dam Breach Studies
 
