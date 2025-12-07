@@ -616,10 +616,10 @@ Written and Published notice of the Planning and Zoning Commission’s public he
 The Planning and Zoning Department shall review each proposed Conditional Use Permit and provide a report to the Planning and Zoning Commission.
 
 #### 11. Planning and Zoning Commission’s Review and Recommendation
-The Planning and Zoning Commission shall hold a public hearing on the proposed Conditional Use Permit and make a recommendation to the County Commission based on the Approval Criteria of Article 30.37F. The Planning and Zoning Commission’s hearing shall be set for a date not later than 60 days after receipt of a complete application.
+The Planning and Zoning Commission shall hold a public hearing on the proposed Conditional Use Permit and make a recommendation to the County Commission based on the Approval Criteria of subsection 13 of this Article. The Planning and Zoning Commission’s hearing shall be set for a date not later than 60 days after receipt of a complete application.
 
 #### 12. County Commission Review and Decision
-After receiving the recommendation of the Planning and Zoning Commission, the County Commission shall take action on the Conditional Use Permit application based on the Approval Criteria of Article 30.7F.
+After receiving the recommendation of the Planning and Zoning Commission, the County Commission shall take action on the Conditional Use Permit application based on the Approval Criteria of subsection 13 of this Article.
 
 #### 13. Approval Criteria
 A Conditional Use Permit shall not be approved unless the County Commission determines, based directly upon the particular evidence presented, that all of the following conditions exist:
