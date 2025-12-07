@@ -318,20 +318,6 @@ In all areas of special flood hazard, the following standards are required:
 3. All subdivision proposals shall have adequate drainage provided to reduce exposure to flood hazards
 4. Base flood elevation data shall be provided for subdivision proposals and other proposed development which contains at least 50 lots or 5 acres, whichever is less
 
-## 110.10 Residential and Nonresidential Building Floodplain Protection Standards
-
-### A. Applicability
-
-The standards of this Article shall apply in all areas identified as numbered and unnumbered A zones, AE and AH zones, where base flood elevation data has been provided.
-
-### B. Residential Construction
-
-In AE and AH zones, new construction and substantial improvement of any residential structure shall have the lowest floor elevated to or above the base flood elevation. Should solid foundation perimeter walls be used to elevate a structure, openings sufficient to facilitate the unimpeded movements of flood waters shall be provided.
-
-### C. Nonresidential Construction
-
-In AE and AH zones, new construction and substantial improvement of any commercial, industrial, or other nonresidential structure shall either have the lowest floor elevated to or above the level of the base flood elevation, or together with attendant utility and sanitary facilities, be floodproofed so that below the base flood elevation the structure is watertight with walls substantially impermeable to the passage of water.
-
 ## 110.11 Floodplain Standards for Manufactured Housing Units and Mobile Homes
 
 All manufactured homes to be placed or substantially improved within Special Flood Hazard Areas on sites:
