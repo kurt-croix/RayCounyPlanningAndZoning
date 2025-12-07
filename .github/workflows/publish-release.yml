@@ -78,7 +78,9 @@ jobs:
             sed 's|\[Article 130\](./Article_130_Nonconformities.md)|[Article 130](#article-130---nonconformities)|g' | \
             sed 's|\[Article 140\](./Article_140_Violations_Penalties_Enforcement.md)|[Article 140](#article-140---violations-penalties-and-enforcement)|g' | \
             sed 's|\[Article 150\](./Article_150_Definitions.md)|[Article 150](#article-150---definitions)|g' | \
-            sed 's|\[Article 160\](./Article_160_Fee_Schedule.md)|[Article 160](#article-160---fee-schedule)|g' \
+            sed 's|\[Article 160\](./Article_160_Fee_Schedule.md)|[Article 160](#article-160---fee-schedule)|g' | \
+            sed 's|\[Index and Attachments\](./Index_and_Attachments.md)|[Index and Attachments](#index-and-attachments)|g' | \
+            sed 's|\.\\/Article_\([0-9]\+\)_[^.]*\.md#\([^)]*\)|#\2|g' \
             >> release_output/Ray_County_Zoning_Regulations_Complete.md
           
           echo "" >> release_output/Ray_County_Zoning_Regulations_Complete.md
@@ -128,7 +130,26 @@ jobs:
             print(convert_internal_links(content))
         PYTHON
         
-        # Add all articles in order with link conversion
+        # Add all articles in order with link conversion and proper headings
+        declare -A article_titles
+        article_titles["Article_10_Introductory_Provisions.md"]="Article 10 - Introductory Provisions"
+        article_titles["Article_20_Review_Decision_Making_Bodies.md"]="Article 20 - Review and Decision-Making Bodies"
+        article_titles["Article_30_Development_Review_Procedures.md"]="Article 30 - Development Review Procedures"
+        article_titles["Article_40_Base_Zoning_Districts.md"]="Article 40 - Base Zoning Districts"
+        article_titles["Article_50_Overlay_Special_Purpose_Zoning_Districts.md"]="Article 50 - Overlay and Special Purpose Zoning Districts"
+        article_titles["Article_60_Use_Regulations.md"]="Article 60 - Use Regulations"
+        article_titles["Article_70_Density_Dimensional_Standards.md"]="Article 70 - Density and Dimensional Standards"
+        article_titles["Article_80_Subdivision_Design_Improvements.md"]="Article 80 - Subdivision Design and Improvements"
+        article_titles["Article_90_Perimeter_Roadway_Improvements.md"]="Article 90 - Perimeter Roadway Improvements"
+        article_titles["Article_100_Development_Standards.md"]="Article 100 - Development Standards"
+        article_titles["Article_110_Environmental.md"]="Article 110 - Environmental"
+        article_titles["Article_120_Signs.md"]="Article 120 - Signs"
+        article_titles["Article_130_Nonconformities.md"]="Article 130 - Nonconformities"
+        article_titles["Article_140_Violations_Penalties_Enforcement.md"]="Article 140 - Violations, Penalties and Enforcement"
+        article_titles["Article_150_Definitions.md"]="Article 150 - Definitions"
+        article_titles["Article_160_Fee_Schedule.md"]="Article 160 - Fee Schedule"
+        article_titles["Index_and_Attachments.md"]="Index and Attachments"
+        
         for article in \
           "Article_10_Introductory_Provisions.md" \
           "Article_20_Review_Decision_Making_Bodies.md" \
@@ -151,6 +172,10 @@ jobs:
           if [ -f "$article" ]; then
             echo "" >> release_output/Ray_County_Zoning_Regulations_Complete.md
             echo "---" >> release_output/Ray_County_Zoning_Regulations_Complete.md
+            echo "" >> release_output/Ray_County_Zoning_Regulations_Complete.md
+            
+            # Add the article title as a heading
+            echo "# ${article_titles[$article]}" >> release_output/Ray_County_Zoning_Regulations_Complete.md
             echo "" >> release_output/Ray_County_Zoning_Regulations_Complete.md
             
             # Process the article content through the link converter
