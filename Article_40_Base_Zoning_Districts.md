@@ -189,9 +189,24 @@ The following table shows which uses are allowed in the R-1 district. For a summ
 
 *Shared driveways excepted
 
-2. **Open Space Development** - Open Space may be included in all residential developments with specific conditions.
+2. **Open Space Development** - Open Space may be included in all residential developments with the following conditions:
+   - a. the number of units cannot be increased
+   - b. The size of the lots may not fall below the minimum for the zoning district
+   - c. Homeowner Association Protective Covenants are required in order to maintain the open space
+   - d. Open Space may be utilized for active or passive recreation purposes for the development
+   - e. Open Space should be accessible from all lots within the subdivision
 
-**Maximum Building Height** - See Section 40.16 for complete dimensional standards.
+3. **All Development** - The following standards apply to all development in the R-1 district:
+
+| Standard | Requirement |
+|----------|-------------|
+| **Maximum building height** | |
+| - Principal structures | 40 feet |
+| - Farm structures | No limit |
+| - Non-farm accessory structures | 30 feet |
+| **Minimum residential living area** | |
+| - 1-story | 1,000 square feet |
+| - 2 or more stories | 1,400 square feet |
 
 For complete dimensional standards, see the table in Section 40.16 below.
 ## 40.5 R-1A Residential Low Density District
