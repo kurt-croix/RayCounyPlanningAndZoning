@@ -50,18 +50,80 @@ jobs:
         
         EOL
         
-        # Add README content (Table of Contents)
+        # Add README content (Table of Contents) with adjusted links
         if [ -f "README.md" ]; then
           echo "" >> release_output/Ray_County_Zoning_Regulations_Complete.md
           echo "## Table of Contents" >> release_output/Ray_County_Zoning_Regulations_Complete.md
           echo "" >> release_output/Ray_County_Zoning_Regulations_Complete.md
-          tail -n +2 README.md >> release_output/Ray_County_Zoning_Regulations_Complete.md
+          
+          # Process README and convert article links to internal anchors
+          tail -n +2 README.md | \
+            sed 's|\[Article 10\](./Article_10_Introductory_Provisions.md)|[Article 10](#article-10---introductory-provisions)|g' | \
+            sed 's|\[Article 20\](./Article_20_Review_Decision_Making_Bodies.md)|[Article 20](#article-20---review-and-decision-making-bodies)|g' | \
+            sed 's|\[Article 30\](./Article_30_Development_Review_Procedures.md)|[Article 30](#article-30---development-review-procedures)|g' | \
+            sed 's|\[Article 40\](./Article_40_Base_Zoning_Districts.md)|[Article 40](#article-40---base-zoning-districts)|g' | \
+            sed 's|\[Article 50\](./Article_50_Overlay_Special_Purpose_Zoning_Districts.md)|[Article 50](#article-50---overlay-and-special-purpose-zoning-districts)|g' | \
+            sed 's|\[Article 60\](./Article_60_Use_Regulations.md)|[Article 60](#article-60---use-regulations)|g' | \
+            sed 's|\[Article 70\](./Article_70_Density_Dimensional_Standards.md)|[Article 70](#article-70---density-and-dimensional-standards)|g' | \
+            sed 's|\[Article 80\](./Article_80_Subdivision_Design_Improvements.md)|[Article 80](#article-80---subdivision-design-and-improvements)|g' | \
+            sed 's|\[Article 90\](./Article_90_Perimeter_Roadway_Improvements.md)|[Article 90](#article-90---perimeter-roadway-improvements)|g' | \
+            sed 's|\[Article 100\](./Article_100_Development_Standards.md)|[Article 100](#article-100---development-standards)|g' | \
+            sed 's|\[Article 110\](./Article_110_Environmental.md)|[Article 110](#article-110---environmental)|g' | \
+            sed 's|\[Article 120\](./Article_120_Signs.md)|[Article 120](#article-120---signs)|g' | \
+            sed 's|\[Article 130\](./Article_130_Nonconformities.md)|[Article 130](#article-130---nonconformities)|g' | \
+            sed 's|\[Article 140\](./Article_140_Violations_Penalties_Enforcement.md)|[Article 140](#article-140---violations-penalties-and-enforcement)|g' | \
+            sed 's|\[Article 150\](./Article_150_Definitions.md)|[Article 150](#article-150---definitions)|g' | \
+            sed 's|\[Article 160\](./Article_160_Fee_Schedule.md)|[Article 160](#article-160---fee-schedule)|g' \
+            >> release_output/Ray_County_Zoning_Regulations_Complete.md
+          
           echo "" >> release_output/Ray_County_Zoning_Regulations_Complete.md
           echo "---" >> release_output/Ray_County_Zoning_Regulations_Complete.md
           echo "" >> release_output/Ray_County_Zoning_Regulations_Complete.md
         fi
         
-        # Add all articles in order
+        # Create a temporary processing script for link conversion
+        cat > convert_links.py << 'PYTHON'
+        import sys
+        import re
+        
+        def convert_internal_links(content):
+            # Convert cross-article references to internal anchors
+            conversions = {
+                r'\[Article 10\.(\d+)\]\(\.\/Article_10_Introductory_Provisions\.md#([^)]+)\)': r'[Article 10.\1](#\2)',
+                r'\[Article 20\.(\d+)\]\(\.\/Article_20_Review_Decision_Making_Bodies\.md#([^)]+)\)': r'[Article 20.\1](#\2)',
+                r'\[Article 30\.(\d+)\]\(\.\/Article_30_Development_Review_Procedures\.md#([^)]+)\)': r'[Article 30.\1](#\2)',
+                r'\[Article 40\.(\d+)\]\(\.\/Article_40_Base_Zoning_Districts\.md#([^)]+)\)': r'[Article 40.\1](#\2)',
+                r'\[Article 50\.(\d+)\]\(\.\/Article_50_Overlay_Special_Purpose_Zoning_Districts\.md#([^)]+)\)': r'[Article 50.\1](#\2)',
+                r'\[Article 60\.(\d+)\]\(\.\/Article_60_Use_Regulations\.md#([^)]+)\)': r'[Article 60.\1](#\2)',
+                r'\[Article 70\.(\d+)\]\(\.\/Article_70_Density_Dimensional_Standards\.md#([^)]+)\)': r'[Article 70.\1](#\2)',
+                r'\[Article 80\.(\d+)\]\(\.\/Article_80_Subdivision_Design_Improvements\.md#([^)]+)\)': r'[Article 80.\1](#\2)',
+                r'\[Article 90\.(\d+)\]\(\.\/Article_90_Perimeter_Roadway_Improvements\.md#([^)]+)\)': r'[Article 90.\1](#\2)',
+                r'\[Article 100\.(\d+)\]\(\.\/Article_100_Development_Standards\.md#([^)]+)\)': r'[Article 100.\1](#\2)',
+                r'\[Article 110\.(\d+)\]\(\.\/Article_110_Environmental\.md#([^)]+)\)': r'[Article 110.\1](#\2)',
+                r'\[Article 120\.(\d+)\]\(\.\/Article_120_Signs\.md#([^)]+)\)': r'[Article 120.\1](#\2)',
+                r'\[Article 130\.(\d+)\]\(\.\/Article_130_Nonconformities\.md#([^)]+)\)': r'[Article 130.\1](#\2)',
+                r'\[Article 140\.(\d+)\]\(\.\/Article_140_Violations_Penalties_Enforcement\.md#([^)]+)\)': r'[Article 140.\1](#\2)',
+                r'\[Article 150\.(\d+)\]\(\.\/Article_150_Definitions\.md#([^)]+)\)': r'[Article 150.\1](#\2)',
+                r'\[Article 160\.(\d+)\]\(\.\/Article_160_Fee_Schedule\.md#([^)]+)\)': r'[Article 160.\1](#\2)',
+                
+                # Convert definition links to work within single document
+                r'\]\(\.\/Article_150_Definitions\.md#([^)]+)\)': r'](#\1)',
+                
+                # Convert table references
+                r'\]\(tables\/([^)]+)\.md\)': r'](#\1)',
+            }
+            
+            for pattern, replacement in conversions.items():
+                content = re.sub(pattern, replacement, content)
+            
+            return content
+        
+        if __name__ == "__main__":
+            content = sys.stdin.read()
+            print(convert_internal_links(content))
+        PYTHON
+        
+        # Add all articles in order with link conversion
         for article in \
           "Article_10_Introductory_Provisions.md" \
           "Article_20_Review_Decision_Making_Bodies.md" \
@@ -86,8 +148,8 @@ jobs:
             echo "---" >> release_output/Ray_County_Zoning_Regulations_Complete.md
             echo "" >> release_output/Ray_County_Zoning_Regulations_Complete.md
             
-            # Add the article content, skipping the first line (title) to avoid duplication
-            tail -n +2 "$article" >> release_output/Ray_County_Zoning_Regulations_Complete.md
+            # Process the article content through the link converter
+            tail -n +2 "$article" | python3 convert_links.py >> release_output/Ray_County_Zoning_Regulations_Complete.md
             
             echo "" >> release_output/Ray_County_Zoning_Regulations_Complete.md
             echo "" >> release_output/Ray_County_Zoning_Regulations_Complete.md
