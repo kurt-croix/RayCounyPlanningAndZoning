@@ -548,26 +548,86 @@ The following table shows which uses are allowed in the R-MHP district. For a su
 ### F. Mobile Home Park Approval Procedure
 An application for R-MHP zoning shall be processed as a Zoning District Map amendment in accordance with the procedures of [Article 30.3](Article_30_Development_Review_Procedures.md#303-zoning-district-map-amendments). At the time of submission of the rezoning application, the applicant shall submit a site plan for the mobile home park. The site plan shall accompany the rezoning application and be reviewed concurrently with the rezoning application by the Planning and Zoning Commission and County Commission. A list of the information required to be shown on the site plan may be obtained from the Planning and Zoning Department.
 
-## 40.10 S&O Service & Office District
+## 40.10 S & O Service & Office District
 
 ### A. Description
-The Service & Office District (S&O) is intended to accommodate limited retail, service and office facilities for the convenience of the residents in the immediate vicinity of the district. The district is intended for uses that are designed and operated to be compatible in scale and appearance with nearby residential development. S&O districts are generally appropriate for application along arterial and minor arterial streets at existing or planned intersections with another arterial streets, minor arterial or collector streets.
+The Service & Office District (S & O) is intended to accommodate limited retail, service and office facilities for the convenience of the residents in the immediate vicinity of the district. The district is intended for uses that are designed and operated to be compatible in scale and appearance with nearby residential development. S & O districts are generally appropriate for application along arterial and minor arterial streets at existing or planned intersections with another arterial streets, minor arterial or collector streets.
 
-The S&O district is appropriate for application in the Rural Density, Low Density or Urban Density Development.
+The S & O district is appropriate for application in the Rural Density, Low Density or Urban Density Development.
 
 ### B. Use Regulations
-The following table shows which uses are allowed in the S&O district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table).
-- P = Permitted by-right
-- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
+The following table shows which uses are allowed in the S & O district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table). (P = Permitted by-right; C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits)))
+
+| Use Type | S & O | Standards |
+|----------|-------|-----------|
+| **Residential** | | |
+| Duplex | C | |
+| Group Residential | C | |
+| House, Attached | C | Subject to 60.2H |
+| House, Detached | C | |
+| Multi-Unit Housing | C | Subject to 60.2Q |
+| **Civic/Institutional** | | |
+| Cemetery | C | RSMo.214 |
+| Convalescent Services | C | |
+| Cultural Services | P | |
+| Parks & Recreation | P | |
+| Religious Assembly, standard | P | |
+| Religious Assembly, mega | P | |
+| Safety Services | P | |
+| School, Primary | C | |
+| School, Secondary | P | |
+| Utility Service, Major | C | |
+| Utility Service, Minor | P | |
+| **Commercial** | | |
+| Convenience Store | P | |
+| Financial Services, without drive-through | P | |
+| Office | P | |
+| Personal Improvement Service | P | |
+| Repair Service, Consumer | P | |
+| Restaurant, Fast Food | C | |
+| Restaurant, General | C | |
+| Retail Sales & Service, Convenience | P | |
+| Retail Sales & Service, General | P | |
+| Vehicle Service, Limited | C | |
+| **Agricultural and Other Uses** | | |
+| Accessory Apartment | C | Subject to 60.3A |
+| Crop Production | P | |
 
 ### C. Density and Dimensional Standards
-See the table in Section 40.16 for complete standards.
+The following standards shall apply in the S&O district:
+
+| Standard | Requirement |
+|----------|-------------|
+| Minimum lot size | 3 acres* |
+| Minimum lot width | 150 feet |
+| Minimum front/street side setback | 35 feet |
+| Minimum interior side setback | 25 feet |
+| Minimum rear setback | 25 feet |
+| Maximum building height (principal/accessory) | 35/35 feet |
+| Maximum building cover | 60 percent |
+| Maximum gross floor area | 12,000 square feet |
+
+*Not less than 20,000 square feet where central sewer treatment and water available
 
 ### D. Other Regulations
+The following additional regulations shall apply in the S & O district.
 
 1. Outdoor storage/display of equipment, materials and merchandise is prohibited.
-2. Any loading dock or loading area shall be fully screened from any property zoned agricultural or residential within 300 feet.
-3. If a S&O district abuts a residential or agricultural district, a solid screen fence of at least 6 feet in height, or equivalent landscaped buffer, may be required if deemed necessary by the County Commission upon recommendation of the Planning and Zoning Commission.
+
+2. Drive-through windows shall require review and approval in accordance with the Conditional Use Permit procedures of [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits).
+
+3. No vehicle or equipment, other than a passenger vehicle or light truck, may be stored or parked in areas visible from off-site for more than 48 consecutive hours.
+
+4. Lighting sources shall be designed and located so that the direct source of the light is shielded from view at all property lines abutting residential or agricultural zoning districts.
+
+5. Storage of items shall not constitute warehousing or distribution in the normal sense but shall be limited to that quantity of stock necessary to the normal administrative, service and sales functions.
+
+6. Any loading dock or loading area shall be fully screened from any property zoned agricultural or residential within 300 feet.
+
+7. Premises selling alcoholic or cereal malt beverages for onpremise consumption shall be located at least 200 feet from any property zoned residential or agricultural and 500 feet from buildings occupied as a church or school of general instruction. However, if any residential, church or school of general instruction use is established after such premises have been licensed for selling alcoholic or cereal malt beverages for onpremise consumption, then such premises shall be deemed to comply with this sub-Article for relicensing certification. 
+   Measurements shall be made between the exterior wall of the principal building in which alcoholic or cereal malt beverages are offered for onpremise consumption and the nearest property line of the existing property occupied as a church or school of general instruction or zoned residential or agricultural.
+
+8. If a S&O district abuts a residential or agricultural district, a solid screen fence of at least 6 feet in height, or equivalent landscaped buffer, may be required if deemed necessary by the County Commission upon recommendation of the Planning and Zoning Commission.
 
 ## 40.11 B-1 Community Business District
 
