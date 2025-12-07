@@ -1,0 +1,428 @@
+name: Publish Ray County Zoning Regulations Release
+
+on:
+  push:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        
+    - name: Install dependencies
+      run: |
+        npm install -g marked
+        sudo apt-get update
+        sudo apt-get install -y pandoc wkhtmltopdf
+        
+    - name: Get current date
+      id: date
+      run: echo "date=$(date +'%Y_%m_%d')" >> $GITHUB_OUTPUT
+      
+    - name: Create aggregated markdown
+      run: |
+        # Create output directory
+        mkdir -p release_output
+        
+        # Copy images directory if it exists
+        if [ -d "images" ]; then
+          cp -r images release_output/
+        fi
+        
+        # Create the aggregated markdown file
+        cat > release_output/Ray_County_Zoning_Regulations_Complete.md << 'EOL'
+        # Ray County Planning & Zoning Regulations (2005)
+        ## Complete Document
+        
+        **Generated on:** $(date)
+        **Source:** Ray County, Missouri
+        
+        ---
+        
+        EOL
+        
+        # Add README content (Table of Contents) with adjusted links
+        if [ -f "README.md" ]; then
+          echo "" >> release_output/Ray_County_Zoning_Regulations_Complete.md
+          echo "## Table of Contents" >> release_output/Ray_County_Zoning_Regulations_Complete.md
+          echo "" >> release_output/Ray_County_Zoning_Regulations_Complete.md
+          
+          # Process README and convert article links to internal anchors
+          tail -n +2 README.md | \
+            sed 's|\[Article 10\](./Article_10_Introductory_Provisions.md)|[Article 10](#article-10---introductory-provisions)|g' | \
+            sed 's|\[Article 20\](./Article_20_Review_Decision_Making_Bodies.md)|[Article 20](#article-20---review-and-decision-making-bodies)|g' | \
+            sed 's|\[Article 30\](./Article_30_Development_Review_Procedures.md)|[Article 30](#article-30---development-review-procedures)|g' | \
+            sed 's|\[Article 40\](./Article_40_Base_Zoning_Districts.md)|[Article 40](#article-40---base-zoning-districts)|g' | \
+            sed 's|\[Article 50\](./Article_50_Overlay_Special_Purpose_Zoning_Districts.md)|[Article 50](#article-50---overlay-and-special-purpose-zoning-districts)|g' | \
+            sed 's|\[Article 60\](./Article_60_Use_Regulations.md)|[Article 60](#article-60---use-regulations)|g' | \
+            sed 's|\[Article 70\](./Article_70_Density_Dimensional_Standards.md)|[Article 70](#article-70---density-and-dimensional-standards)|g' | \
+            sed 's|\[Article 80\](./Article_80_Subdivision_Design_Improvements.md)|[Article 80](#article-80---subdivision-design-and-improvements)|g' | \
+            sed 's|\[Article 90\](./Article_90_Perimeter_Roadway_Improvements.md)|[Article 90](#article-90---perimeter-roadway-improvements)|g' | \
+            sed 's|\[Article 100\](./Article_100_Development_Standards.md)|[Article 100](#article-100---development-standards)|g' | \
+            sed 's|\[Article 110\](./Article_110_Environmental.md)|[Article 110](#article-110---environmental)|g' | \
+            sed 's|\[Article 120\](./Article_120_Signs.md)|[Article 120](#article-120---signs)|g' | \
+            sed 's|\[Article 130\](./Article_130_Nonconformities.md)|[Article 130](#article-130---nonconformities)|g' | \
+            sed 's|\[Article 140\](./Article_140_Violations_Penalties_Enforcement.md)|[Article 140](#article-140---violations-penalties-and-enforcement)|g' | \
+            sed 's|\[Article 150\](./Article_150_Definitions.md)|[Article 150](#article-150---definitions)|g' | \
+            sed 's|\[Article 160\](./Article_160_Fee_Schedule.md)|[Article 160](#article-160---fee-schedule)|g' \
+            >> release_output/Ray_County_Zoning_Regulations_Complete.md
+          
+          echo "" >> release_output/Ray_County_Zoning_Regulations_Complete.md
+          echo "---" >> release_output/Ray_County_Zoning_Regulations_Complete.md
+          echo "" >> release_output/Ray_County_Zoning_Regulations_Complete.md
+        fi
+        
+        # Create a temporary processing script for link conversion
+        cat > convert_links.py << 'PYTHON'
+        import sys
+        import re
+        
+        def convert_internal_links(content):
+            # Convert cross-article references to internal anchors
+            conversions = {
+                r'\[Article 10\.(\d+)\]\(\.\/Article_10_Introductory_Provisions\.md#([^)]+)\)': r'[Article 10.\1](#\2)',
+                r'\[Article 20\.(\d+)\]\(\.\/Article_20_Review_Decision_Making_Bodies\.md#([^)]+)\)': r'[Article 20.\1](#\2)',
+                r'\[Article 30\.(\d+)\]\(\.\/Article_30_Development_Review_Procedures\.md#([^)]+)\)': r'[Article 30.\1](#\2)',
+                r'\[Article 40\.(\d+)\]\(\.\/Article_40_Base_Zoning_Districts\.md#([^)]+)\)': r'[Article 40.\1](#\2)',
+                r'\[Article 50\.(\d+)\]\(\.\/Article_50_Overlay_Special_Purpose_Zoning_Districts\.md#([^)]+)\)': r'[Article 50.\1](#\2)',
+                r'\[Article 60\.(\d+)\]\(\.\/Article_60_Use_Regulations\.md#([^)]+)\)': r'[Article 60.\1](#\2)',
+                r'\[Article 70\.(\d+)\]\(\.\/Article_70_Density_Dimensional_Standards\.md#([^)]+)\)': r'[Article 70.\1](#\2)',
+                r'\[Article 80\.(\d+)\]\(\.\/Article_80_Subdivision_Design_Improvements\.md#([^)]+)\)': r'[Article 80.\1](#\2)',
+                r'\[Article 90\.(\d+)\]\(\.\/Article_90_Perimeter_Roadway_Improvements\.md#([^)]+)\)': r'[Article 90.\1](#\2)',
+                r'\[Article 100\.(\d+)\]\(\.\/Article_100_Development_Standards\.md#([^)]+)\)': r'[Article 100.\1](#\2)',
+                r'\[Article 110\.(\d+)\]\(\.\/Article_110_Environmental\.md#([^)]+)\)': r'[Article 110.\1](#\2)',
+                r'\[Article 120\.(\d+)\]\(\.\/Article_120_Signs\.md#([^)]+)\)': r'[Article 120.\1](#\2)',
+                r'\[Article 130\.(\d+)\]\(\.\/Article_130_Nonconformities\.md#([^)]+)\)': r'[Article 130.\1](#\2)',
+                r'\[Article 140\.(\d+)\]\(\.\/Article_140_Violations_Penalties_Enforcement\.md#([^)]+)\)': r'[Article 140.\1](#\2)',
+                r'\[Article 150\.(\d+)\]\(\.\/Article_150_Definitions\.md#([^)]+)\)': r'[Article 150.\1](#\2)',
+                r'\[Article 160\.(\d+)\]\(\.\/Article_160_Fee_Schedule\.md#([^)]+)\)': r'[Article 160.\1](#\2)',
+                
+                # Convert definition links to work within single document
+                r'\]\(\.\/Article_150_Definitions\.md#([^)]+)\)': r'](#\1)',
+                
+                # Convert table references
+                r'\]\(tables\/([^)]+)\.md\)': r'](#\1)',
+            }
+            
+            for pattern, replacement in conversions.items():
+                content = re.sub(pattern, replacement, content)
+            
+            return content
+        
+        if __name__ == "__main__":
+            content = sys.stdin.read()
+            print(convert_internal_links(content))
+        PYTHON
+        
+        # Add all articles in order with link conversion
+        for article in \
+          "Article_10_Introductory_Provisions.md" \
+          "Article_20_Review_Decision_Making_Bodies.md" \
+          "Article_30_Development_Review_Procedures.md" \
+          "Article_40_Base_Zoning_Districts.md" \
+          "Article_50_Overlay_Special_Purpose_Zoning_Districts.md" \
+          "Article_60_Use_Regulations.md" \
+          "Article_70_Density_Dimensional_Standards.md" \
+          "Article_80_Subdivision_Design_Improvements.md" \
+          "Article_90_Perimeter_Roadway_Improvements.md" \
+          "Article_100_Development_Standards.md" \
+          "Article_110_Environmental.md" \
+          "Article_120_Signs.md" \
+          "Article_130_Nonconformities.md" \
+          "Article_140_Violations_Penalties_Enforcement.md" \
+          "Article_150_Definitions.md" \
+          "Article_160_Fee_Schedule.md" \
+          "Index_and_Attachments.md"
+        do
+          if [ -f "$article" ]; then
+            echo "" >> release_output/Ray_County_Zoning_Regulations_Complete.md
+            echo "---" >> release_output/Ray_County_Zoning_Regulations_Complete.md
+            echo "" >> release_output/Ray_County_Zoning_Regulations_Complete.md
+            
+            # Process the article content through the link converter
+            tail -n +2 "$article" | python3 convert_links.py >> release_output/Ray_County_Zoning_Regulations_Complete.md
+            
+            echo "" >> release_output/Ray_County_Zoning_Regulations_Complete.md
+            echo "" >> release_output/Ray_County_Zoning_Regulations_Complete.md
+          fi
+        done
+        
+        # Add any table files if they exist
+        if [ -d "tables" ]; then
+          echo "" >> release_output/Ray_County_Zoning_Regulations_Complete.md
+          echo "---" >> release_output/Ray_County_Zoning_Regulations_Complete.md
+          echo "" >> release_output/Ray_County_Zoning_Regulations_Complete.md
+          echo "# Supporting Tables" >> release_output/Ray_County_Zoning_Regulations_Complete.md
+          echo "" >> release_output/Ray_County_Zoning_Regulations_Complete.md
+          
+          for table in tables/*.md; do
+            if [ -f "$table" ]; then
+              echo "## $(basename "$table" .md | tr '_' ' ' | sed 's/\b\w/\U&/g')" >> release_output/Ray_County_Zoning_Regulations_Complete.md
+              echo "" >> release_output/Ray_County_Zoning_Regulations_Complete.md
+              tail -n +2 "$table" >> release_output/Ray_County_Zoning_Regulations_Complete.md
+              echo "" >> release_output/Ray_County_Zoning_Regulations_Complete.md
+            fi
+          done
+          
+          cp -r tables release_output/
+        fi
+        
+    - name: Convert to HTML
+      run: |
+        cd release_output
+        
+        # Create HTML version with pandoc
+        pandoc Ray_County_Zoning_Regulations_Complete.md \
+          -f markdown \
+          -t html \
+          --standalone \
+          --toc \
+          --toc-depth=3 \
+          --css=styles.css \
+          --metadata title="Ray County Zoning Regulations" \
+          --metadata author="Ray County, Missouri" \
+          --metadata date="$(date)" \
+          -o Ray_County_Zoning_Regulations_Complete.html
+        
+        # Create basic CSS file for better styling
+        cat > styles.css << 'CSS'
+        body {
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+          line-height: 1.6;
+          max-width: 1200px;
+          margin: 0 auto;
+          padding: 2rem;
+          color: #333;
+        }
+        
+        h1, h2, h3, h4, h5, h6 {
+          color: #2c3e50;
+          margin-top: 2rem;
+          margin-bottom: 1rem;
+        }
+        
+        h1 {
+          border-bottom: 3px solid #3498db;
+          padding-bottom: 0.5rem;
+        }
+        
+        h2 {
+          border-bottom: 1px solid #bdc3c7;
+          padding-bottom: 0.3rem;
+        }
+        
+        table {
+          border-collapse: collapse;
+          width: 100%;
+          margin: 1rem 0;
+        }
+        
+        th, td {
+          border: 1px solid #ddd;
+          padding: 8px;
+          text-align: left;
+        }
+        
+        th {
+          background-color: #f8f9fa;
+          font-weight: bold;
+        }
+        
+        tr:nth-child(even) {
+          background-color: #f8f9fa;
+        }
+        
+        code {
+          background-color: #f4f4f4;
+          padding: 2px 4px;
+          border-radius: 3px;
+          font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+        }
+        
+        pre {
+          background-color: #f4f4f4;
+          padding: 1rem;
+          border-radius: 5px;
+          overflow-x: auto;
+        }
+        
+        blockquote {
+          border-left: 4px solid #3498db;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #666;
+        }
+        
+        a {
+          color: #3498db;
+          text-decoration: none;
+        }
+        
+        a:hover {
+          text-decoration: underline;
+        }
+        
+        .toc {
+          background-color: #f8f9fa;
+          padding: 1rem;
+          border-radius: 5px;
+          margin: 1rem 0;
+        }
+        
+        .toc ul {
+          list-style-type: none;
+          padding-left: 1rem;
+        }
+        
+        .toc > ul {
+          padding-left: 0;
+        }
+        
+        .toc li {
+          margin: 0.25rem 0;
+        }
+        
+        img {
+          max-width: 100%;
+          height: auto;
+          border: 1px solid #ddd;
+          border-radius: 5px;
+          padding: 5px;
+          margin: 1rem 0;
+        }
+        
+        @media print {
+          body {
+            font-size: 12pt;
+            line-height: 1.4;
+          }
+          
+          h1, h2, h3 {
+            page-break-after: avoid;
+          }
+          
+          table {
+            page-break-inside: avoid;
+          }
+        }
+        CSS
+        
+    - name: Create ZIP archive
+      run: |
+        cd release_output
+        zip -r "Ray_County_Zoning_Regulations_${{ steps.date.outputs.date }}.zip" .
+        
+    - name: Calculate file sizes
+      id: sizes
+      run: |
+        cd release_output
+        MD_SIZE=$(ls -lh Ray_County_Zoning_Regulations_Complete.md | awk '{print $5}')
+        HTML_SIZE=$(ls -lh Ray_County_Zoning_Regulations_Complete.html | awk '{print $5}')
+        ZIP_SIZE=$(ls -lh Ray_County_Zoning_Regulations_*.zip | awk '{print $5}')
+        echo "md_size=$MD_SIZE" >> $GITHUB_OUTPUT
+        echo "html_size=$HTML_SIZE" >> $GITHUB_OUTPUT
+        echo "zip_size=$ZIP_SIZE" >> $GITHUB_OUTPUT
+        
+    - name: Create Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: ${{ steps.date.outputs.date }}
+        release_name: Ray County Zoning Regulations - ${{ steps.date.outputs.date }}
+        body: |
+          # Ray County Planning & Zoning Regulations (2005)
+          
+          **Release Date:** ${{ steps.date.outputs.date }}
+          
+          ## Contents
+          
+          This release contains the complete Ray County Planning & Zoning Regulations in multiple formats:
+          
+          - **Complete Markdown Document** (`Ray_County_Zoning_Regulations_Complete.md`) - ${{ steps.sizes.outputs.md_size }}
+          - **Complete HTML Document** (`Ray_County_Zoning_Regulations_Complete.html`) - ${{ steps.sizes.outputs.html_size }}
+          - **Complete Archive** (`Ray_County_Zoning_Regulations_${{ steps.date.outputs.date }}.zip`) - ${{ steps.sizes.outputs.zip_size }}
+          
+          ## Document Structure
+          
+          The complete document includes all 16 articles plus supporting materials:
+          
+          1. **Article 10** - Introductory Provisions
+          2. **Article 20** - Review and Decision-Making Bodies  
+          3. **Article 30** - Development Review Procedures
+          4. **Article 40** - Base Zoning Districts
+          5. **Article 50** - Overlay & Special Purpose Districts
+          6. **Article 60** - Use Regulations
+          7. **Article 70** - Density & Dimensional Standards
+          8. **Article 80** - Subdivision Design & Improvements
+          9. **Article 90** - Perimeter Roadway Improvements
+          10. **Article 100** - Development Standards
+          11. **Article 110** - Environmental
+          12. **Article 120** - Signs
+          13. **Article 130** - Nonconformities
+          14. **Article 140** - Violations, Penalties & Enforcement
+          15. **Article 150** - Definitions
+          16. **Article 160** - Fee Schedule
+          17. **Index and Attachments** - Reference materials and road standards
+          
+          ## Features
+          
+          - ✅ **Complete Legal Document** - All original content preserved
+          - ✅ **Hyperlinked Navigation** - Cross-references between articles
+          - ✅ **Definition Links** - Technical terms linked to definitions  
+          - ✅ **Missouri Statute Links** - External links to relevant state laws
+          - ✅ **Responsive HTML** - Mobile-friendly web format
+          - ✅ **Print-Ready** - Optimized for printing
+          - ✅ **Table of Contents** - Easy navigation
+          
+          ## Usage
+          
+          - Download the **ZIP archive** for all files including images and tables
+          - Download the **HTML file** for web viewing with full styling
+          - Download the **Markdown file** for editing or further processing
+          
+          ---
+          
+          *This document represents the official Ray County Planning & Zoning Regulations as adopted in 2005.*
+        draft: false
+        prerelease: false
+        
+    - name: Upload Markdown Asset
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./release_output/Ray_County_Zoning_Regulations_Complete.md
+        asset_name: Ray_County_Zoning_Regulations_Complete.md
+        asset_content_type: text/markdown
+        
+    - name: Upload HTML Asset
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./release_output/Ray_County_Zoning_Regulations_Complete.html
+        asset_name: Ray_County_Zoning_Regulations_Complete.html
+        asset_content_type: text/html
+        
+    - name: Upload ZIP Asset
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./release_output/Ray_County_Zoning_Regulations_${{ steps.date.outputs.date }}.zip
+        asset_name: Ray_County_Zoning_Regulations_${{ steps.date.outputs.date }}.zip
+        asset_content_type: application/zip

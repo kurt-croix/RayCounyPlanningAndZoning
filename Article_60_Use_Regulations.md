@@ -2,13 +2,13 @@
 
 ## 60.1 Use Table
 
-The following table summarizes the principal use regulations of the Zoning Regulations' base zoning districts. In the event of conflict between this table and the standards listed in [Article 40.3](#article-40-base-zoning-districts) through [Article 40.15](#article-40-base-zoning-districts), the Use Table shall control.
+The following table summarizes the principal use regulations of the Zoning Regulations' base zoning districts. In the event of conflict between this table and the standards listed in [Article 40.3](./Article_40_Base_Zoning_Districts.md#403-r-a-agricultural-district) through [Article 40.15](./Article_40_Base_Zoning_Districts.md#4015-op-open-spaceparkpublic-uses-district), the Use Table shall control.
 
 ### Uses Permitted By-Right
 A "P" indicates that a use category is allowed by-right in the respective zoning district, subject to compliance with all other applicable regulations of these Zoning Regulations.
 
 ### Conditional Uses
-A "C" indicates that a use category is allowed only if reviewed and approved as a conditional use, in accordance with the Conditional Use Permit procedures of [Article 30.9](#article-30-development-review-procedures) and subject to all other applicable standards of these Zoning Regulations.
+A "C" indicates that a use category is allowed only if reviewed and approved as a conditional use, in accordance with the Conditional Use Permit procedures of [Article 30.8](./Article_30_Development_Review_Procedures.md#308-conditional-use-permits) and subject to all other applicable standards of these Zoning Regulations.
 
 ### Uses Subject to Specific Standards
 A number in the final ("Use Standards") column indicates that the listed use type is subject to use-specific standards in one or more of the districts in which the use is allowed. The number provides a cross-reference to the use-specific standards.
@@ -17,7 +17,7 @@ A number in the final ("Use Standards") column indicates that the listed use typ
 A blank cell indicates that a use type is not allowed in the respective zoning district, unless it is otherwise expressly allowed by other regulations of these Zoning Regulations.
 
 ### New or Unlisted Uses
-If an application is submitted for a use type that is not listed as an allowed use in one or more zoning districts, the Planning and Zoning Administrator shall be authorized to make a similar use interpretation in accordance with [Article 30.13](#article-30-development-review-procedures). In the event that a similar use interpretation cannot be made, the proposed use type shall be allowed as a conditional use in the I-1 district and as a use permitted by-right in the I-2 district.
+If an application is submitted for a use type that is not listed as an allowed use in one or more zoning districts, the Planning and Zoning Administrator shall be authorized to make a similar use interpretation in accordance with [Article 30.12](./Article_30_Development_Review_Procedures.md#3012-written-interpretations). In the event that a similar use interpretation cannot be made, the proposed use type shall be allowed as a conditional use in the I-1 district and as a use permitted by-right in the I-2 district.
 
 **Table 60-1: Zoning District Use Standards**
 
@@ -39,7 +39,7 @@ If an application is submitted for a use type that is not listed as an allowed u
 | Retirement Housing, Limited | | | | | | P | | | | | | | | |
 | Transitional Housing | | | | | C | C | | | | C | C | | | |
 | **Civic/Institutional** | | | | | | | | | | | | | | |
-| Cemetery | C | C | C | C | C | C | | C | C | C | C | C | | RSMo.214 |
+| Cemetery | C | C | C | C | C | C | | C | C | C | C | C | | [RSMo 214](https://revisor.mo.gov/main/OneChapter.aspx?chapter=214) |
 | Club or Lodge | C | | | | | | | | P | P | | | | |
 | College or University | C | | | | | | | | P | P | P | | | |
 | Community Recreation, Private | P | P | P | P | P | P | P | | | | | | | |
@@ -155,18 +155,18 @@ Accessory structures shall be subordinate to the principal structure in size and
 
 ### C. Animals, Domestic
 
-1. **Domestic animal** means any animal that is livestock, a companion animal, or both.
-   - a. **Livestock** means any animal commonly used by persons for use, draft or pleasure purposes. The definition of livestock includes but is not limited to: poultry, cattle, buffalo, swine, sheep, goats, horses, mules, emus, ostriches, elk, alpaca and llamas.
+1. **[Domestic animal](./Article_150_Definitions.md#domestic-animal)** means any animal that is [livestock](./Article_150_Definitions.md#livestock), a [companion animal](./Article_150_Definitions.md#companion-animal), or both.
+   - a. **[Livestock](./Article_150_Definitions.md#livestock)** means any animal commonly used by persons for use, draft or pleasure purposes. The definition of livestock includes but is not limited to: poultry, cattle, buffalo, swine, sheep, goats, horses, mules, emus, ostriches, elk, alpaca and llamas.
 
 2. **Large animal standards** equal no more than an average of 1 adult plus 1 young under 6 months. This standard applies to cattle, horses, mules, emus, and the like, but not to chickens and other small domestic animals.
 
-3. **Livestock** is permitted on lots 3 acres or larger in size.
+3. **Livestock** is permitted on [lots](./Article_150_Definitions.md#lot) 3 acres or larger in size.
 
-4. **Companion animal** means any animal that is commonly kept by persons as a pet for companionship. The definition of companion animal includes but is not limited to: domesticated dogs and domesticated cats.
+4. **[Companion animal](./Article_150_Definitions.md#companion-animal)** means any animal that is commonly kept by persons as a pet for companionship. The definition of companion animal includes but is not limited to: domesticated dogs and domesticated cats.
 
-5. **Companion animals** are limited to 3 domesticated dogs per household over six months of age, 4 domesticated cats over six months of age per household, and 1 horse plus 1 foal per acre in all residential zones. Horses and other such large animals are only allowed on lots of 3 acres or larger.
+5. **Companion animals** are limited to 3 domesticated dogs per [household](./Article_150_Definitions.md#household) over six months of age, 4 domesticated cats over six months of age per household, and 1 horse plus 1 foal per acre in all residential zones. Horses and other such large animals are only allowed on lots of 3 acres or larger.
 
-6. The number of companion animals is not limited by code on agricultural (R-A) zoned land.
+6. The number of companion animals is not limited by code on [agricultural (R-A)](./Article_40_Base_Zoning_Districts.md#403-r-a-agricultural-district) zoned land.
 
 ### D. Animals, Exotic/Dangerous/Wild
 
@@ -178,13 +178,13 @@ Accessory structures shall be subordinate to the principal structure in size and
    - Institutions accredited by the American Zoo and Aquarium Association
    - Licensed Humane Societies
    - Licensed veterinary hospitals or clinics
-   - Any wildlife rehabilitator, licensed by the state of Missouri
+   - Any wildlife rehabilitator, licensed by the [Missouri Department of Conservation](https://mdc.mo.gov/)
 
 ### E. Animal Production
-Animal production and accessory raising of farm animals shall be allowed only on lots or parcels having a minimum area of at least 19 acres, provided that all buildings used to house such farm animals are set back at least 100 feet from the front property line and at least 50 feet from side and rear property lines.
+Animal production and accessory raising of farm animals shall be allowed only on [lots](./Article_150_Definitions.md#lot) or parcels having a minimum area of at least 19 acres, provided that all [buildings](./Article_150_Definitions.md#building) used to house such farm animals are set back at least 100 feet from the front [property line](./Article_150_Definitions.md#property-line) and at least 50 feet from side and rear property lines.
 
 ### F. Antennas and Towers (Amateur)
-Amateur antennas and towers are permitted in R-A and R-1, and may be approved through applying for a Conditional Use Permit in R-1A and R-1B zones. These antennas are specific to recreational transmission such as "Ham Radios," with evidence of federal licenses and permits, and may not be used for commercial purposes.
+Amateur antennas and towers are permitted in R-A and R-1, and may be approved through applying for a [Conditional Use Permit](./Article_30_Development_Review_Procedures.md#308-conditional-use-permits) in R-1A and R-1B zones. These antennas are specific to recreational transmission such as "Ham Radios," with evidence of federal licenses and permits, and may not be used for commercial purposes.
 
 ### G. Antennas and Towers (Commercial)
 
@@ -194,10 +194,10 @@ Amateur antennas and towers are permitted in R-A and R-1, and may be approved th
 
 3. **Separation from Existing Towers** - Commercial towers shall maintain minimum separation distances from existing towers as established by applicable federal regulations.
 
-4. **Permitted Districts** - Commercial towers are allowed by a Conditional Use Permit in R-A, B-2, I-1 and I-2 zones only.
+4. **Permitted Districts** - Commercial towers are allowed by a [Conditional Use Permit](./Article_30_Development_Review_Procedures.md#308-conditional-use-permits) in [R-A](./Article_40_Base_Zoning_Districts.md#403-r-a-agricultural-district), [B-2](./Article_40_Base_Zoning_Districts.md#4012-b-2-general-business-district), [I-1](./Article_40_Base_Zoning_Districts.md#4013-i-1-limited-industrial-district) and [I-2](./Article_40_Base_Zoning_Districts.md#4014-i-2-general-industrial-district) zones only.
 
 ### H. House, Attached
-Attached houses (townhouses) shall comply with applicable building codes and fire safety requirements for attached residential construction.
+Attached houses (townhouses) shall comply with applicable [building codes](./Article_150_Definitions.md#building-code) and fire safety requirements for attached [residential construction](./Article_150_Definitions.md#residential).
 
 ### I. Aviation & Surface Transportation
 Aviation and surface transportation facilities shall comply with all applicable state and federal regulations and shall not create adverse impacts on adjacent properties.
@@ -206,13 +206,13 @@ Aviation and surface transportation facilities shall comply with all applicable 
 Industrial service yard operations shall be conducted entirely within enclosed buildings or screened outdoor areas to minimize impacts on adjacent properties.
 
 ### K. Bed and Breakfast (B&B)
-Bed and breakfast establishments shall be operated by the resident owner and shall not exceed 5 guest rooms.
+Bed and breakfast establishments shall be operated by the resident owner and shall not exceed 5 guest [dwelling units](./Article_150_Definitions.md#dwelling-unit).
 
 ### L. Cabins
-Cabin rentals shall comply with applicable health department regulations and shall not exceed 10 cabins per establishment.
+Cabin rentals shall comply with applicable health department regulations and shall not exceed 10 cabins per [establishment](./Article_150_Definitions.md#establishment).
 
 ### M. Campground/Recreational Vehicle Park
-Campground and RV park facilities shall provide adequate utilities, sanitary facilities, and emergency access as required by applicable regulations.
+Campground and RV park facilities shall provide adequate [utilities](./Article_150_Definitions.md#utilities), sanitary facilities, and emergency access as required by applicable regulations.
 
 ### N. Communication Towers, Commercial
 Commercial communication towers shall be designed to accommodate multiple users and shall include provisions for tower removal upon abandonment.
@@ -250,41 +250,41 @@ Permitted uses and approved conditional uses shall be deemed to include accessor
 
 ### A. Accessory Dwelling Units
 
-1. Accessory dwelling units that are never rented (e.g. 'mother-in-law' apartments, guest suite, guest house, maid's quarters) are permitted in R-A, R-1, and R-1A districts and may be allowed in all other zoning districts through a Conditional Use Permit.
+1. [Accessory dwelling units](./Article_150_Definitions.md#accessory-dwelling-unit) that are never rented (e.g. 'mother-in-law' apartments, guest suite, guest house, maid's quarters) are permitted in [R-A](./Article_40_Base_Zoning_Districts.md#403-r-a-agricultural-district), [R-1](./Article_40_Base_Zoning_Districts.md#404-r-1-residential-rural-district), and [R-1A](./Article_40_Base_Zoning_Districts.md#405-r-1a-residential-low-density-district) districts and may be allowed in all other zoning districts through a [Conditional Use Permit](./Article_30_Development_Review_Procedures.md#308-conditional-use-permits).
 
-2. An accessory dwelling unit may be incorporated within the principal structure or may be a separate unit located within 100 feet of the principal structure.
+2. An [accessory dwelling unit](./Article_150_Definitions.md#accessory-dwelling-unit) may be incorporated within the [principal structure](./Article_150_Definitions.md#principal-structure) or may be a separate unit located within 100 feet of the principal structure.
 
-3. No more than 1 accessory dwelling unit shall be allowed on any lot or parcel.
+3. No more than 1 [accessory dwelling unit](./Article_150_Definitions.md#accessory-dwelling-unit) shall be allowed on any [lot](./Article_150_Definitions.md#lot) or [parcel](./Article_150_Definitions.md#parcel).
 
 ### B. Accessory Structures
-All accessory structures shall be subordinate to the principal structure and shall comply with applicable setback and height requirements.
+All [accessory structures](./Article_150_Definitions.md#accessory-structure) shall be subordinate to the [principal structure](./Article_150_Definitions.md#principal-structure) and shall comply with applicable [setback](./Article_150_Definitions.md#setback) and [height](./Article_150_Definitions.md#building-height) requirements.
 
 ### C. Guest Houses
-1. Private guest houses are permitted as accessory uses in residential districts
-2. Guest houses for rent are permitted only where specifically indicated in the Use Table
+1. Private [guest houses](./Article_150_Definitions.md#guest-house) are permitted as [accessory uses](./Article_150_Definitions.md#accessory-use) in [residential districts](./Article_150_Definitions.md#residential)
+2. Guest houses for rent are permitted only where specifically indicated in the [Use Table](./Article_60_Use_Regulations.md#601-use-table)
 3. Guest houses shall not contain cooking facilities unless specifically approved
 
 ### D. Home Occupations
-Home occupations are permitted as accessory uses in residential districts, subject to applicable performance standards that ensure compatibility with residential character.
+[Home occupations](./Article_150_Definitions.md#home-occupation) are permitted as [accessory uses](./Article_150_Definitions.md#accessory-use) in [residential districts](./Article_150_Definitions.md#residential), subject to applicable [performance standards](./Article_150_Definitions.md#performance-standards) that ensure compatibility with residential character.
 
 ### E. Fences
 Except as otherwise expressly provided in other county codes or regulations, fencing regulations apply throughout the county.
 
 ### F. Swimming Pools and Hot Tubs
 
-1. Outdoor swimming pools, hot tubs and spas should be enclosed by a fence or wall with a self-latching gate.
-2. The fence or wall should have a minimum height of 36 inches.
-3. Swimming pools, hot tubs and spas shall be setback at least 5 feet from all side and rear property lines, as measured from the water's edge.
+1. Outdoor swimming pools, hot tubs and spas should be enclosed by a [fence](./Article_150_Definitions.md#fence) or wall with a self-latching gate.
+2. The fence or wall should have a minimum [height](./Article_150_Definitions.md#building-height) of 36 inches.
+3. Swimming pools, hot tubs and spas shall be [setback](./Article_150_Definitions.md#setback) at least 5 feet from all side and rear [property lines](./Article_150_Definitions.md#property-line), as measured from the water's edge.
 
 ### G. Solar Collectors
 
 Solar collectors shall be permitted provided that the following performance standards are met:
 
-1. Roof-mounted residential building solar collectors located on front or side building roofs visible from the public right-of-way shall not extend above the peak of the roof plane where it is mounted and no portion of any such solar collector shall extend more than 24 inches as measured perpendicularly to the roof at the point where it is mounted.
+1. Roof-mounted residential [building](./Article_150_Definitions.md#building) solar collectors located on front or side building roofs visible from the public [right-of-way](./Article_150_Definitions.md#right-of-way) shall not extend above the peak of the roof plane where it is mounted and no portion of any such solar collector shall extend more than 24 inches as measured perpendicularly to the roof at the point where it is mounted.
 
 2. Roof-mounted residential building solar collectors located on the rear or interior side building roofs shall not extend above the peak of the roof plane where it is mounted and no portion of any such solar collector shall extend more than four feet as measured perpendicularly to the roof at the point where it is mounted.
 
-3. Ground-mounted solar collectors shall not exceed 8 feet in total height and shall be located within the rear yard at least 12 feet inside the property lines.
+3. Ground-mounted solar collectors shall not exceed 8 feet in total [height](./Article_150_Definitions.md#building-height) and shall be located within the [rear yard](./Article_150_Definitions.md#yard-rear) at least 12 feet inside the [property lines](./Article_150_Definitions.md#property-line).
 
 4. All utility service lines serving a ground-mounted solar system shall be located underground.
 
@@ -298,37 +298,37 @@ Solar collectors shall be permitted provided that the following performance stan
 
 ## 60.4 Temporary Uses
 
-The following temporary uses may be allowed in any zoning district, subject to the standards of this Article. Unless otherwise expressly stated, no temporary use shall be established until the Planning and Zoning Administrator has issued a temporary use permit for the use.
+The following [temporary uses](./Article_150_Definitions.md#temporary-use) may be allowed in any [zoning district](./Article_150_Definitions.md#zoning-district), subject to the standards of this Article. Unless otherwise expressly stated, no temporary use shall be established until the [Planning and Zoning Administrator](./Article_150_Definitions.md#planning-and-zoning-administrator) has issued a [temporary use permit](./Article_150_Definitions.md#temporary-use-permit) for the use.
 
 ### A. Street Sales
 The outdoor retail sale of merchandise shall be allowed for a period not to exceed 3 consecutive days. No more than 2 street sales shall be allowed per calendar year.
 
 ### B. Holiday Sales
-Holiday sales (such as Christmas trees and pumpkins) shall be allowed in nonresidential zoning districts for a period not to exceed 60 days.
+Holiday sales (such as Christmas trees and pumpkins) shall be allowed in [nonresidential zoning districts](./Article_150_Definitions.md#nonresidential) for a period not to exceed 60 days.
 
 ### C. Contractor's Office
-Contractor's offices, security and equipment sheds (containing no sleeping or cooking accommodations) accessory to a construction project shall be allowed only during the duration of construction, and must be removed from the site within 30 days after a Certificate of Occupancy is issued.
+Contractor's offices, security and equipment sheds (containing no sleeping or cooking accommodations) accessory to a construction project shall be allowed only during the duration of construction, and must be removed from the site within 30 days after a [Certificate of Occupancy](./Article_150_Definitions.md#certificate-of-occupancy) is issued.
 
 ### D. Real Estate Office
-Real estate offices (containing no sleeping or cooking accommodations unless located in a model dwelling unit) incidental to new housing developments shall be allowed only until the sale or lease of all dwelling units in the development.
+Real estate offices (containing no sleeping or cooking accommodations unless located in a model [dwelling unit](./Article_150_Definitions.md#dwelling-unit)) incidental to new housing developments shall be allowed only until the sale or lease of all dwelling units in the development.
 
 ### E. Seasonal Sales
-Seasonal sale of farm produce in R-A or R-1 districts shall be allowed when the items offered for sale have been grown on the premises on which it is to be sold.
+Seasonal sale of farm produce in [R-A](./Article_40_Base_Zoning_Districts.md#403-r-a-agricultural-district) or [R-1](./Article_40_Base_Zoning_Districts.md#404-r-1-residential-rural-district) districts shall be allowed when the items offered for sale have been grown on the premises on which it is to be sold.
 
 ### F. Carnival or Circus
 
-1. A carnival or circus may be allowed as a temporary use, but only on a site abutting a paved road that is zoned R-A, R-1, S&O, B-1, B-2, I-1, and I-2 or is located in a public park.
+1. A carnival or circus may be allowed as a [temporary use](./Article_150_Definitions.md#temporary-use), but only on a site abutting a paved road that is zoned [R-A](./Article_40_Base_Zoning_Districts.md#403-r-a-agricultural-district), [R-1](./Article_40_Base_Zoning_Districts.md#404-r-1-residential-rural-district), [S&O](./Article_40_Base_Zoning_Districts.md#4010-so-service--office-district), [B-1](./Article_40_Base_Zoning_Districts.md#4011-b-1-community-business-district), [B-2](./Article_40_Base_Zoning_Districts.md#4012-b-2-general-business-district), [I-1](./Article_40_Base_Zoning_Districts.md#4013-i-1-limited-industrial-district), and [I-2](./Article_40_Base_Zoning_Districts.md#4014-i-2-general-industrial-district) or is located in a [public park](./Article_150_Definitions.md#public-park).
 2. The temporary use shall not exceed 2 weeks.
-3. Carnival and circus permits shall be approved by resolution of the County Commission.
+3. Carnival and circus permits shall be approved by resolution of the [County Commission](./Article_150_Definitions.md#county-commission).
 
 ### G. Garage, Yard and Rummage Sales
-The sale of personal items on an infrequent basis at a residential use shall be allowed as a temporary use. Such sales shall be limited to no more than 3 days in any 1-month period and shall not be conducted within any public right-of-way. No temporary use permit shall be required.
+The sale of personal items on an infrequent basis at a [residential use](./Article_150_Definitions.md#residential-use) shall be allowed as a [temporary use](./Article_150_Definitions.md#temporary-use). Such sales shall be limited to no more than 3 days in any 1-month period and shall not be conducted within any public [right-of-way](./Article_150_Definitions.md#right-of-way). No temporary use permit shall be required.
 
 ### H. Fireworks Sales
 
 1. Fireworks sales may be allowed as a temporary use if a permit for such sales is obtained from the Planning and Zoning Administrator.
 2. Such uses shall be allowed only in R-A, R-1, S&O, B-1, B-2, I-1, or I-2 Districts and for a time period not to exceed 15 days.
-3. Compliance with all applicable state regulations (RSMo 320) shall be required.
+3. Compliance with all applicable state regulations ([RSMo 320](https://revisor.mo.gov/main/OneChapter.aspx?chapter=320)) shall be required.
 
 ### I. Temporary Use of Manufactured Buildings
 

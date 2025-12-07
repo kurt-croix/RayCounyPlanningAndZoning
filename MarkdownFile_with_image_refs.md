@@ -563,7 +563,7 @@ The Planning and Zoning Commission shall be responsible for reviewing amendments
 
 ###### H. Rules and Procedures
 
-The Planning and Zoning Commission shall elect its own chairman and adopt rules of procedure consistent with the provisions of these regulations and the provisions of RSMo 64.800 to 64.840 and RSMo 64.845 to 64.880. All meetings of the Planning and Zoning Commission shall be open to the public, and minutes shall be kept of all proceedings and official actions, which minutes shall be a part of the public record, filed in the Planning and Zoning Department.
+The Planning and Zoning Commission shall elect its own chairman and adopt rules of procedure consistent with the provisions of these regulations and the provisions of [RSMo 64.800 to 64.840](https://revisor.mo.gov/main/OneChapterRng.aspx?tb1=64.800&tb2=64.840) and [RSMo 64.845 to 64.880](https://revisor.mo.gov/main/OneChapterRng.aspx?tb1=64.845&tb2=64.880). All meetings of the Planning and Zoning Commission shall be open to the public, and minutes shall be kept of all proceedings and official actions, which minutes shall be a part of the public record, filed in the Planning and Zoning Department.
 
 ###### I. Hearings
 
@@ -573,7 +573,7 @@ Hearings of the Planning and Zoning Commission shall be held at the call of the 
 
 # A. Creation
 
-A Board of Zoning Adjustment is hereby created pursuant to RSMo. 64.870.
+A Board of Zoning Adjustment is hereby created pursuant to [RSMo. 64.870](https://revisor.mo.gov/main/OneSection.aspx?section=64.870).
 
 ## B. Composition
 
@@ -589,7 +589,7 @@ Members of the Board of Zoning Adjustment shall be removable for cause by the Co
 
 E. Rules and Procedures
 
-The Board of Zoning Adjustment shall elect its own chairman and adopt rules of procedure consistent with the provisions of these regulations and the provisions of RSMo. 64.800 through 64.880. The chairman, or in the chairman’s absence the vice-chairman, may administer oaths and compel the attendance of witnesses. All meetings of the Board of Zoning Adjustment shall be open to the public, and minutes shall be kept of all proceedings and official actions, which minutes shall be a part of the public record, filed in the Planning and Zoning Department.
+The Board of Zoning Adjustment shall elect its own chairman and adopt rules of procedure consistent with the provisions of these regulations and the provisions of [RSMo. 64.800 through 64.880](https://revisor.mo.gov/main/OneChapterRng.aspx?tb1=64.800&tb2=64.880). The chairman, or in the chairman’s absence the vice-chairman, may administer oaths and compel the attendance of witnesses. All meetings of the Board of Zoning Adjustment shall be open to the public, and minutes shall be kept of all proceedings and official actions, which minutes shall be a part of the public record, filed in the Planning and Zoning Department.
 
 ## F. Hearings
 
@@ -711,7 +711,7 @@ All notices required under these Zoning Regulations must: (1) indicate the time 
 
 **1\. Written Notice**
 
-a. Unless otherwise expressly stated, when the provisions of these Zoning Regulations require that written notice be provided, the official responsible for accepting the application shall provide written notice by regular mail to all owners of the subject property and all property owners within 600 feet of the subject property. (RSMo 64.863) Written notice shall also be sent by regular mail to the City Clerk of any municipality within 1½ miles of the subject property. (RSMo 64.830,64.860)
+a. Unless otherwise expressly stated, when the provisions of these Zoning Regulations require that written notice be provided, the official responsible for accepting the application shall provide written notice by regular mail to all owners of the subject property and all property owners within 600 feet of the subject property. ([RSMo 64.863](https://revisor.mo.gov/main/OneSection.aspx?section=64.863)) Written notice shall also be sent by regular mail to the City Clerk of any municipality within 1½ miles of the subject property. ([RSMo 64.830](https://revisor.mo.gov/main/OneSection.aspx?section=64.830),[64.860](https://revisor.mo.gov/main/OneSection.aspx?section=64.860))
 
 b. Written notices shall be deposited in the U.S. mail at least 15 days before the first scheduled public hearing.
 
@@ -788,7 +788,7 @@ A public hearing for which proper notice was given may be continued to a later d
 
 **L. Compliance with Missouri Revised Statutes**
 
-The development review procedures of this Article are intended to implement the procedural requirements of Missouri Revised Statutes. In the event of conflict between the procedures of this Article and those of the Missouri Revised Statutes (RSMo 64.800-840 and RSMo 64.845–880) the state statutes shall control.
+The development review procedures of this Article are intended to implement the procedural requirements of Missouri Revised Statutes. In the event of conflict between the procedures of this Article and those of the Missouri Revised Statutes ([RSMo 64.800-840](https://revisor.mo.gov/main/OneChapterRng.aspx?tb1=64.800&tb2=64.840) and [RSMo 64.845–880](https://revisor.mo.gov/main/OneChapterRng.aspx?tb1=64.845&tb2=64.880)) the state statutes shall control.
 
 **M. Burden of Proof Persuasion**
 
@@ -824,7 +824,7 @@ All property located within unincorporated Ray County are considered agricultura
 
 1.  **Adjacent Property Owners**
 
-The applicant for a proposed rezoning shall provide the Planning and Zoning Department with a list of names and addresses of the owners of record of all property within 600 feet of the property in question, as specified by RSMo 64.863. A property abstractor, title company, registered surveyor, or similarly qualified person whose services have been secured by the applicant shall have originated such list. Such list shall be provided with the application. Failure to properly notify all adjacent property owners may invalidate the public notice requirements and cause the application to be tabled until proper notification is completed.
+The applicant for a proposed rezoning shall provide the Planning and Zoning Department with a list of names and addresses of the owners of record of all property within 600 feet of the property in question, as specified by [RSMo 64.863](https://revisor.mo.gov/main/OneSection.aspx?section=64.863). A property abstractor, title company, registered surveyor, or similarly qualified person whose services have been secured by the applicant shall have originated such list. Such list shall be provided with the application. Failure to properly notify all adjacent property owners may invalidate the public notice requirements and cause the application to be tabled until proper notification is completed.
 
 **2.** **Water Supply Approval**
 
@@ -890,7 +890,7 @@ a. In order to be deemed “valid,” a protest petition must be:
 
 (2) Signed and acknowledged by the owners of 30 percent of the frontage directly opposite, or directly in the rear of the frontage proposed to be altered; or
 
-(3) Made by resolution of the city council or board of trustees of a zoned municipality located within 1½ miles of the subject tract. (RSMo 64.875)
+(3) Made by resolution of the city council or board of trustees of a zoned municipality located within 1½ miles of the subject tract. ([RSMo 64.875](https://revisor.mo.gov/main/OneSection.aspx?section=64.875))
 
 1.  The term “owner” for purposes of protest petitions shall include all those individuals that have ownership in the subject real property or property within 1,000 feet as provided in this Article. If the property is owned by joint tenancy, all such owners must sign the petition by their own hand to be valid, unless the petition itself clearly indicates that one tenant has the legal authority to sign for and on behalf of the other. If a corporation, partnership or entity other than an individual meets the requirements to protest an action and desires to sign a petition; the following must appear on the petition in order for such organization to be counted with the petition:
 
@@ -1073,7 +1073,7 @@ If located on a state highway, written approval from MoDOT shall be submitted wi
 
 f. Surrounding Owners
 
-The applicant shall submit with the preliminary plat, a complete list of the names and mailing addresses of all owners of record of all property located within 600 feet of property being proposed for subdivision. (RSMo 64.863) The applicant is responsible for providing the list of the surrounding property owners at the time of application. Such list shall be provided with the application. Failure to properly notify all adjacent property owners may invalidate the public notice requirements and cause the application to be tabled until proper notification is completed.
+The applicant shall submit with the preliminary plat, a complete list of the names and mailing addresses of all owners of record of all property located within 600 feet of property being proposed for subdivision. ([RSMo 64.863](https://revisor.mo.gov/main/OneSection.aspx?section=64.863)) The applicant is responsible for providing the list of the surrounding property owners at the time of application. Such list shall be provided with the application. Failure to properly notify all adjacent property owners may invalidate the public notice requirements and cause the application to be tabled until proper notification is completed.
 
 g. Certificate of Ownership
 
@@ -1245,7 +1245,7 @@ PUDs shall be processed in 5 stages: Preapplication Conference; Concept Plan; Re
 
 **1\. Preapplication Conference**
 
-Before submitting a PUD Concept Plan, the applicant shall confer with the Planning and Zoning Administrator or other officials designated by the Administrator such as Missouri Department of Conservation, Soil & Water Conservation District or other such agencies. The purpose of this preapplication conference is to discuss the proposal and the applicable development review procedures.
+Before submitting a PUD Concept Plan, the applicant shall confer with the Planning and Zoning Administrator or other officials designated by the Administrator such as [Missouri Department of Conservation](https://mdc.mo.gov/), Soil & Water Conservation District or other such agencies. The purpose of this preapplication conference is to discuss the proposal and the applicable development review procedures.
 
 **2.** **Application**
 
@@ -1411,7 +1411,7 @@ Conditional Use Permit applications shall be submitted to the Planning and Zonin
 
 **1\. Adjacent Property Owners**
 
-The applicant for a proposed conditional use permit shall provide the Planning and Zoning Department with a list of names and addresses of the owners of record of all property within 600 feet of the property in question, as specified by RSMo 64.863. A property abstractor, title company, registered surveyor, or similarly qualified person whose services have been secured by the applicant shall have originated such list.
+The applicant for a proposed conditional use permit shall provide the Planning and Zoning Department with a list of names and addresses of the owners of record of all property within 600 feet of the property in question, as specified by [RSMo 64.863](https://revisor.mo.gov/main/OneSection.aspx?section=64.863). A property abstractor, title company, registered surveyor, or similarly qualified person whose services have been secured by the applicant shall have originated such list.
 
 1.  **Water Supply Approval**
 
@@ -1621,7 +1621,7 @@ Any person aggrieved by a decision of the Board of Zoning Adjustment on a Varian
 
 **30.12 Vacations**
 
-This Article sets out the required review and approval procedures for vacations of any street, avenue, road, alley, public easement, ingress/egress, utility easement, public square or common area included as part of a recorded plat, in accordance with RSMo 71.270
+This Article sets out the required review and approval procedures for vacations of any street, avenue, road, alley, public easement, ingress/egress, utility easement, public square or common area included as part of a recorded plat, in accordance with [RSMo 71.270](https://revisor.mo.gov/main/OneSection.aspx?section=71.270)
 
 **A. Application Filing**
 
@@ -1782,7 +1782,7 @@ The following table shows which uses are allowed in the R-A district. For a summ
 | House, Detached | P |  |
 | Mobile Home | C | Subject to 40.9D6. |
 | Civic/Institutional |  |  |
-| Cemetery | C | RSMo 214 |
+| Cemetery | C | [RSMo 214](https://revisor.mo.gov/main/OneChapter.aspx?chapter=214) |
 | Club or Lodge | C |  |
 | College or University | C |  |
 | Community Recreation, Private | P |  |
@@ -1870,7 +1870,7 @@ The following table shows which uses are allowed in the R-1 district. For a summ
 | Group Home, Class I (Limited) | C |  |
 | House, Detached | P |  |
 | Civic/Institutional |  |  |
-| Cemetery | C | RSMo.214 |
+| Cemetery | C | [RSMo.214](https://revisor.mo.gov/main/OneChapter.aspx?chapter=214) |
 | Community Recreation, Private | P |  |
 | Day Care, Family (1-5 children/adults) | P |  |
 | Day Care, Group (6 or more children/adults) | C |  |
@@ -3243,7 +3243,7 @@ It shall be unlawful for any owner or keeper to abandon any animal. For the purp
 
 **8\. Fencing**
 
-Fencing requirements shall conform to the RSMo Chapter 272 regarding livestock.
+Fencing requirements shall conform to the [RSMo Chapter 272](https://revisor.mo.gov/main/OneChapter.aspx?chapter=272) regarding livestock.
 
 **D. Animals, Exotic/Dangerous/Wild**
 
@@ -3333,7 +3333,7 @@ c. For the purpose of enforcement of this Article, the Ray County sheriff is per
 
 9\. Nonconforming
 
-The owner or possessor of an exotic animal(s) who owned, possessed, kept, or harbored the exotic animal(s) on or before the effective date of this ordinance may keep the same exotic animal(s) as long as he/she satisfies licensing requirements of the Missouri Department of Conservation, the United States Department of agriculture or such other applicable federal agencies and complies any other housing and maintenance regulations which may be adopted by the Board of County Commissioners.
+The owner or possessor of an exotic animal(s) who owned, possessed, kept, or harbored the exotic animal(s) on or before the effective date of this ordinance may keep the same exotic animal(s) as long as he/she satisfies licensing requirements of the [Missouri Department of Conservation](https://mdc.mo.gov/), the United States Department of agriculture or such other applicable federal agencies and complies any other housing and maintenance regulations which may be adopted by the Board of County Commissioners.
 
 In addition, the animal must be registered with the Code Enforcement Officer of Ray County within 30 days of the effective date of this ordinance.
 
@@ -5845,7 +5845,7 @@ Stormwater is water from rain or melting snow that does not soak into the ground
 
 Soil type can affect surface water contamination. Although runoff occurs from all soil types, clay soils are more likely to cause surface water runoff because they are less permeable. Eroding soil is considered a water pollutant.
 
-For additional information, contact the University of Missouri Extension Service, the Ray County Soil and Water Conservation District, the Missouri Department of Natural Resources, Missouri Department of Conservation, and the Ray County Health Department.
+For additional information, contact the University of Missouri Extension Service, the Ray County Soil and Water Conservation District, the Missouri Department of Natural Resources, [Missouri Department of Conservation](https://mdc.mo.gov/), and the Ray County Health Department.
 
 **A. Practices that will reduce stormwater runoff and improve water quality in streams**
 
@@ -6087,7 +6087,7 @@ The regulations of this Article shall apply to all areas of unincorporated Ray C
 
 **F. Basis For Establishing the Areas of Special Flood Hazard**
 
-The areas of special flood hazard identified by the Federal Emergency Management agency in its Flood Insurance Study, dated January 19, 1983 with accompanying maps and other supporting data, and any revision thereto are adopted by reference and declared to be a part of this Article.
+The areas of special flood hazard identified by the [Federal Emergency Management Agency](https://www.fema.gov/) in its Flood Insurance Study, dated January 19, 1983 with accompanying maps and other supporting data, and any revision thereto are adopted by reference and declared to be a part of this Article.
 
 **G. Warning and Disclaimer of Liability**
 
@@ -6180,7 +6180,7 @@ Duties of the Floodplain Administrator shall include:
 
 2\. Review permits for proposed development to assure that all necessary permits have been obtained from those federal, state or local governmental agencies from which prior approval is required.
 
-3\. Notify adjacent communities and the Missouri State Emergency Management Agency prior to any alteration or relocation of a watercourse, and shall submit evidence of such notification to the Federal Emergency Management Agency.
+3\. Notify adjacent communities and the [Missouri State Emergency Management Agency](https://sema.dps.mo.gov/) prior to any alteration or relocation of a watercourse, and shall submit evidence of such notification to the [Federal Emergency Management Agency](https://www.fema.gov/).
 
 4\. Assure that maintenance is provided within the altered or relocated portion of said watercourse so that the flood carrying capacity is not diminished.
 
@@ -6304,7 +6304,7 @@ Within AH zones adequate drainage paths around structures on slopes shall be req
 
 **110.11 Floodplain Standards for Manufactured Housing Units and Mobile Homes**
 
-A. All manufactured housing units and mobile homes to be placed within all numbered and unnumbered A zones, AE and AH zones shall be required to be installed using methods and practices that minimize flood damage. For the purposes of this requirement, manufactured housing units and mobile homes must be elevated and anchored to resist flotation, collapse or lateral movement. Methods of anchoring must be designed and installed in accordance with local building codes or FEMA guidelines. In the event that over‑the‑top frame ties to ground anchors are used, the following specific requirements (or their equivalent) shall be met:
+A. All manufactured housing units and mobile homes to be placed within all numbered and unnumbered A zones, AE and AH zones shall be required to be installed using methods and practices that minimize flood damage. For the purposes of this requirement, manufactured housing units and mobile homes must be elevated and anchored to resist flotation, collapse or lateral movement. Methods of anchoring must be designed and installed in accordance with local building codes or [FEMA](https://www.fema.gov/) guidelines. In the event that over‑the‑top frame ties to ground anchors are used, the following specific requirements (or their equivalent) shall be met:
 
 1\. Over‑the‑top ties be provided at each of the four corners of the mobile home with two additional ties per side at the intermediate locations and manufactured housing units and mobile homes less than 50 feet long requiring one additional tie per side.
 
@@ -6482,7 +6482,7 @@ Violation of the provisions of this floodplain ordinance or failure to comply wi
 
 **110.18 Floodplain Amendments**
 
-The regulations, restrictions and boundaries set forth in this Article may from time to time be amended, supplemented, changed or appealed to reflect any and all changes in the National Flood Disaster Protection Act of 1973. All such amendments shall be processed in accordance with the procedures of Article 30.2. A copy of amendments approved will be provided to the Federal Emergency Management Agency.
+The regulations, restrictions and boundaries set forth in this Article may from time to time be amended, supplemented, changed or appealed to reflect any and all changes in the National Flood Disaster Protection Act of 1973. All such amendments shall be processed in accordance with the procedures of Article 30.2. A copy of amendments approved will be provided to the [Federal Emergency Management Agency](https://www.fema.gov/).
 
 **Article 120 Signs**
 
@@ -7322,7 +7322,7 @@ The following terms shall have the meanings ascribed. Uses not specifically defi
 | Final Plat | A plan or map prepared in accordance with the provisions of this regulation and those of any other applicable local regulation, which plat is prepared for recording in the office of the Recorder of Deeds of the county. |
 | Financial Service | An establishment primarily engaged in the provision of financial and banking services. Typical uses include banks, savings and loan institutions, stock and bond brokers, loan and lending activities, and similar services. |
 | Firearm | Any hand weapon from which a projectile is discharged by an explosive force. |
-| Floodplain | That area defined as having a 1% chance of flooding in any given year and shall include all area shown in the 100‑year floodplain as designated on the Flood Insurance Study (F.I.S.), as prepared by the U.S. Federal Emergency Management Agency or its equivalent agency. |
+| Floodplain | That area defined as having a 1% chance of flooding in any given year and shall include all area shown in the 100‑year floodplain as designated on the Flood Insurance Study (F.I.S.), as prepared by the U.S. [Federal Emergency Management Agency](https://www.fema.gov/) or its equivalent agency. |
 | Floor Area, Gross | The sum of the gross area for each of a building’s stories under roof, measured from the exterior faces of the exterior walls or from the centerline of walls separating two buildings, include the following areas: (a) the area of each floor of the structure and (b) all attic space having headroom of 7 feet‑10 inches or more. |
 | Food Sales | An establishment primarily engaged in the retail sale of food or household products for home consumption. Typical uses include grocery stores (including the sale of beer and wine in unopened containers for off‑premise consumption where revenue from the sale of groceries comprises at least 51% of the gross income of the establishment, and at least 51% of the total display or shelf space is devoted to groceries other than beer and wine), delicatessens, meat markets, retail bakeries, and candy shops. |
 | Foster Home | A residence in which 12 to 24-hour care is provided to no more than 8 children, 2 or more of which are unrelated to the foster parents. |

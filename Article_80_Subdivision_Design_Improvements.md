@@ -2,29 +2,29 @@
 
 ## 80.1 General
 
-This Article establishes standards for the design and construction of subdivisions to ensure adequate infrastructure, public safety, and compatibility with the county's development goals.
+This Article establishes standards for the design and construction of [subdivisions](./Article_150_Definitions.md#subdivision) to ensure adequate [infrastructure](./Article_150_Definitions.md#infrastructure), public safety, and compatibility with the county's development goals.
 
 ## 80.2 Layout and Design
 
 ### A. Compliance with Plans and Regulations
 The design of subdivisions shall be consistent with:
 
-1. The Comprehensive Plan and all other adopted plans and policies of the County Commission; and
-2. The requirements of the zoning district in which the property is located and all other applicable standards of these Zoning Regulations.
+1. The [Comprehensive Plan](./Article_150_Definitions.md#comprehensive-plan) and all other adopted plans and policies of the [County Commission](./Article_150_Definitions.md#county-commission); and
+2. The requirements of the [zoning district](./Article_150_Definitions.md#zoning-district) in which the [property](./Article_150_Definitions.md#property) is located and all other applicable standards of these Zoning Regulations.
 
 ### B. Traffic Movement and Pedestrian Circulation
 
-1. The design of subdivisions should create an integrated system of lots, streets, trails, and infrastructure that provides for efficient movement of people, bicycles, and automobiles within the subdivision and to and from adjacent development.
+1. The design of [subdivisions](./Article_150_Definitions.md#subdivision) should create an integrated system of [lots](./Article_150_Definitions.md#lot), [streets](./Article_150_Definitions.md#street), trails, and [infrastructure](./Article_150_Definitions.md#infrastructure) that provides for efficient movement of people, bicycles, and automobiles within the subdivision and to and from adjacent development.
 
-2. All subdivisions should provide for the efficient movement of through traffic by providing a completely interconnected hierarchy of streets in order to avoid isolation of residential areas and over-reliance on arterial streets.
+2. All [subdivisions](./Article_150_Definitions.md#subdivision) should provide for the efficient movement of through traffic by providing a completely interconnected hierarchy of [streets](./Article_150_Definitions.md#street) in order to avoid isolation of [residential areas](./Article_150_Definitions.md#residential) and over-reliance on [arterial streets](./Article_150_Definitions.md#arterial-street).
 
-3. Subdivisions should be designed to provide safe and attractive pedestrian routes to nearby commercial centers, employment, recreation, and other uses.
+3. [Subdivisions](./Article_150_Definitions.md#subdivision) should be designed to provide safe and attractive pedestrian routes to nearby [commercial](./Article_150_Definitions.md#commercial) centers, employment, [recreation](./Article_150_Definitions.md#recreation), and other [uses](./Article_150_Definitions.md#use).
 
 4. Street layouts should be uncomplicated, so that emergency services, public services, and visitors can find their way to their destinations.
 
-5. The proliferation of individual driveways on state and county roads should be avoided. Homeowners are responsible for all maintenance of driveway easements. Specific address signage may be required.
+5. The proliferation of individual [driveways](./Article_150_Definitions.md#driveway) on state and county roads should be avoided. Homeowners are responsible for all maintenance of [driveway easements](./Article_150_Definitions.md#easement). Specific address signage may be required.
 
-6. Residential subdivisions involving 5 or more lots should be served by internal street systems rather than relying on the state and county roads for direct access to all lots, unless exempted by the Ray County Road and Bridge or the state regulating authority. If the decision-making body allows direct residential driveway access to state or county roads, the decision-making body shall be authorized to require shared access drives and other mitigation measures to reduce the number of access points on to state and county roads and thereby promote public safety and efficient movement of traffic.
+6. [Residential subdivisions](./Article_150_Definitions.md#residential-subdivision) involving 5 or more [lots](./Article_150_Definitions.md#lot) should be served by internal [street](./Article_150_Definitions.md#street) systems rather than relying on the state and county roads for direct access to all lots, unless exempted by the Ray County Road and Bridge or the state regulating authority. If the [decision-making body](./Article_150_Definitions.md#decision-making-body) allows direct residential driveway access to state or county roads, the decision-making body shall be authorized to require shared access drives and other mitigation measures to reduce the number of access points on to state and county roads and thereby promote public safety and efficient movement of traffic.
 
 ### C. Streetscape Appearance
 
@@ -32,31 +32,31 @@ The design of subdivisions shall be consistent with:
 
 2. Edges of subdivisions should include adequate landscaping and buffering to improve the image of the area, and to protect future residents of the subdivision and adjacent developments from adverse impacts caused by significant differences in use, development intensity, or development height.
 
-3. Lots and streets should not be designed to require significant numbers of adjacent dwelling units with front-loaded garages that dominate the streetscape.
+3. [Lots](./Article_150_Definitions.md#lot) and [streets](./Article_150_Definitions.md#street) should not be designed to require significant numbers of adjacent [dwelling units](./Article_150_Definitions.md#dwelling-unit) with front-loaded garages that dominate the streetscape.
 
 ### D. Open Spaces
 
-1. Open spaces should be integrated into and throughout the subdivision, should be connected with each other and with open spaces in adjacent development.
+1. [Open spaces](./Article_150_Definitions.md#open-space) should be integrated into and throughout the [subdivision](./Article_150_Definitions.md#subdivision), should be connected with each other and with open spaces in adjacent development.
 
-2. Open spaces anticipated for use as active or developed parks should be located on relatively flat, well-drained terrain.
+2. [Open spaces](./Article_150_Definitions.md#open-space) anticipated for use as active or developed [parks](./Article_150_Definitions.md#park) should be located on relatively flat, well-drained terrain.
 
 3. Open spaces not anticipated for use as active or developed parks should be located on prominent high points with significant views, or along significant and interesting geological features or wooded areas, or along significant drainage.
 
-4. Subdivisions should be designed and laid out in a manner that creates the least damage to the natural environment, avoids to the maximum extent feasible, significant natural resources such as prime agricultural lands, wooded areas and wetlands.
+4. [Subdivisions](./Article_150_Definitions.md#subdivision) should be designed and laid out in a manner that creates the least damage to the natural environment, avoids to the maximum extent feasible, significant natural resources such as prime [agricultural lands](./Article_150_Definitions.md#agricultural), wooded areas and [wetlands](./Article_150_Definitions.md#wetlands).
 
 ### E. Specifications and Standards Generally
 
-1. All public improvements shall be constructed in compliance with the standards and specifications established by this Article, the County Code and adopted regulations, including all design standards and requirements set forth.
+1. All [public improvements](./Article_150_Definitions.md#public-improvements) shall be constructed in compliance with the standards and specifications established by this Article, the County Code and adopted regulations, including all design standards and requirements set forth.
 
-2. No subdivider shall be relieved of the duty to construct public improvements for the subdivision until all public improvements are constructed, approved and accepted by the county. This may be accomplished by an irrevocable letter of credit, cash escrow, performance bond, or other financial improvement guarantee acceptable to the County.
+2. No [subdivider](./Article_150_Definitions.md#subdivider) shall be relieved of the duty to construct [public improvements](./Article_150_Definitions.md#public-improvements) for the [subdivision](./Article_150_Definitions.md#subdivision) until all public improvements are constructed, approved and accepted by the county. This may be accomplished by an irrevocable letter of credit, cash escrow, performance bond, or other financial improvement guarantee acceptable to the County.
 
 ## 80.4 Lots
 
 ### A. Width to Depth Ratio
-The width to depth ratio of any lot shall not exceed 1 to 4 (width to depth).
+The width to depth ratio of any [lot](./Article_150_Definitions.md#lot) shall not exceed 1 to 4 (width to depth).
 
 ### B. Lot Area
-Minimum lot area shall be subject to the underlying zoning district in which the subdivision is located, unless modified by Planned Unit Development.
+Minimum [lot area](./Article_150_Definitions.md#lot-area) shall be subject to the underlying [zoning district](./Article_150_Definitions.md#zoning-district) in which the [subdivision](./Article_150_Definitions.md#subdivision) is located, unless modified by [Planned Unit Development](./Article_150_Definitions.md#planned-unit-development).
 
 ### C. Land Remnants
 Remnants of land containing less area than prescribed by the underlying zoning district regulations shall not be permitted unless designated and accepted for utility or public purposes.
@@ -112,7 +112,7 @@ All new public street and bridge construction shall comply with all applicable s
 On streets with reverse curves, a reasonable tangent shall be provided between curves to permit a smooth flow of traffic.
 
 ### B. Street Layout
-Proposed streets shall conform to topography as nearly as possible to reduce drainage problems and grades. Intersections shall be designed with a flat grade. Except in unusual circumstances (as determined by the County Highway Department), in hilly or rolling areas, at the approach to an intersection, a leveling area shall be provided having not greater than 2 percent rate for a distance of 60 feet, measured from the nearest right-of-way line of the intersecting street. Where any street intersection will involve earth banks or existing vegetation inside any lot corner that would create a traffic hazard by limiting visibility, the developer shall cut such ground, and/or vegetation (including trees) in connection with the grading of the public right-of-way to the extent deemed necessary to provide an adequate sight distance within the right-of-way. Sight triangles shall conform to the requirements of Article 100.4. The cross-slopes on all streets, including intersection, shall be 3 percent or less.
+Proposed streets shall conform to topography as nearly as possible to reduce drainage problems and grades. Intersections shall be designed with a flat grade. Except in unusual circumstances (as determined by the County Highway Department), in hilly or rolling areas, at the approach to an intersection, a leveling area shall be provided having not greater than 2 percent rate for a distance of 60 feet, measured from the nearest right-of-way line of the intersecting street. Where any street intersection will involve earth banks or existing vegetation inside any lot corner that would create a traffic hazard by limiting visibility, the developer shall cut such ground, and/or vegetation (including trees) in connection with the grading of the public right-of-way to the extent deemed necessary to provide an adequate sight distance within the right-of-way. Sight triangles shall conform to the requirements of [Article 100.4](./Article_100_Development_Standards.md#1004-sight-triangles). The cross-slopes on all streets, including intersection, shall be 3 percent or less.
 
 ### C. Arterial Street Intersections
 The number of intersections and private vehicular access points along arterial streets shall be held to a minimum. Unless otherwise expressly approved by the decision-making body, the distance between intersections shall not be less than 1,200 feet.
@@ -153,7 +153,7 @@ Whenever there exists a dedicated or platted half street or alley adjacent to th
 Where lots front or side, but do not back on railroad right-of-way, limited access freeways, or principal highways or arterial streets, the decision-making body may require a marginal access street or frontage road adjacent to the boundary of such right-of-way in order to ensure traffic safety and maintain adopted levels of service on the adjacent street. The distance from said right-of-way shall be determined based on a consideration of minimum distance requirements for approach connections to future grade-separated intersections.
 
 ### L. Street Design Requirements
-Unless otherwise specified herein, the minimum design criteria, construction methods and material specifications for public improvements required by the Article shall conform to any specification as to procedure, equipment, or materials not covered in the street specifications and standards APWA, and subsequent amendments and/or revisions thereto, or the Ray County Highway Department's special instructions, shall be subject to the Missouri Department of Transportation (MoDOT) Standards for Highway Construction, 2004 Edition and subsequent amendments and/or revisions thereto, for all Ray County roads in the unincorporated area. The right-of-way, grades and widths for proposed or existing abutting streets and alleys shall conform to the designation in the Comprehensive Plan and shall not be less than the minimum for each classification as follows:
+Unless otherwise specified herein, the minimum design criteria, construction methods and material specifications for public improvements required by the Article shall conform to any specification as to procedure, equipment, or materials not covered in the street specifications and standards APWA, and subsequent amendments and/or revisions thereto, or the Ray County Highway Department's special instructions, shall be subject to the [Missouri Department of Transportation](https://www.modot.org/) (MoDOT) Standards for Highway Construction, 2004 Edition and subsequent amendments and/or revisions thereto, for all Ray County roads in the unincorporated area. The right-of-way, grades and widths for proposed or existing abutting streets and alleys shall conform to the designation in the Comprehensive Plan and shall not be less than the minimum for each classification as follows:
 
 **Street Design Standards Table:**
 
@@ -178,7 +178,7 @@ Unless otherwise specified herein, the minimum design criteria, construction met
 
 ## 80.8 Construction Standards for Vehicular Circulation (Streets and Bridges)
 
-The subdivider shall install, construct, or provide for the construction of the improvements required by this Article and in conjunction with all laws, restrictions, and codes established by this Article, the Statutes of the State of Missouri, and all other applicable regulations. All required improvements shall conform to the specifications of this Article and compliance therewith shall be confirmed by the County Highway Department prior to release of the surety by the County Commission.
+The subdivider shall install, construct, or provide for the construction of the improvements required by this Article and in conjunction with all laws, restrictions, and codes established by this Article, the [Statutes of the State of Missouri](https://revisor.mo.gov/main/Home.aspx), and all other applicable regulations. All required improvements shall conform to the specifications of this Article and compliance therewith shall be confirmed by the County Highway Department prior to release of the surety by the County Commission.
 
 ### A. Assignment of Responsibilities to the Subdivider
 The dedication of right-of-way and the construction of improvements for new interior roads shall be at the expense of the subdivider. All right-of-way dedication and road construction shall be in conformance with the provisions of this Article, and other pertinent codes of Ray County.
@@ -243,11 +243,11 @@ Unless otherwise expressly exempted, all proposed development shall be connected
 All development shall be encouraged to join Rural Fire Protection Associations and may be required in R-2, R-3, R-MHP, S&O, B-1, B-2, I-1, I-2 and PUD Zoning Districts.
 
 ### B. Exemptions
-Exemptions from the standards of Article 80.9-A may be approved only in the following 2 instances:
+Exemptions from the standards of [Article 80.9-A](#809-water-supply-and-fire-protection) may be approved only in the following 2 instances:
 
-1. Single dwelling units located on parcels with a minimum area of at least 9.0 acres in the Rural Density Development Zone and accessory farm buildings shall be exempt from the minimum standards of Article 80.9-A.
+1. Single dwelling units located on parcels with a minimum area of at least 9.0 acres in the Rural Density Development Zone and accessory farm buildings shall be exempt from the minimum standards of [Article 80.9-A](#809-water-supply-and-fire-protection).
 
-2. Decision-making bodies may approve subdivisions that do not comply with the standards of Article 80.9-A if both of the following conditions are met:
+2. Decision-making bodies may approve subdivisions that do not comply with the standards of [Article 80.9-A](#809-water-supply-and-fire-protection) if both of the following conditions are met:
    - a. The applicable water supplier has reviewed the proposed development and stated in writing that it has budgeted improvements within 2 years, or that there is no feasible way to meet the water supply standards within 5 years; and,
    - b. The decision-making body determines that the proposed development will be adequately served and will not pose threats to public health, safety, or logical extension of services.
 
@@ -267,7 +267,7 @@ Public water services, including rural water districts, shall be used whenever a
 Water meters shall be connected to every lot within a subdivision.
 
 ### H. Well Water
-Well water for residential or commercial use may be approved only under unusual circumstances, as determined by the Planning and Zoning Commission, Ray County Commission and approved by the MO Department of Natural Resources.
+Well water for residential or commercial use may be approved only under unusual circumstances, as determined by the Planning and Zoning Commission, Ray County Commission and approved by the [Missouri Department of Natural Resources](https://dnr.mo.gov/).
 
 ## 80.10 Wastewater Systems
 
@@ -283,7 +283,7 @@ Sanitary sewer disposal connections shall be required of all properties and uses
 3. **Urban Density Development Zone** - Sanitary sewer service will be provided through use of, or connection to, a central sanitary sewer system except for residences on lots zoned R-A, R-1, and R-1A unless such lots lie within 1,000 feet and within the same service basin of a central sanitary sewer system with capacity to serve the lots.
 
 ### B. Service and Ownership Requirement
-The subdivider and/or lot owners shall be required to install sanitary sewer facilities, or individual sewage disposal systems, designed in accordance with the rules, regulations and standards of the Missouri Clean Water Commission and the [Missouri Department of Natural Resources](https://dnr.mo.gov/).
+The subdivider and/or lot owners shall be required to install sanitary sewer facilities, or individual sewage disposal systems, designed in accordance with the rules, regulations and standards of the [Missouri Clean Water Commission](https://dnr.mo.gov/water/environmental-services/clean-water-commission) and the [Missouri Department of Natural Resources](https://dnr.mo.gov/).
 
 ### C. Connection Requirement
 Sewage from a building or premises shall be discharged directly into the community or county sewage system when the system is available within 200 feet from the building or premises measured along a street, alley, or easement to the encasement of the sewer system.
@@ -308,7 +308,7 @@ Any entity desiring to use blasting materials in their construction process must
 ## 80.12 Stormwater Management
 
 ### A. General Requirements
-Stormwater management is a requirement of all development within Ray County. New development is required to be responsible for potential runoff onto and off of his property. Specific requirements are noted in the "Technical Specifications and Design Criteria Manual" and "Drainage Easements" Article 110.
+Stormwater management is a requirement of all development within Ray County. New development is required to be responsible for potential runoff onto and off of his property. Specific requirements are noted in the "Technical Specifications and Design Criteria Manual" and "Drainage Easements" [Article 110](./Article_110_Environmental.md).
 
 ### B. Plan Submittal
 When required by the Planning and Zoning Commission, two copies of the final stormwater plan shall be submitted to the Planning and Zoning Department for review by the County's engineer, or designee, and one copy to the Ray County Highway Department.
@@ -335,7 +335,7 @@ All construction improvements shall be guaranteed in the same manner as street i
 ## 80.13 Dams and Water Impoundment Structures
 
 ### A. New Dams
-New dams and water impoundment structures shall comply with the standards of Article 110.1B.
+New dams and water impoundment structures shall comply with the standards of [Article 110.1B](./Article_110_Environmental.md#1101-floodplain-management).
 
 ### B. Existing Dams
 
@@ -345,7 +345,7 @@ New dams and water impoundment structures shall comply with the standards of Art
 
 ## 80.14 Street Signs and Traffic Markers
 
-The subdivider shall install street signs and other traffic control devices at all intersections within the subdivision. Such signs shall meet the size and design standards established by the Missouri Department of Transportation.
+The subdivider shall install street signs and other traffic control devices at all intersections within the subdivision. Such signs shall meet the size and design standards established by the [Missouri Department of Transportation](https://www.modot.org/).
 
 ## 80.15 Easements
 
@@ -362,11 +362,11 @@ Landscape easements or buffer strips may be required by the Planning and Zoning 
 If greenways or drainage ways influenced by topographical features such as streams or ponds, ravines, wooded areas or other natural features are to be provided within the proposed plat, their width and location shall be determined as may be necessary to preserve such features.
 
 ### E. Stream Setback Easements
-Any development adjacent to an existing stream shall be set back 100 feet from the center of the stream. (See Article 110.2C)
+Any development adjacent to an existing stream shall be set back 100 feet from the center of the stream. (See [Article 110.2C](./Article_110_Environmental.md#1102-drainage-and-stormwater-management))
 
 ## 80.16 Monuments
 
-Permanent survey monuments shall be placed at all lot and block corners, angle points, points of curves in streets, and at intermediate points as required prior to final acceptance by the County. Such permanent monuments shall be set with top of the monument flush with existing grade. Such monuments shall be installed in accordance with minimum standards as established by the Missouri Department of Natural Resources.
+Permanent survey monuments shall be placed at all lot and block corners, angle points, points of curves in streets, and at intermediate points as required prior to final acceptance by the County. Such permanent monuments shall be set with top of the monument flush with existing grade. Such monuments shall be installed in accordance with minimum standards as established by the [Missouri Department of Natural Resources](https://dnr.mo.gov/).
 
 ## 80.18 Subdivision Guarantees
 

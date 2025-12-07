@@ -23,19 +23,19 @@ The following base zoning districts are hereby established:
 | PUD | Planned Unit Development | Mixed-Use | All |
 | OP | Open Space/Park/Public Uses | Public | All |
 
-The zoning district hierarchy is generally based on development intensity, not use. Under this system, the R-A district is listed as the most restrictive (also referred to as least intensive) because it allows the lowest density development (1 dwelling unit per 19 acres).
+The [zoning district](./Article_150_Definitions.md#zoning-district) hierarchy is generally based on development intensity, not [use](./Article_150_Definitions.md#use). Under this system, the R-A district is listed as the most restrictive (also referred to as least intensive) because it allows the lowest density development (1 [dwelling unit](./Article_150_Definitions.md#dwelling-unit) per 19 acres).
 
 ## 40.2 Zoning District Hierarchy
 
-References in these Zoning Regulations to less restrictive or more restrictive zoning districts are references to the "intensity" of development allowed, not necessarily the range of uses permitted. Under the hierarchy established by these Zoning Regulations, the R-A district is the most restrictive base-zoning district, while the I-2 district is the least restrictive base-zoning district. Overlay and Special Purpose zoning districts are not included in the zoning district hierarchy.
+References in these Zoning Regulations to less restrictive or more restrictive [zoning districts](./Article_150_Definitions.md#zoning-district) are references to the "intensity" of development allowed, not necessarily the range of [uses](./Article_150_Definitions.md#use) permitted. Under the hierarchy established by these Zoning Regulations, the R-A district is the most restrictive base-[zoning district](./Article_150_Definitions.md#zoning-district), while the I-2 district is the least restrictive base-[zoning district](./Article_150_Definitions.md#zoning-district). Overlay and Special Purpose [zoning districts](./Article_150_Definitions.md#zoning-district) are not included in the [zoning district](./Article_150_Definitions.md#zoning-district) hierarchy.
 
 ## 40.3 R-A Agricultural District
 
 ### A. Description
-The agricultural district (R-A) is primarily intended to help retain large tracts of land for agricultural and open space purposes and to minimize conflicts between agricultural uses and adjacent development. It is possible that parts of this district will change to more intense urban zoning districts as utility services are extended. Minimum lot area in R-A zoning shall be 19 acres, and shall have one single family residence.
+The [agricultural](./Article_150_Definitions.md#agriculture) district (R-A) is primarily intended to help retain large tracts of land for [agricultural](./Article_150_Definitions.md#agriculture) and open space purposes and to minimize conflicts between [agricultural](./Article_150_Definitions.md#agriculture) [uses](./Article_150_Definitions.md#use) and adjacent development. It is possible that parts of this district will change to more intense urban [zoning districts](./Article_150_Definitions.md#zoning-district) as utility services are extended. Minimum [lot](./Article_150_Definitions.md#lot) area in R-A zoning shall be 19 acres, and shall have one single [family](./Article_150_Definitions.md#family) residence.
 
 ### B. Use Regulations
-The following table shows which uses are allowed in the R-A district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table). 
+The following table shows which [uses](./Article_150_Definitions.md#use) are allowed in the R-A district. For a summary of [uses](./Article_150_Definitions.md#use) allowed in all [zoning districts](./Article_150_Definitions.md#zoning-district), see [Article 60.1](./Article_60_Use_Regulations.md#601-use-table). 
 - P = Permitted by-right
 - C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
@@ -45,9 +45,9 @@ The following table shows which uses are allowed in the R-A district. For a summ
 | Group Home, Class I (General) | C | |
 | Group Home, Class I (Limited) | C | |
 | House, Detached | P | |
-| Mobile Home | C | Subject to 40.9D6 |
+| [Mobile Home](./Article_150_Definitions.md#mobile-home) | C | Subject to [40.9D6](#409-development-standards) |
 | **Civic/Institutional** | | |
-| Cemetery | C | RSMo 214 |
+| Cemetery | C | [RSMo 214](https://revisor.mo.gov/main/OneChapter.aspx?chapter=214) |
 | Club or Lodge | C | |
 | College or University | C | |
 | Community Recreation, Private | P | |
@@ -65,37 +65,37 @@ The following table shows which uses are allowed in the R-A district. For a summ
 | Agricultural Sales/Services | C | |
 | Animal Services | C | |
 | Archery Range | C | |
-| Bed and Breakfast | C | Subject to 60.2K |
-| Cabins | C | Subject to 60.2M |
-| Campground/Recreational Vehicle Park | C | Subject to 60.2N |
-| Communications Towers, Commercial | C | Subject to 60.2G |
-| Firearm Sales (only with shooting range) | C | Subject to 60.2T |
+| Bed and Breakfast | C | Subject to [60.2K](./Article_60_Use_Regulations.md#602-use-standards) |
+| Cabins | C | Subject to [60.2M](./Article_60_Use_Regulations.md#602-use-standards) |
+| Campground/Recreational Vehicle Park | C | Subject to [60.2N](./Article_60_Use_Regulations.md#602-use-standards) |
+| Communications Towers, Commercial | C | Subject to [60.2G](./Article_60_Use_Regulations.md#602-use-standards) |
+| Firearm Sales (only with shooting range) | C | Subject to [60.2T](./Article_60_Use_Regulations.md#602-use-standards) |
 | Funeral Services | C | |
 | Greenhouse, Nursery (Wholesale & Retail) | C | |
-| Guest House, for rent | P | Subject to 60.3C |
-| Kennel | C | Subject to 60.2W |
+| Guest House, for rent | P | Subject to [60.3C](./Article_60_Use_Regulations.md#603-accessory-and-temporary-uses) |
+| Kennel | C | Subject to [60.2W](./Article_60_Use_Regulations.md#602-use-standards) |
 | Landscaping and Lawn Care Services | C | |
 | Marina | C | |
-| Motorized Vehicle Tracks | C | Subject to 60.2P |
+| Motorized Vehicle Tracks | C | Subject to [60.2P](./Article_60_Use_Regulations.md#602-use-standards) |
 | Organic Recycling | P | |
-| Recreational Equipment Storage | C | Subject to 60.2R |
+| Recreational Equipment Storage | C | Subject to [60.2R](./Article_60_Use_Regulations.md#602-use-standards) |
 | Recreational Entertainment, Outdoor | C | |
 | Shooting Range | C | Subject to 60.2T |
 | Stable, Training and Riding, Public | C | |
-| Veterinary Services | C | Subject to 60.2W |
+| Veterinary Services | C | Subject to [60.2W](./Article_60_Use_Regulations.md#602-use-standards) |
 | **Agricultural and Other Uses** | | |
-| Accessory Apartment | P | Subject to 60.3A |
-| Accessory Dwelling Units | P | Subject to 60.3A |
-| Accessory Structure | P | Subject to 60.3B |
+| Accessory Apartment | P | Subject to [60.3A](./Article_60_Use_Regulations.md#603-accessory-and-temporary-uses) |
+| Accessory Dwelling Units | P | Subject to [60.3A](./Article_60_Use_Regulations.md#603-accessory-and-temporary-uses) |
+| Accessory Structure | P | Subject to [60.3B](./Article_60_Use_Regulations.md#603-accessory-and-temporary-uses) |
 | Air Strip, Private | C | Subject to FAA Regs. |
-| Animal Production | P | Subject to 60.2E |
-| Animal Refuge, Public or Private | C | Subject to 60.2D-7 |
-| Communications Antenna, Amateur | P | Subject to 60.2F |
+| Animal Production | P | Subject to [60.2E](./Article_60_Use_Regulations.md#602-use-standards) |
+| Animal Refuge, Public or Private | C | Subject to [60.2D-7](./Article_60_Use_Regulations.md#602-use-standards) |
+| Communications Antenna, Amateur | P | Subject to [60.2F](./Article_60_Use_Regulations.md#602-use-standards) |
 | Crop Production | P | |
-| Feedlot Operations | C | Subject to 60.2E |
-| Guest House, Private | P | Subject to 60.3A & 60.3C |
+| Feedlot Operations | C | Subject to [60.2E](./Article_60_Use_Regulations.md#602-use-standards) |
+| Guest House, Private | P | Subject to [60.3A](./Article_60_Use_Regulations.md#603-accessory-and-temporary-uses) & [60.3C](./Article_60_Use_Regulations.md#603-accessory-and-temporary-uses) |
 | Horticulture | P | |
-| Soil Excavation | C | DNR Permit |
+| Soil Excavation | C | [DNR Permit](https://dnr.mo.gov/geology/geosrv/mining/permits) |
 | Stable, Private Boarding | P | |
 | Vineyard | P | |
 | Zoological, Public or Private | C | Subject to 60.2D-7 |
@@ -107,26 +107,26 @@ The following standards shall apply to all development in the R-A district:
 
 | Standard | Requirement |
 |----------|-------------|
-| Minimum lot size | 19 acres |
-| Minimum lot width | 300 feet |
-| Minimum front/street side setback | 50 feet |
-| Minimum interior side setback | 25 feet |
-| Minimum rear setback | 50 feet |
+| Minimum [lot](./Article_150_Definitions.md#lot) size | 19 acres |
+| Minimum [lot](./Article_150_Definitions.md#lot) width | 300 feet |
+| Minimum [front](./Article_150_Definitions.md#yard-front)/[street](./Article_150_Definitions.md#street) side [setback](./Article_150_Definitions.md#setback) | 50 feet |
+| Minimum interior [side](./Article_150_Definitions.md#yard-side) [setback](./Article_150_Definitions.md#setback) | 25 feet |
+| Minimum [rear](./Article_150_Definitions.md#yard-rear) [setback](./Article_150_Definitions.md#setback) | 50 feet |
 | **Maximum building height** | |
 | - Principal structures | 40 feet |
 | - Farm structures | No limit |
 | - Non-farm accessory structures | 30 feet |
-| **Accessory Structures** | Subject to 60.3B |
+| **[Accessory](./Article_150_Definitions.md#accessory-building-or-use) [Structures](./Article_150_Definitions.md#structure)** | Subject to 60.3B |
 
 ## 40.4 R-1 Residential Rural District
 
 ### A. Description
-The Residential Rural district (R-1) is primarily intended to accommodate very low density residential development, at density not to exceed 1 dwelling unit per 9.0 acres. The purpose of the district is to provide residential areas where property owners can maintain a limited number of animals and accessory buildings in a quiet rural setting without maintaining an agricultural operation.
+The Residential Rural district (R-1) is primarily intended to accommodate very low density residential development, at density not to exceed 1 [dwelling unit](./Article_150_Definitions.md#dwelling-unit) per 9.0 acres. The purpose of the district is to provide residential areas where property owners can maintain a limited number of animals and [accessory](./Article_150_Definitions.md#accessory-building-or-use) [buildings](./Article_150_Definitions.md#building) in a quiet rural setting without maintaining an [agricultural](./Article_150_Definitions.md#agriculture) operation.
 
 ### B. Use Regulations
-The following table shows which uses are allowed in the R-1 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table).
+The following table shows which [uses](./Article_150_Definitions.md#use) are allowed in the R-1 district. For a summary of [uses](./Article_150_Definitions.md#use) allowed in all [zoning districts](./Article_150_Definitions.md#zoning-district), see [Article 60.1](./Article_60_Use_Regulations.md#601-use-table).
 - P = Permitted by-right
-- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
+- C = Allowed only if reviewed and approved as a [Conditional Use](./Article_150_Definitions.md#conditional-use) (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
 | Use Type | R-1 | Standards |
 |----------|-----|-----------|
@@ -135,7 +135,7 @@ The following table shows which uses are allowed in the R-1 district. For a summ
 | Group Home, Class I (Limited) | C | |
 | House, Detached | P | |
 | **Civic/Institutional** | | |
-| Cemetery | C | RSMo 214 |
+| Cemetery | C | [RSMo 214](https://revisor.mo.gov/main/OneChapter.aspx?chapter=214) |
 | Community Recreation, Private | P | |
 | Day Care, Family (1-5 children/adults) | P | |
 | Day Care, Group (6 or more children/adults) | C | |
@@ -148,14 +148,14 @@ The following table shows which uses are allowed in the R-1 district. For a summ
 | Utility Service, Major | C | |
 | Utility Service, Minor | P | |
 | **Commercial** | | |
-| Bed and Breakfast | C | Subject to 60.2K |
+| Bed and Breakfast | C | Subject to [60.2K](./Article_60_Use_Regulations.md#602-use-standards) |
 | Funeral Services | C | |
 | Stable, Training and Riding, Public | C | |
 | **Agricultural and Other Uses** | | |
-| Accessory Apartments | P | Subject to 60.3A |
-| Accessory Dwelling Units | P | Subject to 60.3A |
-| Accessory Structures | P | Subject to 60.3B |
-| Communications Antenna, Amateur | P | Subject to 60.2F |
+| Accessory Apartments | P | Subject to [60.3A](./Article_60_Use_Regulations.md#603-accessory-and-temporary-uses) |
+| Accessory Dwelling Units | P | Subject to [60.3A](./Article_60_Use_Regulations.md#603-accessory-and-temporary-uses) |
+| Accessory Structures | P | Subject to [60.3B](./Article_60_Use_Regulations.md#603-accessory-and-temporary-uses) |
+| Communications Antenna, Amateur | P | Subject to [60.2F](./Article_60_Use_Regulations.md#602-use-standards) |
 | Crop Production | P | |
 | Guest House, Private | P | Subject to 60.3A & 60.3C |
 | Horticulture | P | |
@@ -198,7 +198,7 @@ The following table shows which uses are allowed in the R-1 district. For a summ
 The Residential Low Density district (R-1A) is primarily intended to accommodate low density residential development, at a density not to exceed 1 dwelling unit per 3 acres. The purpose of the district is to provide a transition between rural and higher density areas.
 
 ### B. Use Regulations
-The following table shows which uses are allowed in the R-1A district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table).
+The following table shows which uses are allowed in the R-1A district. For a summary of uses allowed in all zoning districts, see [Article 60.1](./Article_60_Use_Regulations.md#601-use-table).
 - P = Permitted by-right
 - C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
@@ -209,7 +209,7 @@ The following table shows which uses are allowed in the R-1A district. For a sum
 | Group Home, Class I (Limited) | C | |
 | House, Detached | P | |
 | **Civic/Institutional** | | |
-| Cemetery | C | RSMo 214 |
+| Cemetery | C | [RSMo 214](https://revisor.mo.gov/main/OneChapter.aspx?chapter=214) |
 | Community Recreation, Private | P | |
 | Day Care, Family (1-5 children/adults) | P | |
 | Day Care, Group (6 or more children/adults) | C | |
@@ -269,7 +269,7 @@ The Residential Urban district (R-1B) is primarily intended to accommodate urban
 The R-1B district is appropriate for application only where a central sewage treatment and water system are available.
 
 ### B. Use Regulations
-The following table shows which uses are allowed in the R-1B district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table).
+The following table shows which uses are allowed in the R-1B district. For a summary of uses allowed in all zoning districts, see [Article 60.1](./Article_60_Use_Regulations.md#601-use-table).
 - P = Permitted by-right
 - C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
@@ -280,7 +280,7 @@ The following table shows which uses are allowed in the R-1B district. For a sum
 | Group Home, Class I (Limited) | C | |
 | House, Detached | P | |
 | **Civic/Institutional** | | |
-| Cemetery | C | RSMo 214 |
+| Cemetery | C | [RSMo 214](https://revisor.mo.gov/main/OneChapter.aspx?chapter=214) |
 | Community Recreation, Private | P | |
 | Day Care, Family (1-5 children/adults) | P | |
 | Day Care, Group (6 or more children/adults) | C | |
@@ -324,7 +324,7 @@ The following table shows which uses are allowed in the R-1B district. For a sum
 The Residential Duplex district (R-2) is primarily intended to accommodate urban density residential development in areas where the full range of urban services are available. The R-2 district is appropriate for application only where a central sewage treatment and water system are available.
 
 ### B. Use Regulations
-The following table shows which uses are allowed in the R-2 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table).
+The following table shows which uses are allowed in the R-2 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](./Article_60_Use_Regulations.md#601-use-table).
 - P = Permitted by-right
 - C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
@@ -338,7 +338,7 @@ The following table shows which uses are allowed in the R-2 district. For a summ
 | House, Detached | P | |
 | Transitional Housing | C | |
 | **Civic/Institutional** | | |
-| Cemetery | C | RSMo.214 |
+| Cemetery | C | [RSMo.214](https://revisor.mo.gov/main/OneChapter.aspx?chapter=214) |
 | Community Recreation, Private | P | |
 | Day Care, Family (1-5 children/adults) | P | |
 | Parks & Recreation | P | |
@@ -384,7 +384,7 @@ The Residential Multi-Unit district (R-3) is primarily intended to accommodate u
 The R-3 district is appropriate for application only where a central sewage treatment and water system are available.
 
 ### B. Use Regulations
-The following table shows which uses are allowed in the R-3 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table).
+The following table shows which uses are allowed in the R-3 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](./Article_60_Use_Regulations.md#601-use-table).
 - P = Permitted by-right
 - C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
@@ -403,7 +403,7 @@ The following table shows which uses are allowed in the R-3 district. For a summ
 | | Retirement Housing, Limited | P | |
 | | Transitional Housing | C | |
 | **Civic/Institutional** | | | |
-| | Cemetery | C | RSMo.214 |
+| | Cemetery | C | [RSMo.214](https://revisor.mo.gov/main/OneChapter.aspx?chapter=214) |
 | | Community Recreation, Private | P | |
 | | Convalescent Services | C | |
 | | Day Care, Family (1-5 children/adults) | P | |
@@ -453,7 +453,7 @@ The Residential Mobile Home Park district (R-MHP) is primarily intended to accom
 The R-MHP district is intended for application only in urban area. Full urban services will generally be required for all development in this district (i.e. central sewage and water systems).
 
 ### B. Use Regulations
-The following table shows which uses are allowed in the R-MHP district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table). (P = Permitted by-right; C= Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits)))
+The following table shows which uses are allowed in the R-MHP district. For a summary of uses allowed in all zoning districts, see [Article 60.1](./Article_60_Use_Regulations.md#601-use-table). (P = Permitted by-right; C= Allowed only if reviewed and approved as a Conditional Use (See [Article 30.8](./Article_30_Development_Review_Procedures.md#308-conditional-use-permits)))
 
 | **Residential** | | |
 |---|---|---|
@@ -542,7 +542,7 @@ The following table shows which uses are allowed in the R-MHP district. For a su
 8. **Sewer and Water** - Every space within a mobile home park shall be provided with public sanitary sewer and public water service with all utility lines constructed in accordance with county approved plumbing, sanitary, and construction codes. Water and sewer lines under all streets shall be the same diameter and materials as required for public streets and shall "loop" or connect to each other as is practical. All utility lines, including electrical service, shall be placed underground.
 
 ### F. Mobile Home Park Approval Procedure
-An application for R-MHP zoning shall be processed as a Zoning District Map amendment in accordance with the procedures of [Article 30.3](Article_30_Development_Review_Procedures.md#303-zoning-district-map-amendments). At the time of submission of the rezoning application, the applicant shall submit a site plan for the mobile home park. The site plan shall accompany the rezoning application and be reviewed concurrently with the rezoning application by the Planning and Zoning Commission and County Commission. A list of the information required to be shown on the site plan may be obtained from the Planning and Zoning Department.
+An application for R-MHP zoning shall be processed as a Zoning District Map amendment in accordance with the procedures of [Article 30.3](./Article_30_Development_Review_Procedures.md#303-zoning-district-map-amendments). At the time of submission of the rezoning application, the applicant shall submit a site plan for the mobile home park. The site plan shall accompany the rezoning application and be reviewed concurrently with the rezoning application by the Planning and Zoning Commission and County Commission. A list of the information required to be shown on the site plan may be obtained from the Planning and Zoning Department.
 
 ## 40.10 S & O Service & Office District
 
@@ -552,7 +552,7 @@ The Service & Office District (S & O) is intended to accommodate limited retail,
 The S & O district is appropriate for application in the Rural Density, Low Density or Urban Density Development.
 
 ### B. Use Regulations
-The following table shows which uses are allowed in the S & O district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table). (P = Permitted by-right; C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits)))
+The following table shows which uses are allowed in the S & O district. For a summary of uses allowed in all zoning districts, see [Article 60.1](./Article_60_Use_Regulations.md#601-use-table). (P = Permitted by-right; C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.8](./Article_30_Development_Review_Procedures.md#308-conditional-use-permits)))
 
 | Use Type | S & O | Standards |
 |----------|-------|-----------|
@@ -563,7 +563,7 @@ The following table shows which uses are allowed in the S & O district. For a su
 | House, Detached | C | |
 | Multi-Unit Housing | C | Subject to 60.2Q |
 | **Civic/Institutional** | | |
-| Cemetery | C | RSMo.214 |
+| Cemetery | C | [RSMo.214](https://revisor.mo.gov/main/OneChapter.aspx?chapter=214) |
 | Convalescent Services | C | |
 | Cultural Services | P | |
 | Parks & Recreation | P | |
@@ -610,7 +610,7 @@ The following additional regulations shall apply in the S & O district.
 
 1. Outdoor storage/display of equipment, materials and merchandise is prohibited.
 
-2. Drive-through windows shall require review and approval in accordance with the Conditional Use Permit procedures of [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits).
+2. Drive-through windows shall require review and approval in accordance with the Conditional Use Permit procedures of [Article 30.8](./Article_30_Development_Review_Procedures.md#308-conditional-use-permits).
 
 3. No vehicle or equipment, other than a passenger vehicle or light truck, may be stored or parked in areas visible from off-site for more than 48 consecutive hours.
 
@@ -633,7 +633,7 @@ The Community Business District (B-1) is intended to accommodate retail sales, s
 The B-1 district is appropriate for application in the Urban Density Development. Full urban services are required for uses in the B-1 district (i.e. central sewer treatment and water system).
 
 ### B. Use Regulations
-The following table shows which uses are allowed in the B-1 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table).
+The following table shows which uses are allowed in the B-1 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](./Article_60_Use_Regulations.md#601-use-table).
 - P = Permitted by-right
 - C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
@@ -650,7 +650,7 @@ The following table shows which uses are allowed in the B-1 district. For a summ
 
 | Use | Status | Notes |
 |-----|--------:|-------|
-| Cemetery | C | RSMo.214 |
+| Cemetery | C | [RSMo.214](https://revisor.mo.gov/main/OneChapter.aspx?chapter=214) |
 | Club or Lodge | P | |
 | College or University | P | |
 | Convalescent Services | P | |
@@ -756,7 +756,7 @@ The General Business District (B-2) is intended to accommodate moderate- to high
 The B-2 district is appropriate for application in the Urban Density Development. Full urban services are required for uses in the B-2 district (i.e. central sewage treatment and water system).
 
 ### B. Use Regulations
-The following table shows which uses are allowed in the B-2 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table).
+The following table shows which uses are allowed in the B-2 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](./Article_60_Use_Regulations.md#601-use-table).
 - P = Permitted by-right
 - C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
@@ -768,7 +768,7 @@ The following table shows which uses are allowed in the B-2 district. For a summ
 | | Group Home, Class II | C | |
 | | Transitional Housing | C | |
 | **Civic/Institutional** | | | |
-| | Cemetery | C | RSMo.214 |
+| | Cemetery | C | [RSMo.214](https://revisor.mo.gov/main/OneChapter.aspx?chapter=214) |
 | | Club or Lodge | P | |
 | | College or University | P | |
 | | Cultural Services | P | |
@@ -874,7 +874,7 @@ The Limited Industrial district (I-1) is intended to accommodate research and de
 The I-1 district is appropriate for application in the Urban Density Development. This district may also be appropriate for application in the Rural and Low Density Development for low-intensity uses located on collector or arterial roads that are adequately buffered from adjacent residential districts.
 
 ### B. Use Regulations
-The following table shows which uses are allowed in the I-1 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table).
+The following table shows which uses are allowed in the I-1 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](./Article_60_Use_Regulations.md#601-use-table).
 - P = Permitted by-right
 - C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
@@ -883,7 +883,7 @@ The following table shows which uses are allowed in the I-1 district. For a summ
 | **Residential** | | | |
 | | Transitional Housing | C | |
 | **Civic/Institutional** | | | |
-| | Cemetery | C | RSMo.214 |
+| | Cemetery | C | [RSMo.214](https://revisor.mo.gov/main/OneChapter.aspx?chapter=214) |
 | | College or University | P | |
 | | Day Care, Commercial (21+ children/adults) | P | |
 | | Detention Facilities | C | |
@@ -991,14 +991,14 @@ The General Industrial district (I-2) is intended to accommodate intense industr
 The I-2 district is appropriate for application in the Rural, Low or Urban Density Development, provided that uses are adequately buffered from residential areas and commercial properties that are used by the general public.
 
 ### B. Use Regulations
-The following table shows which uses are allowed in the I-2 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table).
+The following table shows which uses are allowed in the I-2 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](./Article_60_Use_Regulations.md#601-use-table).
 - P = Permitted by-right
 - C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
 | Use Category | Use Type | I-2 | Notes |
 |-------------|----------|-----|-------|
 | **Civic/Institutional** | | | |
-| | Cemetery | C | RSMo.214 |
+| | Cemetery | C | [RSMo.214](https://revisor.mo.gov/main/OneChapter.aspx?chapter=214) |
 | | Detention Facilities | C | |
 | | Hospital | P | |
 | | Postal Facility | P | |
@@ -1075,7 +1075,7 @@ The Open Space and Parks (OP) district is intended to accommodate areas reserved
 The OP District is appropriate for application in all development of the Comprehensive Plan.
 
 ### A. Use Regulations
-The following table shows which uses are allowed in the OP district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table).
+The following table shows which uses are allowed in the OP district. For a summary of uses allowed in all zoning districts, see [Article 60.1](./Article_60_Use_Regulations.md#601-use-table).
 - P = Permitted by-right
 - C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
