@@ -23,25 +23,11 @@ The following base zoning districts are hereby established:
 | PUD | Planned Unit Development | Mixed-Use | All |
 | OP | Open Space/Park/Public Uses | Public | All |
 
-- **R-A** - Agricultural District
-- **R-1** - Residential Rural District  
-- **R-1A** - Residential Low Density District
-- **R-1B** - Residential Urban District
-- **R-2** - Residential Duplex District
-- **R-3** - Residential Multi-Unit District
-- **R-MHP** - Residential Mobile Home Park District
-- **S&O** - Service & Office District
-- **B-1** - Community Business District
-- **B-2** - General Business District
-- **I-1** - Limited Industrial District
-- **I-2** - General Industrial District
-- **OP** - Open Space and Parks District
+The zoning district hierarchy is generally based on development intensity, not use. Under this system, the R-A district is listed as the most restrictive (also referred to as least intensive) because it allows the lowest density development (1 dwelling unit per 19 acres).
 
 ## 40.2 Zoning District Hierarchy
 
 References in these Zoning Regulations to less restrictive or more restrictive zoning districts are references to the "intensity" of development allowed, not necessarily the range of uses permitted. Under the hierarchy established by these Zoning Regulations, the R-A district is the most restrictive base-zoning district, while the I-2 district is the least restrictive base-zoning district. Overlay and Special Purpose zoning districts are not included in the zoning district hierarchy.
-
-*Note: The zoning district hierarchy is generally based on development intensity, not use. Under this system, the R-A district is listed as the most restrictive (also referred to as least intensive) because it allows the lowest density development (1 dwelling unit per 19 acres).*
 
 ## 40.3 R-A Agricultural District
 
