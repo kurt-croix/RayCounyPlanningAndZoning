@@ -303,8 +303,24 @@ The following table shows which uses are allowed in the R-1B district. For a sum
 | Crop Production | P | |
 
 ### C. Density and Dimensional Standards
-The following standards apply to all residential and nonresidential development in the R-1B district:
-- **Minimum lot size:** 12,000 square feet (houses), see table in Section 40.16 for complete standards.
+
+1. The following standards apply to all residential and nonresidential development in the R-1B district:
+
+| Standard | Requirement |
+|----------|-------------|
+| **Minimum lot size** | 12,000 square feet |
+| **Minimum lot width** | 80 feet |
+| **Minimum front/street side setback** | 35 feet |
+| **Minimum interior side setback** | 10 feet |
+| **Minimum rear setback** | 25 feet |
+| **Maximum building height** | |
+| Principal structures | 35 feet |
+| Accessory structures | 30 feet |
+| **Minimum residential living area** | |
+| 1-story | 1,000 square feet |
+| Other | 1,400 square feet |
+
+2. Homeowner Association Protective Covenants are required when there are common areas to be maintained.
 
 ## 40.7 R-2 Residential Duplex District
 
