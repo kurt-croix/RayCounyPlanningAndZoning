@@ -2,8 +2,13 @@ name: Publish Ray County Zoning Regulations Release
 
 on:
   push:
-    branches: [ main, master ]
+    branches: [ master, hyperlinks ]
   workflow_dispatch:
+
+permissions:
+  contents: write
+  packages: write
+  actions: write
 
 jobs:
   build-and-release:
@@ -332,14 +337,13 @@ jobs:
         echo "html_size=$HTML_SIZE" >> $GITHUB_OUTPUT
         echo "zip_size=$ZIP_SIZE" >> $GITHUB_OUTPUT
         
-    - name: Create Release
-      id: create_release
-      uses: actions/create-release@v1
+    - name: Create Release with Assets
+      uses: softprops/action-gh-release@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         tag_name: ${{ steps.date.outputs.date }}
-        release_name: Ray County Zoning Regulations - ${{ steps.date.outputs.date }}
+        name: Ray County Zoning Regulations - ${{ steps.date.outputs.date }}
         body: |
           # Ray County Planning & Zoning Regulations (2005)
           
@@ -396,33 +400,7 @@ jobs:
           *This document represents the official Ray County Planning & Zoning Regulations as adopted in 2005.*
         draft: false
         prerelease: false
-        
-    - name: Upload Markdown Asset
-      uses: actions/upload-release-asset@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./release_output/Ray_County_Zoning_Regulations_Complete.md
-        asset_name: Ray_County_Zoning_Regulations_Complete.md
-        asset_content_type: text/markdown
-        
-    - name: Upload HTML Asset
-      uses: actions/upload-release-asset@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./release_output/Ray_County_Zoning_Regulations_Complete.html
-        asset_name: Ray_County_Zoning_Regulations_Complete.html
-        asset_content_type: text/html
-        
-    - name: Upload ZIP Asset
-      uses: actions/upload-release-asset@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./release_output/Ray_County_Zoning_Regulations_${{ steps.date.outputs.date }}.zip
-        asset_name: Ray_County_Zoning_Regulations_${{ steps.date.outputs.date }}.zip
-        asset_content_type: application/zip
+        files: |
+          release_output/Ray_County_Zoning_Regulations_Complete.md
+          release_output/Ray_County_Zoning_Regulations_Complete.html
+          release_output/Ray_County_Zoning_Regulations_${{ steps.date.outputs.date }}.zip
