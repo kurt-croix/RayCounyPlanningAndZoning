@@ -392,8 +392,62 @@ The following table shows which uses are allowed in the R-3 district. For a summ
 - P = Permitted by-right
 - C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
+| Use Category | Use Type | R-3 | Notes |
+|--------------|----------|-----|-------|
+| **Residential** | | | |
+| | Duplex (2 units per structure) | P | |
+| | Group Home, Class I (General) | C | |
+| | Group Home, Class I (Limited) | P | |
+| | Group Home, Class II | C | |
+| | Group Residential | P | |
+| | House, Attached | P | Subject to 60.2H |
+| | House, Detached | P | |
+| | Multi-Unit Housing | P | Subject to 60.2Q |
+| | Retirement Housing, General | P | |
+| | Retirement Housing, Limited | P | |
+| | Transitional Housing | C | |
+| **Civic/Institutional** | | | |
+| | Cemetery | C | RSMo.214 |
+| | Community Recreation, Private | P | |
+| | Convalescent Services | C | |
+| | Day Care, Family (1-5 children/adults) | P | |
+| | Parks & Recreation | P | |
+| | Religious Assembly, standard | P | |
+| | Religious Assembly, mega | C | |
+| | Residential Treatment Facility | C | |
+| | Safety Services | P | |
+| | School, Primary | P | |
+| | School, Secondary | P | |
+| | Utility Service, Major | C | |
+| | Utility Service, Minor | P | |
+| **Commercial** | | | |
+| | Bed and Breakfast | C | Subject to 60.2K |
+| | Convenience Store | C | |
+| **Agricultural and Other Uses** | | | |
+| | Accessory Structure | P | Subject to 60.3B |
+| | Crop Production | P | |
+
 ### C. Density and Dimensional Standards
-The following standards apply to all residential and nonresidential development in the R-3 district. See the table in Section 40.16 for complete standards.
+The following standards apply to all residential and nonresidential development in the R-3 district:
+
+| Standard | Requirement |
+|----------|-------------|
+| **Minimum Lot Size** | |
+| House | 8,000 Square Feet |
+| Duplex | 12,000 Square Feet |
+| Multi-Unit | 8,000 Sq. Ft. for 1st dwelling unit + 4,300 Sq. Ft. for each add'l unit |
+| Other | 8,000 Square Feet |
+| **Minimum Lot Width** | 70 Feet |
+| **Minimum Front/Street Side Setback** | 35 Feet |
+| **Minimum Interior Side Setback** | 10 Feet |
+| **Minimum Rear Setback** | 35 Feet |
+| **Maximum Building Height** | |
+| Principal Structures | 40 Feet |
+| Accessory Structures | 20 Feet |
+| **Minimum Residential Living Area for houses and duplexes** | |
+| 1-Story | 1,000 Square Feet |
+| 2-Story | 1,400 Square Feet |
+| **Apartment** | 800 Square Feet |
 
 ## 40.9 R-MHP Residential Mobile Home Park District
 
