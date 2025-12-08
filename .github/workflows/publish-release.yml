@@ -2,7 +2,6 @@ name: Publish Ray County Zoning Regulations Release
 
 on:
   push:
-    branches: [ master, hyperlinks ]
   workflow_dispatch:
 
 permissions:
