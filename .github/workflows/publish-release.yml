@@ -372,7 +372,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         tag_name: ${{ steps.date.outputs.date }}
-        name: Ray County Zoning Regulations - ${{ steps.date.outputs.date }}
+        name: ${{ steps.date.outputs.date }}
         body: |
           # Ray County Planning & Zoning Regulations (2005)
           
